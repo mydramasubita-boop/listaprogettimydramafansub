@@ -1,330 +1,254 @@
 #EXTM3U
 
-# ===== ALTRO / CORTOMETRAGGI =====
-#EXTINF:-1 tvg-id="187cm_155cm_molabo" group-title="ALTRO" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/187cm-155cm.png",ALTRO | Cortometraggio | 187cm 155cm 몰아보기 통합본
+##### ============== ALTRO ============== #####
+
+# ALTRO • CORTOMETRAGGI
+# 187cm 155cm 몰아보기 통합본
+#EXTINF:-1 tvg-id="187cm_155cm" group-title="ALTRO" tvg-genre="Cortometraggi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/187cm-155cm.png",ALTRO | Cortometraggio | 187cm 155cm 몰아보기 통합본
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/187cm%20155cm%20%EB%AA%B0%EC%95%84%EB%B3%B4%EA%B8%B0%20%ED%86%B5%ED%95%A9%EB%B3%B8.mp4
-#EXTINF:-1 tvg-id="basketball_boys_secret" group-title="ALTRO" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Basketball-Boys-Secret.png",ALTRO | Cortometraggio | Basketball Boy's Secret
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basketball%20Boy%27s%20Secret.mp4
-#EXTINF:-1 tvg-id="blind_mind_edit" group-title="ALTRO" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",ALTRO | Cortometraggio | Blind Mind_edit
+
+# Basketball Boy's Secret
+#EXTINF:-1 tvg-id="basketball_boys_secret" group-title="ALTRO" tvg-genre="Cortometraggi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Basketball-Boys-Secret.png",ALTRO | Cortometraggio | Basketball Boy's Secret
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basketball%20Boy's%20Secret.mp4
+
+# Blind Mind
+#EXTINF:-1 tvg-id="blind_mind" group-title="ALTRO" tvg-genre="Cortometraggi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",ALTRO | Cortometraggio | Blind Mind
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind_edit.mp4
-#EXTINF:-1 tvg-id="the_invitation_short" group-title="ALTRO" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",ALTRO | Cortometraggio | The Invitation
+
+# The Invitation
+#EXTINF:-1 tvg-id="the_invitation_short" group-title="ALTRO" tvg-genre="Cortometraggi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",ALTRO | Cortometraggio | The Invitation
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/The%20Invitation.mp4
 
-# ===== ALTRO / TEASER TRAILER =====
-#EXTINF:-1 tvg-id="villainess_is_a_marionette_teaser" group-title="ALTRO" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",ALTRO | Teaser Trailer | The Villainess Is A Marionette
+# ALTRO • TEASER TRAILER
+# The Villainess Is A Marionette
+#EXTINF:-1 tvg-id="villainess_is_a_marionette_tt" group-title="ALTRO" tvg-genre="Teaser Trailer" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",ALTRO | Teaser Trailer | The Villainess Is A Marionette
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/TEASER%20TRAILER/The%20Villainess%20Is%20A%20Marionette.mp4
 
-# ===== FILM / CINA =====
-#EXTINF:-1 tvg-id="big_world_in" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Big.World.in
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big.World.in.mp4
-#EXTINF:-1 tvg-id="chinese_ghost_story_human_love_2020" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Chinese Ghost Story: Human Love (2020)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Chinese.Ghost.Story.Human.Love.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D_edit.mp4
-#EXTINF:-1 tvg-id="fall_in_love_at_first_kiss_2019" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Fall in Love at First Kiss (2019)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4
-#EXTINF:-1 tvg-id="fall_in_love_with_my_badboy" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Fall in Love with My Badboy
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall.in.Love.with.My.Badboy.mp4
-#EXTINF:-1 tvg-id="i_am_what_i_am" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | I am what i am
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20i%20am.mp4
-#EXTINF:-1 tvg-id="mr_pride_vs_miss_prejudice_china" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Mr. Pride VS Miss Prejudice
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr.%20Pride%20VS%20Miss%20Prejudice%20-%20china.mp4
-#EXTINF:-1 tvg-id="my_love_china" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | My Love
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love.mp4
-#EXTINF:-1 tvg-id="never_gone_china" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | never gone
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/never%20gone.mp4
-#EXTINF:-1 tvg-id="never_said_goodbye_china" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Never Said Goodbye
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Never%20Said%20Goodbye.mp4
-#EXTINF:-1 tvg-id="northeastern_bro" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Northeastern Bro
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Northeastern%20Bro.mp4
-#EXTINF:-1 tvg-id="once_upon_a_time_2017" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Once Upon a Time (2017)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once.Upon.a.Time.2017.720p.BluRay.x264.850MB-%5BMkvking.com%5D.mp4
-#EXTINF:-1 tvg-id="one_week_friends" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | One Week Friends
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends.mp4
-#EXTINF:-1 tvg-id="so_young_china" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | So Young
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young.mp4
-#EXTINF:-1 tvg-id="hua_mulan" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | 花木兰 Hua Mulan
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/%E8%8A%B1%E6%9C%A8%E5%85%B0%20Hua%20Mulan.mp4
 
-# ===== FILM / COREA =====
-#EXTINF:-1 tvg-id="100_giorni_con_mr_arroganza" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | 100 giorni con Mr Arroganza
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/100%20giorni%20con%20Mr%20Arroganza.mp4
-#EXTINF:-1 tvg-id="a_man_and_a_woman" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | A man and a woman
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20man%20and%20a%20woman.mp4
-#EXTINF:-1 tvg-id="a_millionaires_first_love_edit" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | A millionaires first love_edit
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20millionaires%20first%20love_edit.mp4
-#EXTINF:-1 tvg-id="a_way_station" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | A way station
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20way%20station.mp4
-#EXTINF:-1 tvg-id="a_year_end_medley" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | A Year-End Medley
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Year-End%20Medley.mp4
-#EXTINF:-1 tvg-id="a_frozen_flower" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | A Frozen Flower
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A.Frozen.Flower.mp4
-#EXTINF:-1 tvg-id="along_with_the_gods_2" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Along With the Gods 2 – The Last 49 Days
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Along.With.the.Gods.2-The.Last.49.Days.mp4
-#EXTINF:-1 tvg-id="along_with_the_gods_1" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Along With the Gods – The Two Worlds
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Along.With.the.Gods.The.Two.Worlds.mp4
-#EXTINF:-1 tvg-id="always_kor" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Always
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Always.mp4
-#EXTINF:-1 tvg-id="antique_kor" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Antique
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Antique.mp4
-#EXTINF:-1 tvg-id="bad_guy_2001" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/bad-guy-2001-kim-ki-duk.png",FILM Coreano | Bad Guy (2001)
+##### ============== FILM ============== #####
+
+# -------- FILM • COREA --------
+
+# Bad Guy (2001)
+#EXTINF:-1 tvg-id="bad_guy_2001" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/bad-guy-2001-kim-ki-duk.png",FILM Coreano | Bad Guy (2001)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Bad.Guy.2001.mp4
-#EXTINF:-1 tvg-id="burning_kor" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Burning
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Burning.mp4
-#EXTINF:-1 tvg-id="concrete_utopia" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Concrete Utopia
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Concrete%20utopia.mp4
-#EXTINF:-1 tvg-id="derailed_2016" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/derailed-2016.png",FILM Coreano | Derailed (2016)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Derailed.mp4
-#EXTINF:-1 tvg-id="empire_of_lust" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Empire of Lust
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Empire%20of%20Lust.mp4
-#EXTINF:-1 tvg-id="exhuma" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Exhuma
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Exhuma.mp4
-#EXTINF:-1 tvg-id="forbidden_fairytale" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Forbidden Fairytale
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Forbidden.Fairytale.mp4
-#EXTINF:-1 tvg-id="hard_hit" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Hard Hit
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hard%20Hit.mp4
-#EXTINF:-1 tvg-id="hear_me_our_summer_2024" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Hear Me Our Summer (2024)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hear%20Me%20Our%20Summer%202024.mp4
-#EXTINF:-1 tvg-id="hi_five_2025_sub_ita" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Hi Five (2025) sub ita
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hi%20Five%202025%20sub%20ita.mp4
-#EXTINF:-1 tvg-id="homme_fatale" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Homme Fatale
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Homme%20Fatale.mp4
-#EXTINF:-1 tvg-id="hope_2013" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Hope (2013)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hope%202013.mp4
-#EXTINF:-1 tvg-id="hot_young_bloods_2014" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Hot Young Bloods (2014)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hot.Young.Bloods.2014.mp4
-#EXTINF:-1 tvg-id="il_mare_siworae" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/Il-Mare-Siworae.png",FILM Coreano | Il Mare - Siworae
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4
-#EXTINF:-1 tvg-id="josee" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Josée
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Jos%C3%A9e.mp4
-#EXTINF:-1 tvg-id="kim_ji_young_born_1982" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Kim Ji-Young, Born 1982
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/KIM%20JI%20YOUNG%20BORN%201982.mp4
-#EXTINF:-1 tvg-id="king_and_the_clown_2005" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | King and the Clown (2005)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/King%20and%20the%20clown%20(2005).mp4
-#EXTINF:-1 tvg-id="late_autumn" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Late Autumn
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Late%20Autumn.mp4
-#EXTINF:-1 tvg-id="love_in_the_big_city" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Love in the Big City
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Love%20in%20the%20Big%20City.mp4
-#EXTINF:-1 tvg-id="love_reset" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Love Reset
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Love%20Reset.mp4
-#EXTINF:-1 tvg-id="marriage_blue" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Marriage Blue
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Marriage.Blue.mp4
-#EXTINF:-1 tvg-id="may_18" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | May 18
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/May%2018.mp4
-#EXTINF:-1 tvg-id="memories_of_the_sword" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Memories of the Sword
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Memories%20Of%20The%20Sword.mp4
-#EXTINF:-1 tvg-id="method" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Method
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Method.mp4
-#EXTINF:-1 tvg-id="midnight_runners" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Midnight Runners
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Midnight%20Runners.mp4
-#EXTINF:-1 tvg-id="my_ps_partner" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | My PS Partner
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My%20PS%20Partner.mp4
-#EXTINF:-1 tvg-id="my_annoying_brother" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | My Annoying Brother
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My.Annoying.Brother.mp4
-#EXTINF:-1 tvg-id="no_breathing_edit" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | No Breathing (edit)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/No%20Breathing_edit.mp4
-#EXTINF:-1 tvg-id="northern_limit_line" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Northern Limit Line
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Northern.Limit.Line.mp4
-#EXTINF:-1 tvg-id="on_your_wedding_day" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | On Your Wedding Day
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/On%20Your%20Wedding%20Day.mp4
-#EXTINF:-1 tvg-id="one_on_one" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | One On One
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/One%20On%20One.mp4
-#EXTINF:-1 tvg-id="pilot_2024" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Pilot (2024)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pilot.2024.mp4
-#EXTINF:-1 tvg-id="pipeline_2021" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Pipeline (2021)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pipeline-2021.mp4
-#EXTINF:-1 tvg-id="rampant" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Rampant
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rampant.mp4
-#EXTINF:-1 tvg-id="real_kor" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Real
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Real.mp4
-#EXTINF:-1 tvg-id="rebound" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Rebound
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rebound.mp4
-#EXTINF:-1 tvg-id="running_man_film" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Running Man
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Running%20man.mp4
-#EXTINF:-1 tvg-id="scarlet_innocence" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Scarlet Innocence
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Scarlet%20Innocence.mp4
-#EXTINF:-1 tvg-id="secret_untold_melody" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Secret Untold Melody
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Secret%20Untold%20Melody.mp4
-#EXTINF:-1 tvg-id="secretly_greatly_2013" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Secretly, Greatly (2013)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Secretly.Greatly.2013.720p.BluRay.x264.999MB-Pahe.in.mp4
-#EXTINF:-1 tvg-id="seobok_2021" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Seobok (2021)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Seobok.2021.mp4
-#EXTINF:-1 tvg-id="silenced_sub_ita" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Silenced (sub ita)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/silenced%20sub%20ita.mp4
-#EXTINF:-1 tvg-id="single_in_seoul" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Single in Seoul
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Single%20in%20seoul.mp4
-#EXTINF:-1 tvg-id="spirits_homecoming" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Spirits Homecoming
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Spirits%20Homecoming.mp4
-#EXTINF:-1 tvg-id="spiritwalker" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Spiritwalker
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Spiritwalker.mp4
-#EXTINF:-1 tvg-id="start_up_kor" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Start-Up
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Start.Up.mp4
-#EXTINF:-1 tvg-id="the_childe" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Childe
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/the%20childe.mp4
-#EXTINF:-1 tvg-id="the_classic" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Classic
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Classic.mp4
-#EXTINF:-1 tvg-id="the_divine_fury" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Divine Fury
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Divine%20Fury.mp4
-#EXTINF:-1 tvg-id="the_gangster_the_cop_the_devil" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Gangster, the Cop, the Devil
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Gangster%20the%20Cop%20the%20Devil.mp4
-#EXTINF:-1 tvg-id="the_girls_ghost_story" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Girl's Ghost Story
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Girl%27s%20Ghost%20Story.mp4
-#EXTINF:-1 tvg-id="the_odd_family_zombie_on_sale" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Odd Family: Zombie On Sale
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Odd%20Family%20Zombie%20On%20Sale.mp4
-#EXTINF:-1 tvg-id="the_servant_korea" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Servant
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Servant%20-%20korea.mp4
-#EXTINF:-1 tvg-id="the_suspect" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Suspect
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Suspect.mp4
-#EXTINF:-1 tvg-id="the_last_ride_2016" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Last Ride (2016)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The.Last.Ride.2016.KOREAN.720p.WEBRip.x264-%5BMkvking.net%5D.mp4
-#EXTINF:-1 tvg-id="twenty_kor" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Twenty
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Twenty.mp4
-#EXTINF:-1 tvg-id="vip_2017" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | V.I.P. (2017)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/V.I.P.%202017.mp4
-#EXTINF:-1 tvg-id="virgin_snow" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Virgin Snow
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Virgin%20Snow.mp4
-#EXTINF:-1 tvg-id="voice_of_silence" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Voice of Silence
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Voice%20of%20Silence.mp4
-#EXTINF:-1 tvg-id="wonderland_2024_sub_ita" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Wonderland (2024) sub ita
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Wonderland.2024.sub.ita.mp4
-#EXTINF:-1 tvg-id="woojoo_christmas" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Woojoo's Christmas
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Woojoo%27s%20Christmas.mp4
-#EXTINF:-1 tvg-id="yadang_the_snitch" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Yadang-The-Snitch-3.png",FILM Coreano | Yadang: The Snitch
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Yadang.The.Snitch.mp4
-#EXTINF:-1 tvg-id="youre_so_precious_to_me" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | You're So Precious to Me
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/You%27re%20So%20Precious%20to%20Me.mp4
 
-# ===== FILM / GIAPPONE =====
-#EXTINF:-1 tvg-id="ajin_demi_human" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Ajin: Demi-Human
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ajin.Demi-Human.mp4
-#EXTINF:-1 tvg-id="bl_metamorphosis" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | BL Metamorphosis
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/BL%20Metamorphosis.mp4
-#EXTINF:-1 tvg-id="boku_wa_imouto" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Boku wa Imouto ni Koi wo Suru
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Boku_wa_Imouto_ni_Koi_wo_Suru.mp4
-#EXTINF:-1 tvg-id="even_if_this_love_disappears" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Even If This Love Disappears from the World Tonight
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Even.If.This.Love.Disappears.from.the.World.Tonight.mp4
-#EXTINF:-1 tvg-id="haganai" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Haganai
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Haganai.mp4
-#EXTINF:-1 tvg-id="hana_yori_dango_final" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Hana Yori Dango Final
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Hana%20Yori%20Dango%20Final%20film%20sub%20ita.mp4
-#EXTINF:-1 tvg-id="honey_jp" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Honey
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Honey.mp4
-#EXTINF:-1 tvg-id="insomniacs_after_school" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Insomniacs After School
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Insomniacs.after.school.mp4
-#EXTINF:-1 tvg-id="inuyashiki" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Inuyashiki
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Inuyashiki.mp4
-#EXTINF:-1 tvg-id="karakai_jouzu_no_takagi_san" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Karakai Jouzu no Takagi-san
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Karakai.Jouzu.no.Takagi.san.mp4
-#EXTINF:-1 tvg-id="lock_on_love_2018" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Lock-On Love (2018)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Lock-On.Love.2018.mp4
-#EXTINF:-1 tvg-id="marmalade_boy" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Marmalade Boy
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Marmalade%20Boy.mp4
-#EXTINF:-1 tvg-id="my_brother_loves_me_too_much" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | My Brother Loves Me Too Much
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/My%20Brother%20Loves%20Me%20Too%20Much.mp4
-#EXTINF:-1 tvg-id="my_happy_marriage_film" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | My Happy Marriage (film)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/My%20happy%20marriage%20film.mp4
-#EXTINF:-1 tvg-id="nagisa_ni_saku_hana_edit" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Nagisa ni Saku Hana (edit)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Nagisa%20ni%20Saku%20Hana_edit.mp4
-#EXTINF:-1 tvg-id="no_call_no_life" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | No Call No Life
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/no%20call%20no%20life.mp4
-#EXTINF:-1 tvg-id="parasyte_parte_1_2014" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Parasyte-kiseiju-1.png",FILM Giapponese | Parasyte: Parte 1 (2014)
+# Derailed (2016)
+#EXTINF:-1 tvg-id="derailed_2016" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/derailed-2016.png",FILM Coreano | Derailed (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Derailed.mp4
+
+# Il Mare – Siworae (2000)
+#EXTINF:-1 tvg-id="il_mare_2000" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/Il-Mare-Siworae.png",FILM Coreano | Il Mare – Siworae (2000)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4
+
+# Marriage Blue (2013)
+#EXTINF:-1 tvg-id="marriage_blue_2013" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/marriage-blue.png",FILM Coreano | Marriage Blue (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Marriage.Blue.mp4
+
+# Start-Up (2019)
+#EXTINF:-1 tvg-id="start_up_2019" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/start-up-1.png",FILM Coreano | Start-Up (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Start.Up.mp4
+
+# My Annoying Brother (2016)
+#EXTINF:-1 tvg-id="my_annoying_brother_2016" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/My-Annoying-Brother.png",FILM Coreano | My Annoying Brother (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My.Annoying.Brother.mp4
+
+# Seobok (2021)
+#EXTINF:-1 tvg-id="seobok_2021" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Seobok (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Seobok.2021.mp4
+
+# Silenced (sub ita)
+#EXTINF:-1 tvg-id="silenced_subita" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Silenced (sub ita)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/silenced%20sub%20ita.mp4
+
+# Single in Seoul
+#EXTINF:-1 tvg-id="single_in_seoul" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Single in Seoul
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Single%20in%20seoul.mp4
+
+# Start-Up (già sopra) — altri coreani principali:
+# The Divine Fury
+#EXTINF:-1 tvg-id="the_divine_fury" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Divine Fury
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Divine%20Fury.mp4
+
+# The Gangster, the Cop, the Devil
+#EXTINF:-1 tvg-id="gangster_cop_devil" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Gangster the Cop the Devil
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Gangster%20the%20Cop%20the%20Devil.mp4
+
+# The Girl's Ghost Story
+#EXTINF:-1 tvg-id="girls_ghost_story" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Girl's Ghost Story
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Girl's%20Ghost%20Story.mp4
+
+# The Odd Family: Zombie On Sale
+#EXTINF:-1 tvg-id="odd_family_zombie_on_sale" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Odd Family Zombie On Sale
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Odd%20Family%20Zombie%20On%20Sale.mp4
+
+# The Servant
+#EXTINF:-1 tvg-id="the_servant" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Servant
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Servant%20-%20korea.mp4
+
+# The Last Ride (2016)
+#EXTINF:-1 tvg-id="the_last_ride_2016" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | The Last Ride (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The.Last.Ride.2016.KOREAN.720p.WEBRip.x264-%5BMkvking.net%5D.mp4
+
+# Twenty
+#EXTINF:-1 tvg-id="twenty" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Twenty
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Twenty.mp4
+
+# V.I.P. (2017)
+#EXTINF:-1 tvg-id="vip_2017" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | V.I.P. (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/V.I.P.%202017.mp4
+
+# Virgin Snow
+#EXTINF:-1 tvg-id="virgin_snow" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Virgin Snow
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Virgin%20Snow.mp4
+
+# Voice of Silence
+#EXTINF:-1 tvg-id="voice_of_silence" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Voice of Silence
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Voice%20of%20Silence.mp4
+
+# Wonderland (2024)
+#EXTINF:-1 tvg-id="wonderland_2024" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Wonderland (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Wonderland.2024.sub.ita.mp4
+
+# Woojoo's Christmas
+#EXTINF:-1 tvg-id="woojoo_christmas" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Coreano | Woojoo's Christmas
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Woojoo's%20Christmas.mp4
+
+# Yadang: The Snitch (2025)
+#EXTINF:-1 tvg-id="yadang_the_snitch_2025" group-title="FILM" tvg-genre="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Yadang-The-Snitch-3.png",FILM Coreano | Yadang: The Snitch (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Yadang.The.Snitch.mp4
+
+
+# -------- FILM • GIAPPONE --------
+
+# Parasyte: Parte 1 (2014)
+#EXTINF:-1 tvg-id="parasyte_2014" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-kiseiju.png",FILM Giapponese | Parasyte: Parte 1 (2014)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%201.mp4
-#EXTINF:-1 tvg-id="parasyte_parte_2_2015" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Parasyte-kiseiju-2.png",FILM Giapponese | Parasyte: Parte 2 (2015)
+
+# Parasyte: Parte 2 (2015)
+#EXTINF:-1 tvg-id="parasyte_2015" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Parasyte-kiseiju-2.png",FILM Giapponese | Parasyte: Parte 2 (2015)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%202.mp4
-#EXTINF:-1 tvg-id="perfect_world_japan_film" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Perfect World (film)
+
+# Ajin: Demi-Human
+#EXTINF:-1 tvg-id="ajin_demi_human" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Ajin: Demi-Human
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ajin.Demi-Human.mp4
+
+# Even If This Love Disappears from the World Tonight
+#EXTINF:-1 tvg-id="even_if_this_love_disappears" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Even If This Love Disappears from the World Tonight
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Even.If.This.Love.Disappears.from.the.World.Tonight.mp4
+
+# Insomniacs After School
+#EXTINF:-1 tvg-id="insomniacs_after_school" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Insomniacs After School
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Insomniacs.after.school.mp4
+
+# Lock-On Love (2018)
+#EXTINF:-1 tvg-id="lock_on_love_2018" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Lock-On Love (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Lock-On.Love.2018.mp4
+
+# Perfect World - Japan
+#EXTINF:-1 tvg-id="perfect_world_japan_film" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Perfect World - Japan
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Perfect%20World%20-%20japan.mp4
-#EXTINF:-1 tvg-id="shigatsu_ni_nareba_kanojo_wa" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Shigatsu ni Nareba Kanojo wa
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Shigatsu%20ni%20Nareba%20Kanojo%20wa.mp4
-#EXTINF:-1 tvg-id="the_black_devil_and_the_white_prince" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | The Black Devil and the White Prince
+
+# The Black Devil and the White Prince
+#EXTINF:-1 tvg-id="black_devil_white_prince" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | The Black Devil and the White Prince
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/The%20Black%20Devil%20and%20the%20White%20Prince.mp4
-#EXTINF:-1 tvg-id="the_lines_that_define_me" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | The Lines That Define Me
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/The%20Lines%20That%20Define%20Me.mp4
-#EXTINF:-1 tvg-id="till_we_meet_again_on_the_lily_hill_2023" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Till We Meet Again on the Lily Hill (2023)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Till%20We%20Meet%20Again%20on%20the%20Lily%20Hill%20(2023).mp4
-#EXTINF:-1 tvg-id="tokyo_revengers_2_bloody_halloween_1" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Tokyo Revengers 2 – Bloody Halloween 1: Destiny
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%202%20Bloody%20Halloween%201%20-%20Destiny.mp4
-#EXTINF:-1 tvg-id="tokyo_revengers_2_bloody_halloween_2" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Tokyo Revengers 2 – Bloody Halloween 2: Decisive Battle
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%202%20Bloody%20Halloween%202%20-%20decisive%20battle.mp4
-#EXTINF:-1 tvg-id="tokyo_revengers_film" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Tokyo Revengers
+
+# Tokyo Revengers (film 1)
+#EXTINF:-1 tvg-id="tokyo_revengers_1" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Tokyo Revengers
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers.mp4
-#EXTINF:-1 tvg-id="usagi_drop_film" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Usagi Drop
+
+# Tokyo Revengers 2: Halloween 1 - Destiny
+#EXTINF:-1 tvg-id="tokyo_revengers2_destiny" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Tokyo Revengers 2 Bloody Halloween 1 - Destiny
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%202%20Bloody%20Halloween%201%20-%20Destiny.mp4
+
+# Tokyo Revengers 2: Halloween 2 - decisive battle
+#EXTINF:-1 tvg-id="tokyo_revengers2_decisive" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Tokyo Revengers 2 Bloody Halloween 2 - decisive battle
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%202%20Bloody%20Halloween%202%20-%20decisive%20battle.mp4
+
+# Usagi Drop
+#EXTINF:-1 tvg-id="usagi_drop" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Usagi Drop
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Usagi%20Drop.mp4
-#EXTINF:-1 tvg-id="wolf_girl_and_black_prince_film" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Wolf Girl and Black Prince
+
+# Wolf Girl and Black Prince
+#EXTINF:-1 tvg-id="wolf_girl_black_prince" group-title="FILM" tvg-genre="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Giapponese | Wolf Girl And Black Prince
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Wolf%20Girl%20And%20Black%20Prince.mp4
 
-# ===== FILM / HONG KONG =====
-#EXTINF:-1 tvg-id="better_days" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Hong Kong | Better Days
+
+# -------- FILM • HONG KONG --------
+# Better Days
+#EXTINF:-1 tvg-id="better_days" group-title="FILM" tvg-genre="Hong Kong" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Hong Kong | Better Days
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Better%20Days.mp4
-#EXTINF:-1 tvg-id="ex_hong_kong" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Hong Kong | Ex
+
+# Ex
+#EXTINF:-1 tvg-id="ex_hk" group-title="FILM" tvg-genre="Hong Kong" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Hong Kong | Ex
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Ex%20-%20hong%20kong.mp4
 
-# ===== FILM / TAIWAN =====
-#EXTINF:-1 tvg-id="say_yes_again_taiwan" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Taiwan | Say Yes Again
+
+# -------- FILM • TAIWAN --------
+# Say Yes Again
+#EXTINF:-1 tvg-id="say_yes_again_taiwan" group-title="FILM" tvg-genre="Taiwan" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Taiwan | Say Yes Again
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20yes%20again%20-%20taiwan.mp4
 
-# ===== FILM / THAILANDIA =====
-#EXTINF:-1 tvg-id="ai_love_you_thailand" group-title="FILM" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Thailandia | AI Love You
+
+# -------- FILM • THAILANDIA --------
+# AI Love You
+#EXTINF:-1 tvg-id="ai_love_you_thailand" group-title="FILM" tvg-genre="Thailandia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Thailandia | AI Love You
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/AI%20Love%20You%20-%20thailand.mp4
 
-# ===== MINI E WEB DRAMA / COREA =====
-#EXTINF:-1 tvg-id="handmade_love" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Handmade-Love-3.png",MINI E WEB DRAMA Coreano | Handmade Love - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Handmade%20Love/Handmade.Love.E01.mp4
-#EXTINF:-1 tvg-id="handmade_love" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Handmade-Love-3.png",MINI E WEB DRAMA Coreano | Handmade Love - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Handmade%20Love/Handmade.Love.E02.mp4
 
-#EXTINF:-1 tvg-id="office_romance_recipe" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Office-Romance-Recipe-3.png",MINI E WEB DRAMA Coreano | Office Romance Recipe - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/office%20romance%20recipe/Office%20Romance%20Recipe%20Ep.01%20_The%20Magic%20Book_.mp4
-#EXTINF:-1 tvg-id="office_romance_recipe" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Office-Romance-Recipe-3.png",MINI E WEB DRAMA Coreano | Office Romance Recipe - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/office%20romance%20recipe/Office%20Romance%20Recipe%20Ep.02%20_The%20Love%20Triangle_.mp4
-#EXTINF:-1 tvg-id="office_romance_recipe" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Office-Romance-Recipe-3.png",MINI E WEB DRAMA Coreano | Office Romance Recipe - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/office%20romance%20recipe/Office%20Romance%20Recipe%20Ep.03%20_The%20Gift_.mp4
-#EXTINF:-1 tvg-id="office_romance_recipe" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Office-Romance-Recipe-3.png",MINI E WEB DRAMA Coreano | Office Romance Recipe - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/office%20romance%20recipe/Office%20Romance%20Recipe%20Ep.04%20_Real%20Food_Real_Love.mp4
+# -------- FILM • CINA (selezione dallo screenshot) --------
+# Big World in
+#EXTINF:-1 tvg-id="big_world_in" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Big World in
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big.World.in.mp4
 
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%201.mp4
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%202.mp4
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%203.mp4
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%204.mp4
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%205.mp4
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%206.mp4
-#EXTINF:-1 tvg-id="playful_kiss_2_diary" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-2-Diary-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 2 Diary - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playful%20Kiss%202%20diary/Naughty%20Kiss%20Seung%20Jo%27s%20Diary%207.mp4
+# Chinese Ghost Story Human Love (2020)
+#EXTINF:-1 tvg-id="chinese_ghost_story_2020" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Chinese Ghost Story Human Love (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Chinese.Ghost.Story.Human.Love.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D_edit.mp4
 
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%201.mp4
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%202.mp4
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%203.mp4
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%204.mp4
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%205.mp4
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%206.mp4
-#EXTINF:-1 tvg-id="playful_kiss_3_youtube" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Playful-Kiss-3-Youtube-3.png",MINI E WEB DRAMA Coreano | Playful Kiss 3 Youtube - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss/Playfull%20Kiss%203%20youtube/Playful%20Kiss%20youtube%207.mp4
+# Fall in Love at First Kiss (2019)
+#EXTINF:-1 tvg-id="fall_in_love_at_first_kiss_2019" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Fall in Love at First Kiss (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4
 
-#EXTINF:-1 tvg-id="queen_of_the_ring" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Queen-of-the-Ring-3.png",MINI E WEB DRAMA Coreano | Queen of the Ring - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/queen%20of%20the%20ring/Queen%20of%20the%20Ring%2001.mp4
-#EXTINF:-1 tvg-id="queen_of_the_ring" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Queen-of-the-Ring-3.png",MINI E WEB DRAMA Coreano | Queen of the Ring - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/queen%20of%20the%20ring/Queen%20of%20the%20Ring%2002.mp4
-#EXTINF:-1 tvg-id="queen_of_the_ring" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Queen-of-the-Ring-3.png",MINI E WEB DRAMA Coreano | Queen of the Ring - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/queen%20of%20the%20ring/Queen%20of%20the%20Ring%2003.mp4
+# Fall in Love with My Badboy
+#EXTINF:-1 tvg-id="fall_in_love_with_my_badboy" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Fall in Love with My Badboy
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall.in.Love.with.My.Badboy.mp4
 
-#EXTINF:-1 tvg-id="soul_plate" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Soul-Plate-3.png",MINI E WEB DRAMA Coreano | SOUL PLATE - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/SOUL%20PLATE/SOUL%20PLATE%2001.mp4
-#EXTINF:-1 tvg-id="soul_plate" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Soul-Plate-3.png",MINI E WEB DRAMA Coreano | SOUL PLATE - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/SOUL%20PLATE/SOUL%20PLATE%2002.mp4
-#EXTINF:-1 tvg-id="soul_plate" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Soul-Plate-3.png",MINI E WEB DRAMA Coreano | SOUL PLATE - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/SOUL%20PLATE/SOUL%20PLATE%2003.mp4
-#EXTINF:-1 tvg-id="soul_plate" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Soul-Plate-3.png",MINI E WEB DRAMA Coreano | SOUL PLATE - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/SOUL%20PLATE/SOUL%20PLATE%2004.mp4
-#EXTINF:-1 tvg-id="soul_plate" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Soul-Plate-3.png",MINI E WEB DRAMA Coreano | SOUL PLATE - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/SOUL%20PLATE/SOUL%20PLATE%2005.mp4
-#EXTINF:-1 tvg-id="soul_plate" group-title="MINI E WEB DRAMA" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Soul-Plate-3.png",MINI E WEB DRAMA Coreano | SOUL PLATE - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/SOUL%20PLATE/SOUL%20PLATE%2006.mp4
+# I am what I am
+#EXTINF:-1 tvg-id="i_am_what_i_am" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | I am what I am
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20i%20am.mp4
+
+# Mr. Pride VS Miss Prejudice
+#EXTINF:-1 tvg-id="mr_pride_vs_miss_prejudice" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Mr. Pride VS Miss Prejudice
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr.%20Pride%20VS%20Miss%20Prejudice%20-%20china.mp4
+
+# My Love
+#EXTINF:-1 tvg-id="my_love_china" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | My Love
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love.mp4
+
+# never gone
+#EXTINF:-1 tvg-id="never_gone" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | never gone
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/never%20gone.mp4
+
+# Never Said Goodbye
+#EXTINF:-1 tvg-id="never_said_goodbye" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Never Said Goodbye
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Never%20Said%20Goodbye.mp4
+
+# Northeastern Bro
+#EXTINF:-1 tvg-id="northeastern_bro" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Northeastern Bro
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Northeastern%20Bro.mp4
+
+# Once Upon a Time (2017)
+#EXTINF:-1 tvg-id="once_upon_a_time_2017" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | Once Upon a Time (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once.Upon.a.Time.2017.720p.BluRay.x264.850MB-%5BMkvking.com%5D.mp4
+
+# One Week Friends
+#EXTINF:-1 tvg-id="one_week_friends" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | One Week Friends
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends.mp4
+
+# So Young
+#EXTINF:-1 tvg-id="so_young" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | So Young
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young.mp4
+
+# 花木兰 Hua Mulan
+#EXTINF:-1 tvg-id="hua_mulan" group-title="FILM" tvg-genre="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-2.png",FILM Cinese | 花木兰 Hua Mulan
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/%E8%8A%B1%E6%9C%A8%E5%85%B0%20Hua%20Mulan.mp4
