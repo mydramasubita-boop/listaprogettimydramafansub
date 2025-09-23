@@ -1,407 +1,901 @@
 #EXTM3U
 
-##########
-# ALTRO  #
-##########
+####################################################
+#  LISTA M3U – MyDrama (versione normalizzata)
+#  - group-title/tvg-id/tvg-country/tvg-logo uniformati
+#  - country standard: "Corea"
+#  - apostrofo URL -> %27 dove necessario
+####################################################
 
-#EXTINF:-1 tvg-id="187cm_155cm" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/short-film.png",ALTRO | 187cm 155cm 몰아보기 통합본
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/187cm%20155cm%20%EB%AA%B0%EC%95%84%EB%B3%B4%EA%B8%B0%20%ED%86%B5%ED%95%A9%EB%B3%B8.mp4
-
-#EXTINF:-1 tvg-id="basketball_boys_secret" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/basketball-boys-secret.png",ALTRO | Basketball Boy's Secret
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basketball%20Boy%27s%20Secret.mp4
-
-#EXTINF:-1 tvg-id="blind_mind" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/blind-mind.png",ALTRO | Blind Mind
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind_edit.mp4
-
-#EXTINF:-1 tvg-id="the_invitation_short" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/the-invitation-short.png",ALTRO | The Invitation
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/The%20Invitation.mp4
-
-#EXTINF:-1 tvg-id="villainess_is_a_marionette_trailer" group-title="ALTRO" tvg-country="Corea" tvg-genre="Teaser Trailer" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/villainess-is-a-marionette.png",ALTRO | The Villainess Is A Marionette (Teaser Trailer)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/TEASER%20TRAILER/The%20Villainess%20Is%20A%20Marionette.mp4
-
-
-########
-# FILM #
-########
-
-## CINA
-#EXTINF:-1 tvg-id="big_world_in" group-title="FILM" tvg-country="Cina" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/big-world-in.png",FILM Cinese | Big World In
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big.World.in.mp4
-
-#EXTINF:-1 tvg-id="chinese_ghost_story_2020" group-title="FILM" tvg-country="Cina" tvg-genre="Fantasy • Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/chinese-ghost-story-2020.png",FILM Cinese | Chinese Ghost Story: Human Love (2020)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Chinese.Ghost.Story.Human.Love.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D_edit.mp4
-
-#EXTINF:-1 tvg-id="fall_in_love_at_first_kiss_2019" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/fall-in-love-at-first-kiss-2019.png",FILM Cinese | Fall in Love at First Kiss (2019)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4
-
-#EXTINF:-1 tvg-id="fall_in_love_with_my_badboy" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/fall-in-love-with-my-badboy.png",FILM Cinese | Fall in Love with My Badboy
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall.in.Love.with.My.Badboy.mp4
-
-#EXTINF:-1 tvg-id="i_am_what_i_am" group-title="FILM" tvg-country="Cina" tvg-genre="Animazione • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/i-am-what-i-am.png",FILM Cinese | I Am What I Am
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20i%20am.mp4
-
-#EXTINF:-1 tvg-id="mr_pride_vs_miss_prejudice" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/mr-pride-vs-miss-prejudice.png",FILM Cinese | Mr. Pride vs Miss Prejudice
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr.%20Pride%20VS%20Miss%20Prejudice%20-%20china.mp4
-
-#EXTINF:-1 tvg-id="my_love_cn" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/my-love-cn.png",FILM Cinese | My Love
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love.mp4
-
-#EXTINF:-1 tvg-id="never_gone" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/never-gone.png",FILM Cinese | Never Gone
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/never%20gone.mp4
-
-#EXTINF:-1 tvg-id="never_said_goodbye" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/never-said-goodbye.png",FILM Cinese | Never Said Goodbye
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Never%20Said%20Goodbye.mp4
-
-#EXTINF:-1 tvg-id="northeastern_bro" group-title="FILM" tvg-country="Cina" tvg-genre="Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/northeastern-bro.png",FILM Cinese | Northeastern Bro
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Northeastern%20Bro.mp4
-
-#EXTINF:-1 tvg-id="once_upon_a_time_2017" group-title="FILM" tvg-country="Cina" tvg-genre="Fantasy • Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/once-upon-a-time-2017.png",FILM Cinese | Once Upon a Time (2017)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once.Upon.a.Time.2017.720p.BluRay.x264.850MB-%5BMkvking.com%5D.mp4
-
-#EXTINF:-1 tvg-id="one_week_friends" group-title="FILM" tvg-country="Cina" tvg-genre="Drammatico • Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/one-week-friends.png",FILM Cinese | One Week Friends
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends.mp4
-
-#EXTINF:-1 tvg-id="so_young" group-title="FILM" tvg-country="Cina" tvg-genre="Drammatico • Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/so-young.png",FILM Cinese | So Young
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young.mp4
-
-#EXTINF:-1 tvg-id="hua_mulan" group-title="FILM" tvg-country="Cina" tvg-genre="Storico • Azione" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/hua-mulan.png",FILM Cinese | 花木兰 Hua Mulan
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/%E8%8A%B1%E6%9C%A8%E5%85%B0%20Hua%20Mulan.mp4
-
-## COREA
-#EXTINF:-1 tvg-id="bad_guy_2001" group-title="FILM" tvg-country="Corea" tvg-genre="18+ • Drammatico • Violenza" tvg-actors="Jo Jae-hyun • Seo Won • Kim Yoon-tae • Choi Deok-moon • Kim Jung-young • Namkoong Min" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/bad-guy-2001-kim-ki-duk.png",FILM Coreano | Bad Guy (2001)
+# Bad Guy (2001)
+#EXTINF:-1 tvg-id="bad_guy_2001" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Drammatico, Violenza" tvg-actors="Cho Jae-hyun; Seo Won; Kim Yun-tae" tvg-description="Un protettore trascina nel suo mondo una studentessa incontrata per caso, dando inizio a un rapporto controverso e distruttivo firmato Kim Ki-duk." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/bad-guy-2001-kim-ki-duk.png",FILM Coreano | Bad Guy (2001)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Bad.Guy.2001.mp4
 
-#EXTINF:-1 tvg-id="derailed_2016" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Crime • Drammatico" tvg-actors="Choi Min-ho • Jung Da-eun • Kim Jae-yeong • Kim Won-shik • Lee Yoo-jin • Ma Dong-seok" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/derailed-2016.png",FILM Coreano | Derailed (2016)
+# Derailed (2016)
+#EXTINF:-1 tvg-id="derailed_2016" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Azione, Crime, Drammatico" tvg-actors="Choi Min-ho; Jung Da-eun; Kim Jae-yeong; Kim Won-shik; Lee Yoo-jin; Ma Dong-seok" tvg-description="Quattro adolescenti scappati di casa si scontrano con un crudele proprietario di locale: per sopravvivere dovranno spingersi oltre i limiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/derailed-2016.png",FILM Coreano | Derailed (2016)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Derailed.mp4
 
-#EXTINF:-1 tvg-id="il_mare_2000" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Fantasy" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/il-mare-siworae.png",FILM Coreano | Il Mare – Siworae (2000)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4
+# Exhuma (2024)
+#EXTINF:-1 tvg-id="exhuma_2024" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Horror, Mistero, Soprannaturale, Thriller" tvg-actors="Kim Go-eun; Choi Min-sik; Yoo Hae-jin; Lee Do-hyun" tvg-description="Due sciamani, un imbalsamatore e un geomante profanano una tomba maledetta per spezzare una catena di sciagure familiari: ciò che liberano è peggio di quanto temevano." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/exhuma.png",FILM Coreano | Exhuma (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Exhuma.mp4
 
-#EXTINF:-1 tvg-id="empire_of_lust" group-title="FILM" tvg-country="Corea" tvg-genre="Storico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/empire-of-lust.png",FILM Coreano | Empire of Lust
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Empire%20of%20Lust.mp4
+# Concrete Utopia (2023)
+#EXTINF:-1 tvg-id="concrete_utopia_2023" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="16+, Azione, Thriller, Catastrofico, Drammatico" tvg-actors="Lee Byung-hun; Park Seo-joon; Park Bo-young; Kim Sun-young; Kim Do-yoon" tvg-description="Seoul è rasa al suolo da un terremoto: nell’unico condominio rimasto in piedi scatta la lotta per le risorse e il potere." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/concrete-utopia-3.png",FILM Coreano | Concrete Utopia (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Concrete%20utopia.mp4
 
-#EXTINF:-1 tvg-id="forbidden_fairytale" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/forbidden-fairytale.png",FILM Coreano | Forbidden Fairytale
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Forbidden.Fairytale.mp4
-
-#EXTINF:-1 tvg-id="hard_hit" group-title="FILM" tvg-country="Corea" tvg-genre="Thriller • Azione" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/hard-hit.png",FILM Coreano | Hard Hit
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hard%20Hit.mp4
-
-#EXTINF:-1 tvg-id="hi_five_2025" group-title="FILM" tvg-country="Corea" tvg-genre="Commedia • Fantasy" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/hi-five-2025.png",FILM Coreano | Hi Five (2025)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hi%20Five%202025%20sub%20ita.mp4
-
-#EXTINF:-1 tvg-id="midnight_runners" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/midnight-runners.png",FILM Coreano | Midnight Runners
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Midnight%20Runners.mp4
-
-#EXTINF:-1 tvg-id="my_ps_partner" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/my-ps-partner.png",FILM Coreano | My PS Partner
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My%20PS%20Partner.mp4
-
-#EXTINF:-1 tvg-id="no_breathing" group-title="FILM" tvg-country="Corea" tvg-genre="Sport • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/no-breathing.png",FILM Coreano | No Breathing
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/No%20Breathing_edit.mp4
-
-#EXTINF:-1 tvg-id="on_your_wedding_day" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/on-your-wedding-day.png",FILM Coreano | On Your Wedding Day
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/On%20Your%20Wedding%20Day.mp4
-
-#EXTINF:-1 tvg-id="pilot_2024" group-title="FILM" tvg-country="Corea" tvg-genre="Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/pilot-2024.png",FILM Coreano | Pilot (2024)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pilot.2024.mp4
-
-#EXTINF:-1 tvg-id="pipeline_2021" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Crime" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/pipeline-2021.png",FILM Coreano | Pipeline (2021)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pipeline-2021.mp4
-
-#EXTINF:-1 tvg-id="rampant" group-title="FILM" tvg-country="Corea" tvg-genre="Storico • Azione • Horror" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rampant.png",FILM Coreano | Rampant
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rampant.mp4
-
-#EXTINF:-1 tvg-id="rebound" group-title="FILM" tvg-country="Corea" tvg-genre="Sport • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rebound.png",FILM Coreano | Rebound
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rebound.mp4
-
-#EXTINF:-1 tvg-id="scarlet_innocence" group-title="FILM" tvg-country="Corea" tvg-genre="Thriller • Melodramma" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/scarlet-innocence.png",FILM Coreano | Scarlet Innocence
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Scarlet%20Innocence.mp4
-
-#EXTINF:-1 tvg-id="seobok_2021" group-title="FILM" tvg-country="Corea" tvg-genre="Sci-Fi • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/seobok-2021.png",FILM Coreano | Seobok (2021)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Seobok.2021.mp4
-
-#EXTINF:-1 tvg-id="single_in_seoul" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/single-in-seoul.png",FILM Coreano | Single in Seoul
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Single%20in%20seoul.mp4
-
-#EXTINF:-1 tvg-id="spiritwalker" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Thriller • Sci-Fi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/spiritwalker.png",FILM Coreano | Spiritwalker
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Spiritwalker.mp4
-
-#EXTINF:-1 tvg-id="start_up" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/start-up.png",FILM Coreano | Start-Up
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Start.Up.mp4
-
-#EXTINF:-1 tvg-id="the_childe" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Thriller" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-childe.png",FILM Coreano | The Childe
+# The Childe (2023)
+#EXTINF:-1 tvg-id="the_childe_2023" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Azione, Crime, Thriller" tvg-actors="Kim Seon-ho; Kang Tae-ju; Kim Kang-woo" tvg-description="Un pugile filippino-coreano diventa la preda di assassini e uomini d’affari dopo essere tornato a cercare il padre in Corea." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/the-childe-3.png",FILM Coreano | The Childe (2023)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/the%20childe.mp4
 
-#EXTINF:-1 tvg-id="the_divine_fury" group-title="FILM" tvg-country="Corea" tvg-genre="Horror • Azione" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-divine-fury.png",FILM Coreano | The Divine Fury
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Divine%20Fury.mp4
-
-#EXTINF:-1 tvg-id="gangster_cop_devil" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Crime" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/gangster-cop-devil.png",FILM Coreano | The Gangster, The Cop, The Devil
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Gangster%20the%20Cop%20the%20Devil.mp4
-
-#EXTINF:-1 tvg-id="the_girls_ghost_story" group-title="FILM" tvg-country="Corea" tvg-genre="Horror" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-girls-ghost-story.png",FILM Coreano | The Girl's Ghost Story
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Girl%27s%20Ghost%20Story.mp4
-
-#EXTINF:-1 tvg-id="the_odd_family_zombie_on_sale" group-title="FILM" tvg-country="Corea" tvg-genre="Horror • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/odd-family-zombie-on-sale.png",FILM Coreano | The Odd Family: Zombie on Sale
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Odd%20Family%20Zombie%20On%20Sale.mp4
-
-#EXTINF:-1 tvg-id="the_servant_kor" group-title="FILM" tvg-country="Corea" tvg-genre="Storico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-servant.png",FILM Coreano | The Servant
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Servant%20-%20korea.mp4
-
-#EXTINF:-1 tvg-id="the_suspect" group-title="FILM" tvg-country="Corea" tvg-genre="Azione • Thriller" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-suspect.png",FILM Coreano | The Suspect
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Suspect.mp4
-
-#EXTINF:-1 tvg-id="the_last_ride_2016" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-last-ride-2016.png",FILM Coreano | The Last Ride (2016)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The.Last.Ride.2016.KOREAN.720p.WEBRip.x264-%5BMvkking.net%5D.mp4
-
-#EXTINF:-1 tvg-id="twenty" group-title="FILM" tvg-country="Corea" tvg-genre="Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/twenty.png",FILM Coreano | Twenty
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Twenty.mp4
-
-#EXTINF:-1 tvg-id="vip_2017" group-title="FILM" tvg-country="Corea" tvg-genre="Thriller • Crime" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/vip-2017.png",FILM Coreano | V.I.P. (2017)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/V.I.P.%202017.mp4
-
-#EXTINF:-1 tvg-id="voice_of_silence" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico • Crime" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/voice-of-silence.png",FILM Coreano | Voice of Silence
+# Voice of Silence (2020)
+#EXTINF:-1 tvg-id="voice_of_silence_2020" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="16+, Crime, Drammatico, Nero" tvg-actors="Yoo Ah-in; Yoo Jae-myung; Moon Seung-a" tvg-description="Due ‘pulitori’ per la mafia devono occuparsi di una bambina rapita quando un lavoro va storto, mettendo in crisi la loro moralità." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/voice-of-silence-3.png",FILM Coreano | Voice of Silence (2020)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Voice%20of%20Silence.mp4
 
-#EXTINF:-1 tvg-id="wonderland_2024" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico • Sci-Fi • Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/wonderland-2024.png",FILM Coreano | Wonderland (2024)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Wonderland.2024.sub.ita.mp4
+# Real (2017)
+#EXTINF:-1 tvg-id="real_2017" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Azione, Crime, Noir" tvg-actors="Kim Soo-hyun; Sulli; Sung Dong-il" tvg-description="Un fixer con il sogno di aprire il più grande casinò della città si scontra con un doppelgänger che mette in discussione identità e realtà." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/real-3.png",FILM Coreano | Real (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Real.mp4
 
-#EXTINF:-1 tvg-id="woojoo_christmas" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/woojoo-christmas.png",FILM Coreano | Woojoo’s Christmas
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Woojoo%27s%20Christmas.mp4
+# One on One / Rebound (2023)
+#EXTINF:-1 tvg-id="rebound_2023" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Sport, Ispirazionale, Drammatico" tvg-actors="Ahn Jae-hong; Lee Shin-young; Jung Jin-woon" tvg-description="La vera storia di un coach che ricostruisce una squadra liceale di basket destinata al fallimento e tenta un’incredibile rimonta." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/rebound-3.png",FILM Coreano | Rebound (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rebound.mp4
 
-#EXTINF:-1 tvg-id="yadang_the_snitch" group-title="FILM" tvg-country="Corea" tvg-genre="Crime • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/yadang-the-snitch.png",FILM Coreano | Yadang: The Snitch
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Yadang.The.Snitch.mp4
+# May 18 (2007)
+#EXTINF:-1 tvg-id="may18_2007" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="16+, Storico, Drammatico" tvg-actors="Kim Sang-kyung; Lee Jun-ki; Lee Yo-won" tvg-description="Gwangju, 1980: l’insurrezione democratica vista attraverso gli occhi di cittadini comuni colpiti dalla repressione militare." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/may-18-3.png",FILM Coreano | May 18 (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/May%2018.mp4
 
-#EXTINF:-1 tvg-id="youre_so_precious_to_me_2021" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico • Famiglia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/youre-so-precious-to-me.png",FILM Coreano | You’re So Precious to Me (2021)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/You%27re%20So%20Precious%20to%20Me.mp4
+# V.I.P. (2017)
+#EXTINF:-1 tvg-id="vip_2017" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Crime, Thriller, Spionaggio" tvg-actors="Jang Dong-gun; Kim Myung-min; Park Hee-soon; Lee Jong-suk" tvg-description="Agenti di tre nazioni si contendono la cattura di un serial killer nordcoreano protetto come ‘V.I.P.’ dai servizi segreti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/vip-3.png",FILM Coreano | V.I.P. (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/V.I.P.%202017.mp4
 
-## GIAPPONE
-#EXTINF:-1 tvg-id="ajin_demi_human" group-title="FILM" tvg-country="Giappone" tvg-genre="Azione • Sci-Fi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/ajin-demi-human.png",FILM Giapponese | Ajin: Demi-Human
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ajin.Demi-Human.mp4
+# The Gangster, the Cop, the Devil (2019)
+#EXTINF:-1 tvg-id="gangster_cop_devil_2019" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="18+, Azione, Crime, Thriller" tvg-actors="Ma Dong-seok; Kim Mu-yeol; Kim Sung-kyu" tvg-description="Un boss della mala e un detective devono collaborare per catturare un serial killer sfuggente." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/The-Gangster-the-Cop-and-the-Devil-3.png",FILM Coreano | The Gangster the Cop the Devil (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Gangster%20the%20Cop%20the%20Devil.mp4
 
-#EXTINF:-1 tvg-id="parasyte_kiseiju_1" group-title="FILM" tvg-country="Giappone" tvg-genre="Horror • Sci-Fi • Live Action" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/parasyte-kiseiju.png",FILM Giapponese | Parasyte: Parte 1 (2014)
+# Twenty (2015)
+#EXTINF:-1 tvg-id="twenty_2015" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="14+, Commedia, Slice of Life, Amicizia" tvg-actors="Kim Woo-bin; Lee Junho; Kang Ha-neul" tvg-description="Tre amici appena ventenni affrontano amori, lavoro e sogni tra figuracce e scelte di vita." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/twenty-3.png",FILM Coreano | Twenty (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Twenty.mp4
+
+# The Odd Family: Zombie On Sale (2019)
+#EXTINF:-1 tvg-id="odd_family_2019" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Commedia, Horror" tvg-actors="Jung Jae-young; Kim Nam-gil; Uhm Ji-won" tvg-description="Una bizzarra famiglia lucra su un giovane zombie… finché il paese non si riempie di non-morti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/the-odd-family-3.png",FILM Coreano | The Odd Family: Zombie On Sale (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Odd%20Family%20Zombie%20On%20Sale.mp4
+
+# Kim Ji-young, Born 1982 (2019)
+#EXTINF:-1 tvg-id="kimjiyoung_1982_2019" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Drammatico, Slice of Life" tvg-actors="Jung Yu-mi; Gong Yoo; Kim Mi-kyung" tvg-description="Il ritratto di una donna che, dopo il matrimonio, inizia a perdere se stessa tra aspettative familiari e sociali." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/kim-ji-young-born-1982-3.png",FILM Coreano | Kim Ji-young Born 1982 (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/KIM%20JI%20YOUNG%20BORN%201982.mp4
+
+# Single in Seoul (2023)
+#EXTINF:-1 tvg-id="single_in_seoul_2023" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Commedia, Romance" tvg-actors="Lee Dong-wook; Im Soo-jung; Esom" tvg-description="Un influencer allergico alle relazioni e un’editor romantica devono lavorare insieme a un libro sull’amore." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/single-in-seoul.png",FILM Coreano | Single in Seoul (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Single%20in%20seoul.mp4
+
+# Spiritwalker (2021)
+#EXTINF:-1 tvg-id="spiritwalker_2021" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="16+, Azione, Thriller, Mistero" tvg-actors="Yoon Kye-sang; Park Yong-woo; Lim Ji-yeon" tvg-description="Un uomo si risveglia ogni 12 ore nel corpo di un’altra persona: per scoprire chi è davvero deve correre contro il tempo." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/spiritwalker-3.png",FILM Coreano | Spiritwalker (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Spiritwalker.mp4
+
+# Memories of the Sword (2015)
+#EXTINF:-1 tvg-id="memories_of_the_sword_2015" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="14+, Storico, Azione, Vendetta" tvg-actors="Lee Byung-hun; Jeon Do-yeon; Kim Go-eun" tvg-description="Una maestra spadaccina addestra una ragazza per vendicare il tradimento che ha distrutto la sua famiglia." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/memories-of-the-sword-3.png",FILM Coreano | Memories of the Sword (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Memories%20Of%20The%20Sword.mp4
+
+# Always (2011)
+#EXTINF:-1 tvg-id="always_2011" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Melodramma, Romance" tvg-actors="So Ji-sub; Han Hyo-joo" tvg-description="Un ex pugile e una centralinista non vedente si incontrano per caso e si aggrappano l’uno all’altra per salvarsi." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/always-3.png",FILM Coreano | Always (2011)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Always.mp4
+
+# No Breathing (2013)
+#EXTINF:-1 tvg-id="no_breathing_2013" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Sport, Romance" tvg-actors="Lee Jong-suk; Seo In-guk; Kwon Yuri" tvg-description="Rivali del nuoto e una cantante trainee si ritrovano nella stessa scuola: competizione, amicizia e primi amori." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/No-Breathing-3.png",FILM Coreano | No Breathing (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/No%20Breathing_edit.mp4
+
+# Running Man (2013)
+#EXTINF:-1 tvg-id="running_man_2013" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Azione, Thriller" tvg-actors="Shin Ha-kyun; Lee Min-ho (1993)" tvg-description="Un padre in fuga viene incastrato per omicidio: per salvare il figlio deve scoprire la verità." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/running-man.jpg",FILM Coreano | Running Man (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Running%20man.mp4
+
+# Josee (2020)
+#EXTINF:-1 tvg-id="josee_2020" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Romance, Slice of Life" tvg-actors="Han Ji-min; Nam Joo-hyuk" tvg-description="Un incontro casuale lega uno studente universitario a una giovane donna che vive in un mondo tutto suo." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/josee-3.png",FILM Coreano | Josee (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Josee.mp4
+
+# Il Mare – Siworae (2000)
+#EXTINF:-1 tvg-id="il_mare_2000" group-title="FILM" tvg-country="Corea" tvg-subcategory="COREA" tvg-genre="12+, Romance, Fantasy" tvg-actors="Jun Ji-hyun; Lee Jung-jae" tvg-description="Due sconosciuti comunicano tramite una cassetta postale che inspiegabilmente collega anni diversi." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/il-mare-2000.png",FILM Coreano | Il Mare (2000)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4
+
+# Once Upon a Time (2017)
+#EXTINF:-1 tvg-id="once_upon_a_time_2017" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="12+, Fantasy, Romance" tvg-actors="Liu Yifei; Yang Yang" tvg-description="Una dea e un principe immortale si ritrovano tra reincarnazioni, promesse e guerre degli dèi." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/once-upon-a-time-2.png",FILM Cinese | Once Upon a Time (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once.Upon.a.Time.2017.720p.BluRay.x264.850MB-%5BMkvking.com%5D.mp4
+
+# Fall in Love at First Kiss (2019)
+#EXTINF:-1 tvg-id="fall_in_love_first_kiss_2019" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="14+, Commedia, Romance, Scolastico" tvg-actors="Lin Yun; Darren Wang" tvg-description="Una studentessa pasticciona s’innamora del genio della scuola: il destino continuerà a farli incontrare." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/fall-in-love-at-first-kiss-3.png",FILM Cinese | Fall in Love at First Kiss (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4
+
+# One Week Friends (2022)
+#EXTINF:-1 tvg-id="one_week_friends_2022" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="10+, Amicizia, Scolastico, Romance" tvg-actors="Zhao Jin-mai; Lin Yi; Shen Yue" tvg-description="Una ragazza dimentica i ricordi ogni lunedì: i compagni cercano di restare amici nonostante tutto." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/one-week-friends-2.png",FILM Cinese | One Week Friends (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends.mp4
+
+# Never Gone (2016)
+#EXTINF:-1 tvg-id="never_gone_2016" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="14+, Romance, Melodramma" tvg-actors="Kris Wu; Liu Yifei" tvg-description="Un amore adolescenziale si ritrova anni dopo: tra incomprensioni e seconde possibilità." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/never-gone-2.png",FILM Cinese | Never Gone (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/never%20gone.mp4
+
+# So Young (2013)
+#EXTINF:-1 tvg-id="so_young_2013" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="14+, Crescita, Romance, Scolastico" tvg-actors="Yang Zishan; Mark Chao" tvg-description="Un gruppo di amici attraversa amori e disillusioni dall’università all’età adulta." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/so-young-3.png",FILM Cinese | So Young (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young.mp4
+
+# Mr. Pride vs Miss Prejudice (2017)
+#EXTINF:-1 tvg-id="mr_pride_miss_prejudice_2017" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="10+, Commedia, Romance" tvg-actors="Zhang Han; Dilraba Dilmurat" tvg-description="Una blogger e un ricco erede si scontrano in una commedia romantica piena di equivoci." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/mr-pride-vs-miss-prejudice-3.png",FILM Cinese | Mr. Pride VS Miss Prejudice (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr.%20Pride%20VS%20Miss%20Prejudice%20-%20china.mp4
+
+# Hua Mulan (2009)
+#EXTINF:-1 tvg-id="hua_mulan_2009" group-title="FILM" tvg-country="Cina" tvg-subcategory="CINA" tvg-genre="12+, Storico, Guerra, Azione" tvg-actors="Zhao Wei; Chen Kun" tvg-description="La leggenda della giovane che si arruola al posto del padre e diventa guerriera." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/hua-mulan.png",FILM Cinese | Hua Mulan (2009)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/%E8%8A%B1%E6%9C%A8%E5%85%B0%20Hua%20Mulan.mp4
+
+# Parasyte: Parte 1 (2014)
+#EXTINF:-1 tvg-id="parasyte_2014" group-title="FILM" tvg-country="Giappone" tvg-subcategory="GIAPPONE" tvg-genre="16+, Azione, Horror, Live Action, Sci-Fi" tvg-actors="Sometani Shota; Hashimoto Ai; Fukatsu Eri" tvg-description="Parassiti alieni invadono la Terra: uno studente lotta per coesistere con l’alieno nella sua mano destra." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/parasyte-kiseiju-1.png",FILM Giapponese | Parasyte: Parte 1 (2014)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%201.mp4
 
-#EXTINF:-1 tvg-id="parasyte_kiseiju_2" group-title="FILM" tvg-country="Giappone" tvg-genre="Horror • Sci-Fi • Live Action" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/parasyte-kiseiju.png",FILM Giapponese | Parasyte: Parte 2
+# Parasyte: Parte 2 (2015)
+#EXTINF:-1 tvg-id="parasyte_2015" group-title="FILM" tvg-country="Giappone" tvg-subcategory="GIAPPONE" tvg-genre="16+, Azione, Horror, Live Action, Sci-Fi" tvg-actors="Sometani Shota; Hashimoto Ai; Fukatsu Eri" tvg-description="La conclusione della guerra tra umani e parassiti, con Shinichi al centro dello scontro." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/parasyte-kiseiju-2.png",FILM Giapponese | Parasyte: Parte 2 (2015)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%202.mp4
 
-#EXTINF:-1 tvg-id="tokyo_revengers" group-title="FILM" tvg-country="Giappone" tvg-genre="Azione" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/tokyo-revengers.png",FILM Giapponese | Tokyo Revengers
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers.mp4
+# Lock-On Love (2018)
+#EXTINF:-1 tvg-id="lock_on_love_2018" group-title="FILM" tvg-country="Giappone" tvg-subcategory="GIAPPONE" tvg-genre="10+, Scuola, Romance, Commedia" tvg-actors="Nakagawa Taishi; Hashimoto Kanna" tvg-description="La ragazza più carina del liceo si mette in testa di far innamorare un compagno ‘immunizzato’ dall’amore." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/lock.png",FILM Giapponese | Lock-On Love (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Lock-On.Love.2018.mp4
 
-#EXTINF:-1 tvg-id="tokyo_revengers_2_h1" group-title="FILM" tvg-country="Giappone" tvg-genre="Azione" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/tokyo-revengers-2.png",FILM Giapponese | Tokyo Revengers 2 – Bloody Halloween 1: Destiny
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%202%20Bloody%20Halloween%201%20-%20Destiny.mp4
+# My Happy Marriage (Film, 2023)
+#EXTINF:-1 tvg-id="my_happy_marriage_movie_2023" group-title="FILM" tvg-country="Giappone" tvg-subcategory="GIAPPONE" tvg-genre="12+, Fantasy, Romance, Periodo" tvg-actors="Imada Mio; Shida Mirai; Ren Meguro" tvg-description="Dopo un’infanzia di soprusi, Miyo trova rispetto e amore sposando un generale temuto da tutti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/my-happy-marriage-3.png",FILM Giapponese | My Happy Marriage (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/My%20happy%20marriage%20film.mp4
 
-#EXTINF:-1 tvg-id="tokyo_revengers_2_h2" group-title="FILM" tvg-country="Giappone" tvg-genre="Azione" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/tokyo-revengers-2.png",FILM Giapponese | Tokyo Revengers 2 – Bloody Halloween 2: decisive battle
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%202%20Bloody%20Halloween%202%20-%20%20decisive%20battle.mp4
+# Boku wa Imouto ni Koi wo Suru (2007)
+#EXTINF:-1 tvg-id="boku_wa_imouto_2007" group-title="FILM" tvg-country="Giappone" tvg-subcategory="GIAPPONE" tvg-genre="14+, Romance, Drammatico" tvg-actors="Matsumoto Jun; Ueno Juri" tvg-description="Due gemelli lottano contro un amore impossibile e contro se stessi." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Boku-wa-Imouto-ni-Koi-wo-Suru-4.jpg.png",FILM Giapponese | Boku wa Imouto ni Koi wo Suru (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Boku_wa_Imouto_ni_Koi_wo_Suru.mp4
 
-## HONG KONG
-#EXTINF:-1 tvg-id="better_days" group-title="FILM" tvg-country="Hong Kong" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/better-days.png",FILM Hong Kong | Better Days
+# Better Days (2019)
+#EXTINF:-1 tvg-id="better_days_2019" group-title="FILM" tvg-country="Hong Kong" tvg-subcategory="HONG KONG" tvg-genre="16+, Drammatico, Crime, Scuola" tvg-actors="Zhou Dongyu; Jackson Yee" tvg-description="Una studentessa vittima di bullismo e un teppista stringono un legame che cambierà le loro vite." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/better-days-3.png",FILM Hong Kong | Better Days (2019)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Better%20Days.mp4
 
-#EXTINF:-1 tvg-id="ex_hk" group-title="FILM" tvg-country="Hong Kong" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/ex-hk.png",FILM Hong Kong | EX
+# EX (2010)
+#EXTINF:-1 tvg-id="ex_2010_hk" group-title="FILM" tvg-country="Hong Kong" tvg-subcategory="HONG KONG" tvg-genre="12+, Romance, Slice of Life" tvg-actors="Gillian Chung; William Chan" tvg-description="Vecchi amori, nuove strade: un film sull’andare avanti senza dimenticare." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/ex-3.png",FILM Hong Kong | Ex (2010)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Ex%20-%20hong%20kong.mp4
 
-## TAIWAN
-#EXTINF:-1 tvg-id="say_yes_again" group-title="FILM" tvg-country="Taiwan" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/say-yes-again.png",FILM Taiwanese | Say Yes Again
+# Say Yes Again (2022)
+#EXTINF:-1 tvg-id="say_yes_again_2022" group-title="FILM" tvg-country="Taiwan" tvg-subcategory="TAIWAN" tvg-genre="10+, Romance, Commedia" tvg-actors="Jasper Liu; Puff Kuo" tvg-description="Due ex fidanzati si ritrovano anni dopo e si domandano se dire ‘sì’ un’altra volta." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/say-yes-again-2.png",FILM Taiwanese | Say Yes Again (2022)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20yes%20again%20-%20taiwan.mp4
 
-## THAILANDIA
-#EXTINF:-1 tvg-id="ai_love_you" group-title="FILM" tvg-country="Thailandia" tvg-genre="Romantico • Sci-Fi" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/ai-love-you.png",FILM Thailandese | AI Love You
+# AI Love You (2022)
+#EXTINF:-1 tvg-id="ai_love_you_2022" group-title="FILM" tvg-country="Thailandia" tvg-subcategory="THAILANDIA" tvg-genre="12+, RomCom, Sci-Fi" tvg-actors="Mario Maurer; Pimchanok Luevisadpaibul" tvg-description="Un’IA innamorata finisce nel corpo di un uomo in carne e ossa: la ‘perfetta’ storia d’amore si complica." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/ai-love-you-2.png",FILM Thailandese | AI Love You (2022)
 https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/AI%20Love%20You%20-%20thailand.mp4
 
+# A Familiar Stranger (2022) — SCHEDA
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",DRAMA Cinese | A Familiar Stranger (2022) - Episodio 1
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2001.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 2
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2002.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 3
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2003.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 4
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2004.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 5
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2005.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 6
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2006.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 7
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2007.mp4
+#EXTINF:-1 tvg-id="a_familiar_stranger_2022" group-title="DRAMA" tvg-country="Cina" tvg-genre="Costume, Romantico, Soprannaturale" tvg-actors="Ke Ying, Kay Song, Ryan Cheng, Wang Ze-xuan, Chen Sheng-wei, An Qin-fu" tvg-description="Per sfuggire a un matrimonio combinato, una donna scambia il volto con un’artista e finisce sposata a un generale: intrighi di corte, identità rubate e sentimenti proibiti." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg",A Familiar Stranger (2022) - Episodio 8
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/a%20familiar%20stranger/A.Familiar.Stranger%2008.mp4
 
-############
-# DRAMA    #
-############
+####################################################
+# DRAMA · GIAPPONE
+####################################################
 
-## COREA — 7 First Kisses (poster di scheda inesistente: uso locandina generica drama)
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/01.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/02.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/03.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/04.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/05.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/06.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/07.mp4
-#EXTINF:-1 tvg-id="7_first_kisses_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/drama-generic.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | 7 First Kisses (2016) - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20first%20kisses/08.mp4
+# Junichi (2019) — SCHEDA
+#EXTINF:-1 tvg-id="junichi_2019" group-title="DRAMA" tvg-country="Giappone" tvg-genre="Psicologico, Romantico, Slice of Life" tvg-actors="Shison Jun; Mitsuishi Ken; Tomosaka Rie; Itaya Yuka; Nonami Maho; Aoki Kotone; Uta Mitsuki; Sugino Kiki; Maeda Aki" tvg-description="Un giovane enigmatico entra e esce dalle vite di donne sole, rivelandone desideri e fragilità prima di svanire senza lasciare traccia." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Junichi-1.png",DRAMA Giapponese | Junichi (2019) - Episodio 1
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/JUNICHI/Junichi%2001.mp4
+#EXTINF:-1 tvg-id="junichi_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Junichi-1.png",Junichi (2019) - Episodio 2
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/JUNICHI/Junichi%2002.mp4
+#EXTINF:-1 tvg-id="junichi_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Junichi-1.png",Junichi (2019) - Episodio 3
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/JUNICHI/Junichi%2003.mp4
+#EXTINF:-1 tvg-id="junichi_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Junichi-1.png",Junichi (2019) - Episodio 4
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/JUNICHI/Junichi%2004.mp4
+#EXTINF:-1 tvg-id="junichi_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Junichi-1.png",Junichi (2019) - Episodio 5
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/JUNICHI/Junichi%2005.mp4
+#EXTINF:-1 tvg-id="junichi_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Junichi-1.png",Junichi (2019) - Episodio 6
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/JUNICHI/Junichi%2006.mp4
 
-## A Good Day To Be A Dog
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 1
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/Episodio%201.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 2
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/Episodio%202.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 3
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/Episodio%203.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 4
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/Episodio%204.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 5
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/Episodio%205.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 6
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/Episodio%206.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 7
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%207.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 8
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%208.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 9
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%209.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%2010.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%2011.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%2012.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%2013.mp4
-#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-good-day-to-be-a-dog-3.png" tvg-genre="Romantico • Fantasy" tvg-actors="",DRAMA Coreano | A Good Day To Be A Dog (2023) - Episodio 14
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/episodio%2014.mp4
 
-## Again My Life
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20mylife%2001.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20mylife%2002.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20mylife%2003.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20mylife%2004.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20mylife%2005.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20mylife%2006.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2007.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2008.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 09
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2009.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2010.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2011.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2012.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2013.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 14
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2014.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 15
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/Again%20MyLife%2015.mp4
-#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/again-my-life-2.png" tvg-genre="Azione • Fantasy • Legale",DRAMA Coreano | Again My Life (2022) - Episodio 16
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/again%20my%20life/again%20mylife%2016.mp4
+# Kahogona Wakadanna-sama no Amayakashi Kon (2024) — SCHEDA
+#EXTINF:-1 tvg-id="kahogona_wakadanna_sama_no_amayakashi_kon_2024" group-title="DRAMA" tvg-country="Giappone" tvg-genre="Live Action, Romantico, Slice of Life" tvg-actors="Cast principale variabile per episodio" tvg-description="Una ragazza accetta un matrimonio combinato per saldare un debito di famiglia e scopre un marito devoto e protettivo: da un’unione di convenienza nasce un amore tenero." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg",DRAMA Giapponese | Kahogona Wakadanna-sama no Amayakashi Kon (2024) - Episodio 1
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kahogona-wakadanna-sama-no-amayakashi-kon/Kahogo.na.Wakadanna-sama.no.Amayakashi.Kon.2024.S01E01.1080p.FOD.WEB-DL.AAC2.0.H.264-aurhand_edit.mp4
+#EXTINF:-1 tvg-id="kahogona_wakadanna_sama_no_amayakashi_kon_2024" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg",Kahogona Wakadanna-sama no Amayakashi Kon (2024) - Episodio 2
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kahogona-wakadanna-sama-no-amayakashi-kon/Kahogo.na.Wakadanna-sama.no.Amayakashi.Kon.2024.S01E02.1080p.FOD.WEB-DL.AAC2.0.H.264-aurhand_edit.mp4
+#EXTINF:-1 tvg-id="kahogona_wakadanna_sama_no_amayakashi_kon_2024" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg",Kahogona Wakadanna-sama no Amayakashi Kon (2024) - Episodio 3
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kahogona-wakadanna-sama-no-amayakashi-kon/Kahogo.na.Wakadanna-sama.no.Amayakashi.Kon.2024.S01E03.1080p.FOD.WEB-DL.AAC2.0.H.264-aurhand_edit.mp4
+#EXTINF:-1 tvg-id="kahogona_wakadanna_sama_no_amayakashi_kon_2024" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg",Kahogona Wakadanna-sama no Amayakashi Kon (2024) - Episodio 4
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kahogona-wakadanna-sama-no-amayakashi-kon/Kahogo.na.Wakadanna-sama.no.Amayakashi.Kon.2024.S01E04.1080p.FOD.WEB-DL.AAC2.0.H.264-aurhand_edit.mp4
+#EXTINF:-1 tvg-id="kahogona_wakadanna_sama_no_amayakashi_kon_2024" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg",Kahogona Wakadanna-sama no Amayakashi Kon (2024) - Episodio 5
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kahogona-wakadanna-sama-no-amayakashi-kon/Kahogo.na.Wakadanna-sama.no.Amayakashi.Kon.2024.S01E05.1080p.FOD.WEB-DL.AAC2.0.H.264-aurhand_edit.mp4
+#EXTINF:-1 tvg-id="kahogona_wakadanna_sama_no_amayakashi_kon_2024" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg",Kahogona Wakadanna-sama no Amayakashi Kon (2024) - Episodio 6
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kahogona-wakadanna-sama-no-amayakashi-kon/Kahogo.na.Wakadanna-sama.no.Amayakashi.Kon.2024.S01E06.1080p.TVER.WEB-DL.AAC2.0.H.264-aurhand_edit.mp4
 
-## Coffee Prince (2007)
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2001.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2002.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2003.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2004.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2005.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2006.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2007.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2008.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 09
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2009.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2010.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2011.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2012.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2013.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 14
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2014.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 15
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2015.mp4
-#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-3.png" tvg-genre="Commedia • Romantico",DRAMA Coreano | Coffee Prince (2007) - Episodio 16
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/COFFEE%20PRINCE/CoffeePrince%2016.mp4
 
-## Doctor Brain
-#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dr-brain-2.png" tvg-genre="Sci-Fi • Thriller",DRAMA Coreano | Doctor Brain (2021) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/doctor%20brain/Dr%20Brain%2001.mp4
-#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dr-brain-2.png" tvg-genre="Sci-Fi • Thriller",DRAMA Coreano | Doctor Brain (2021) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/doctor%20brain/Dr%20Brain%2002.mp4
-#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dr-brain-2.png" tvg-genre="Sci-Fi • Thriller",DRAMA Coreano | Doctor Brain (2021) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/doctor%20brain/Dr%20Brain%2003.mp4
-#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dr-brain-2.png" tvg-genre="Sci-Fi • Thriller",DRAMA Coreano | Doctor Brain (2021) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/doctor%20brain/Dr%20Brain%2004.mp4
-#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dr-brain-2.png" tvg-genre="Sci-Fi • Thriller",DRAMA Coreano | Doctor Brain (2021) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/doctor%20brain/Dr%20Brain%2005.mp4
-#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dr-brain-2.png" tvg-genre="Sci-Fi • Thriller",DRAMA Coreano | Doctor Brain (2021) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/doctor%20brain/Dr%20Brain%2006.mp4
+# Perfect World - drama (2019) — SCHEDA
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-genre="Disabilità, Drammatico, Gioventù, Live Action, Romantico, Slice of Life" tvg-actors="Matsuzaka Tori; Yamamoto Mizuki; Seto Koji; Nakamura Yuri; Matsumura Hokuto; Okazaki Sae" tvg-description="Ex compagni di liceo si ritrovano: lui è in sedia a rotelle dopo un incidente, lei riaccende un amore che sembrava impossibile." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",DRAMA Giapponese | Perfect World - drama (2019) - Episodio 1
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2001.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 2
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2002.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 3
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2003.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 4
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2004.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 5
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2005.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 6
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2006.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 7
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2007.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 8
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2008.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 9
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2009.mp4
+#EXTINF:-1 tvg-id="perfect_world_drama_2019" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg",Perfect World - drama (2019) - Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama/Perfect%20World%2010.mp4
 
-## Dramaworld 2
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2001.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2002.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2003.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2004.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2005.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2006.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2007.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2008.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 09
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2009.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2010.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2011.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2012.mp4
-#EXTINF:-1 tvg-id="dramaworld2_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/dramaworld-3.png" tvg-genre="Commedia • Romance • Meta",DRAMA Coreano | Dramaworld 2 - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/dramaworld/Dramaworld%202%20EP.%2013.mp4
 
-## Goblin (special alla fine) — poster corretto
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/01.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/02.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/03.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/04.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/05.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/06.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/07.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/08.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 09
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/09.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/10.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/11.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/12.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/13.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 14
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/14.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 15
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/15.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 16
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/16.mp4
-#EXTINF:-1 tvg-id="goblin_2016_special" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Special
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/Speciale.mp4
+# Yameru Toki mo, Sukoyaka Naru Toki mo (2020) — SCHEDA
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-genre="Romantico, Slice of Life" tvg-actors="Taisuke Fujigaya; Nao; Himeka Asami; Koichi Goseki; Shohei Hino; Miho Kanazawa" tvg-description="Un artigiano di mobili e una pubblicitaria con ferite del passato trovano nell’altro il coraggio di guarire e di amare." tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",DRAMA Giapponese | Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 1
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/01.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 2
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/02.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 3
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/03.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 4
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/04.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 5
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/05.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 6
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/06.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 7
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/07.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 8
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/08.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 9
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/09.mp4
+#EXTINF:-1 tvg-id="yameru_toki_mo_2020" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg",Yameru Toki mo, Sukoyaka Naru Toki mo (2020) - Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/YAMERU%20TOKI%20MO/10.mp4
+
+####################################################
+# DRAMA · COREA  (scheda completa su Ep.1, poi solo meta essenziali)
+####################################################
+
+# A Good Day to Be a Dog (2023) — SCHEDA
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-genre="Romantico, Fantasy, Commedia" tvg-actors="Park Gyu-young; Cha Eun-woo; Lee Hyun-woo" tvg-description="Una professoressa è vittima di una maledizione: ogni bacio la trasforma in cane fino a riceverne un altro dallo stesso uomo. L’unico in grado di spezzarla è un collega che però… teme i cani." tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",DRAMA Coreano | A Good Day to Be a Dog (2023) - Episodio 1
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2001.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2002.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2003.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2004.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2005.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2006.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2007.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2008.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2009.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2010.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2011.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2012.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2013.mp4
+#EXTINF:-1 tvg-id="a_good_day_to_be_a_dog_2023" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_A_Good_Day_To_Be_A_Dog_Poster",A Good Day to Be a Dog — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20to%20Be%20a%20Dog/A%20Good%20Day%20to%20Be%20a%20Dog%2014.mp4
+
+
+# Coffee Prince (2007) — SCHEDA
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-genre="Romantico, Commedia" tvg-actors="Gong Yoo; Yoon Eun-hye; Lee Sun-kyun; Chae Jung-an" tvg-description="Una ragazza si finge ragazzo per lavorare in un caffè e finisce per far innamorare il capo, che non sa nulla della sua vera identità." tvg-logo="CHANGE_ME_Coffee_Prince_Poster",DRAMA Coreano | Coffee Prince (2007) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2001.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2002.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2003.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2004.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2005.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2006.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2007.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2008.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2009.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2010.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2011.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2012.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2013.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2014.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2015.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2016.mp4
+#EXTINF:-1 tvg-id="coffee_prince_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Coffee_Prince_Poster",Coffee Prince — Episodio 17
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/Coffee%20Prince%2017.mp4
+
+
+# Again My Life (2022) — SCHEDA
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-genre="Azione, Crime, Fantastico" tvg-actors="Lee Joon-gi; Kim Ji-eun; Lee Kyung-young" tvg-description="Un procuratore ucciso durante un’indagine su un potente politico ha una seconda possibilità: torna al passato per rifare tutto, meglio." tvg-logo="CHANGE_ME_Again_My_Life_Poster",DRAMA Coreano | Again My Life (2022) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2001.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2002.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2003.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2004.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2005.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2006.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2007.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2008.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2009.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2010.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2011.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2012.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2013.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2014.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2015.mp4
+#EXTINF:-1 tvg-id="again_my_life_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Again_My_Life_Poster",Again My Life — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/Again%20My%20Life%2016.mp4
+
+
+# Doctor Brain (2021) — SCHEDA
+#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-genre="Thriller, Fantascienza, Mistero" tvg-actors="Lee Sun-kyun; Lee Yoo-young; Park Hee-soon" tvg-description="Un neuroscienziato sperimenta la ‘sincronizzazione cerebrale’ con i morti per scoprire la verità dietro una tragedia familiare." tvg-logo="CHANGE_ME_Doctor_Brain_Poster",DRAMA Coreano | Doctor Brain (2021) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/Doctor%20Brain%20001.mp4
+#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Doctor_Brain_Poster",Doctor Brain — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/Doctor%20Brain%20002.mp4
+#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Doctor_Brain_Poster",Doctor Brain — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/Doctor%20Brain%20003.mp4
+#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Doctor_Brain_Poster",Doctor Brain — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/Doctor%20Brain%20004.mp4
+#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Doctor_Brain_Poster",Doctor Brain — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/Doctor%20Brain%20005.mp4
+#EXTINF:-1 tvg-id="doctor_brain_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Doctor_Brain_Poster",Doctor Brain — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/Doctor%20Brain%20006.mp4
+
+
+# Dramaworld (2016) — SCHEDA
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-genre="Commedia, Meta, Romantico" tvg-actors="Liv Hewson; Sean Dulake; Justin Chon" tvg-description="Una fan dei k-drama viene catapultata letteralmente dentro il suo drama preferito: per salvare la storia dovrà rispettarne (o infrangerne) le regole." tvg-logo="CHANGE_ME_Dramaworld_Poster",DRAMA Coreano | Dramaworld (2016) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2001.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%20002.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%20003.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2004.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2005.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2006.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2007.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2008.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2009.mp4
+#EXTINF:-1 tvg-id="dramaworld_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Dramaworld_Poster",Dramaworld — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/Dramaworld%2010.mp4
+
+
+# Twelve (2025) — SCHEDA
+#EXTINF:-1 tvg-id="twelve_2025" group-title="DRAMA" tvg-country="Corea" tvg-genre="Avventura, Azione, Fantasy, Soprannaturale" tvg-actors="Seo In-guk; Park Hyung-sik; Lee Joo-bin; Ma Dong-seok; Sung Dong-il; Ko Kyu-pil" tvg-description="Dodici figure legate al soprannaturale si scontrano tra destino e vendetta. Azione e fantasy in un mondo oscuro." tvg-logo="CHANGE_ME_Twelve_2025_Poster",DRAMA Coreano | Twelve (2025) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/01.mp4
+#EXTINF:-1 tvg-id="twelve_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Twelve_2025_Poster",Twelve (2025) - Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/02.mp4
+#EXTINF:-1 tvg-id="twelve_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Twelve_2025_Poster",Twelve (2025) - Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/03.mp4
+#EXTINF:-1 tvg-id="twelve_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Twelve_2025_Poster",Twelve (2025) - Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/04.mp4
+#EXTINF:-1 tvg-id="twelve_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Twelve_2025_Poster",Twelve (2025) - Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/05.mp4
+#EXTINF:-1 tvg-id="twelve_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Twelve_2025_Poster",Twelve (2025) - Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/06.mp4
+
+####################################################
+# DRAMA · COREA — BLOCCO 4A
+####################################################
+
+# Moon Lovers: Scarlet Heart Ryeo (2016) — SCHEDA
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-genre="Storico, Romantico, Drammatico, Fantastico" tvg-actors="Lee Joon-gi; IU; Kang Ha-neul; Hong Jong-hyun; Nam Joo-hyuk" tvg-description="Nel Goryeo, una donna del presente si ritrova nel corpo di una nobildonna e nel mezzo della lotta di potere tra i principi Wang. Amore, destino e intrighi di palazzo." tvg-logo="CHANGE_ME_Moon_Lovers_Poster",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2001.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2002.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2003.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2004.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2005.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2006.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2007.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2008.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2009.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2010.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2011.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2012.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2013.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2014.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2015.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2016.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 17
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2017.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 18
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2018.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 19
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2019.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Episodio 20
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%2020.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Special 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%20Special%2001.mp4
+#EXTINF:-1 tvg-id="moon_lovers_scarlet_heart_ryeo_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Moon_Lovers_Poster",Moon Lovers — Special 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%20Special%2002.mp4
+
+
+# True Beauty (2020) — SCHEDA
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-genre="Commedia Romantica, Scolastico, Giovanile" tvg-actors="Moon Ga-young; Cha Eun-woo; Hwang In-yeop" tvg-description="Una ragazza diventa ‘dea’ del liceo grazie al make-up, ma teme che qualcuno scopra il suo volto senza trucco. Due ragazzi complicano (e illuminano) la sua vita." tvg-logo="CHANGE_ME_True_Beauty_Poster",DRAMA Coreano | True Beauty (2020) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2001.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2002.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2003.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2004.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2005.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2006.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2007.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2008.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2009.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2010.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2011.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2012.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2013.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2014.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2015.mp4
+#EXTINF:-1 tvg-id="true_beauty_2020" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_True_Beauty_Poster",True Beauty — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/True%20Beauty%2016.mp4
+
+
+# Snowdrop (2021) — SCHEDA
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-genre="Melodramma, Storico, Politico, Romantico" tvg-actors="Jung Hae-in; Jisoo; Yoo In-na; Jang Seung-jo" tvg-description="1987, Seoul: l’amore tra una studentessa e un giovane con un segreto pericoloso si scontra con la repressione politica." tvg-logo="CHANGE_ME_Snowdrop_Poster",DRAMA Coreano | Snowdrop (2021) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2001.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2002.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2003.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2004.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2005.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2006.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2007.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2008.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2009.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2010.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2011.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2012.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2013.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2014.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2015.mp4
+#EXTINF:-1 tvg-id="snowdrop_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Snowdrop_Poster",Snowdrop — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/Snowdrop%2016.mp4
+
+
+# Through the Darkness (2022) — SCHEDA
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-genre="Crime, Thriller Psicologico, Procedurale" tvg-actors="Kim Nam-gil; Jin Seon-kyu; Kim So-jin" tvg-description="I primi profiler della Corea del Sud affrontano serial killer senza precedenti, cercando di leggere l’oscurità dei loro cuori." tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",DRAMA Coreano | Through the Darkness (2022) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2001.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2002.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2003.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2004.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2005.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2006.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2007.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2008.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2009.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2010.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2011.mp4
+#EXTINF:-1 tvg-id="through_the_darkness_2022" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Through_the_Darkness_Poster",Through the Darkness — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/Through%20the%20Darkness%2012.mp4
+
+
+# Time Between Dog and Wolf (2007) — SCHEDA
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-genre="Azione, Crime, Spionaggio, Melodramma" tvg-actors="Lee Joon-gi; Jung Kyung-ho; Nam Sang-mi" tvg-description="Orfano per mano della mafia, un agente NIS torna sotto copertura per vendicarsi, ma l’identità si confonde col ruolo." tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",DRAMA Coreano | Time Between Dog and Wolf (2007) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2001.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2002.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2003.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2004.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2005.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2006.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2007.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2008.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2009.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2010.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2011.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2012.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2013.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2014.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2015.mp4
+#EXTINF:-1 tvg-id="time_between_dog_and_wolf_2007" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Time_Between_Dog_and_Wolf_Poster",Time Between Dog and Wolf — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20Wolf/Time%20between%20dog%20and%20Wolf%2016.mp4
+
+####################################################
+# DRAMA · COREA — BLOCCO 4B (Tranche 1)
+####################################################
+
+# The Smile Has Left Your Eyes (2018) — SCHEDA
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-genre="Mistero, Melodramma, Thriller" tvg-actors="Seo In-guk; Jung So-min; Park Sung-woong" tvg-description="Un uomo enigmatico, una donna gentile e un detective protettivo si trovano legati da un caso di omicidio: verità sepolte e un destino crudele." tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",DRAMA Coreano | The Smile Has Left Your Eyes (2018) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2001.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2002.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2003.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2004.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2005.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2006.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2007.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2008.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2009.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2010.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2011.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2012.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2013.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2014.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2015.mp4
+#EXTINF:-1 tvg-id="the_smile_has_left_your_eyes_2018" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Smile_Has_Left_Your_Eyes_Poster",The Smile Has Left Your Eyes — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/The%20Smile%20Has%20Left%20Your%20Eyes%2016.mp4
+
+
+# The Impossible Heir (2024) — SCHEDA
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-genre="Thriller, Vendetta, Business" tvg-actors="Lee Jae-wook; Lee Jun-young; Hong Su-zu" tvg-description="Un genio senza scrupoli e il suo amico d’infanzia tramano per conquistare un chaebol: alleanze pericolose, amori e tradimenti." tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",DRAMA Coreano | The Impossible Heir (2024) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2001.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2002.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2003.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2004.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2005.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2006.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2007.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2008.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2009.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2010.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2011.mp4
+#EXTINF:-1 tvg-id="the_impossible_heir_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_The_Impossible_Heir_Poster",The Impossible Heir — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/The%20Impossible%20Heir%2012.mp4
+
+
+# Lovers of the Red Sky (2021) — SCHEDA
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-genre="Storico, Fantasy, Romantico" tvg-actors="Kim Yoo-jung; Ahn Hyo-seop; Gong Myung" tvg-description="Una pittrice dotata e un astrologo cieco sfidano un demone che minaccia il regno; l’arte diventa arma contro il destino." tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",DRAMA Coreano | Lovers of the Red Sky (2021) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2001.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2002.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2003.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2004.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2005.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2006.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2007.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2008.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2009.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2010.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2011.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2012.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2013.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2014.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2015.mp4
+#EXTINF:-1 tvg-id="lovers_of_the_red_sky_2021" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Lovers_of_the_Red_Sky_Poster",Lovers of the Red Sky — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/Lovers%20of%20the%20Red%20Sky%2016.mp4
+
+####################################################
+# DRAMA · COREA — BLOCCO 4B (Tranche 2)
+####################################################
+
+# Pride and Prejudice (2014) — SCHEDA
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-genre="Legale, Crime, Procedurale, Drammatico" tvg-actors="Choi Jin-hyuk; Baek Jin-hee; Choi Min-soo" tvg-description="Un’unità di pubblici ministeri affronta casi di corruzione e ingiustizia, tra etica e compromessi." tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",DRAMA Coreano | Pride and Prejudice (2014) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2001.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2002.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2003.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2004.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2005.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2006.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2007.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2008.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2009.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2010.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2011.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2012.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2013.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2014.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 15
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2015.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 16
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2016.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 17
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2017.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 18
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2018.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 19
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2019.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 20
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2020.mp4
+#EXTINF:-1 tvg-id="pride_and_prejudice_2014" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pride_and_Prejudice_Poster",Pride and Prejudice — Episodio 21
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/Pride%20and%20Prejudice%2021.mp4
+
+
+# Pachinko (2022–2024) — SCHEDA (S1 + S2)
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-genre="Storico, Saga familiare, Melodramma" tvg-actors="Youn Yuh-jung; Kim Min-ha; Lee Min-ho; Jin Ha" tvg-description="Attraverso quattro generazioni di una famiglia coreana in Giappone, la storia intreccia migrazione, identità e sopravvivenza." tvg-logo="CHANGE_ME_Pachinko_Poster",DRAMA Coreano | Pachinko S1 (2022) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2001.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2002.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2003.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2004.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2005.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2006.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2007.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S1 — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S1/Pachinko%20S1%2008.mp4
+
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",DRAMA Coreano | Pachinko S2 (2024) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2001.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2002.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2003.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2004.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2005.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2006.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2007.mp4
+#EXTINF:-1 tvg-id="pachinko" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Pachinko_Poster",Pachinko S2 — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20S2/Pachinko%20S2%2008.mp4
+
+
+# Wonderful World (2024) — SCHEDA
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-genre="Thriller, Vendetta, Drammatico" tvg-actors="Kim Nam-joo; Cha Eun-woo; Kim Kang-woo; Im Se-mi" tvg-description="Una madre che ha perso il figlio cerca giustizia oltre la legge. L’incontro con un giovane con un passato oscuro riapre ferite e possibilità." tvg-logo="CHANGE_ME_Wonderful_World_Poster",DRAMA Coreano | Wonderful World (2024) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2001.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%20002.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2003.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2004.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2005.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2006.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2007.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2008.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 09
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2009.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 10
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2010.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 11
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2011.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 12
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2012.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 13
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2013.mp4
+#EXTINF:-1 tvg-id="wonderful_world_2024" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Wonderful_World_Poster",Wonderful World — Episodio 14
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/Wonderful%20World%2014.mp4
+
+
+# Queen Woo (2025) — SCHEDA
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-genre="Storico, Politico, Azione" tvg-actors="Jeon Jong-seo" tvg-description="Ambientato nel regno di Goguryeo: una regina astuta combatte per il potere tra tradimenti di corte e alleanze fragili." tvg-logo="CHANGE_ME_Queen_Woo_Poster",DRAMA Coreano | Queen Woo (2025) - Episodio 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2001.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2002.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2003.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2004.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 05
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2005.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 06
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2006.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 07
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2007.mp4
+#EXTINF:-1 tvg-id="queen_woo_2025" group-title="DRAMA" tvg-country="Corea" tvg-logo="CHANGE_ME_Queen_Woo_Poster",Queen Woo — Episodio 08
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/Queen%20Woo%2008.mp4
+
+# ================================
+# MINI & WEB DRAMA — CINA (Gruppo B)
+# ================================
+
+# SCHEDA — I Am Your Bleating Phone (2016)
+#EXTINF:-1 tvg-id="i_am_your_bleating_phone_2016" group-title="MINI E WEB DRAMA" tvg-country="Cina" tvg-genre="Fantasy, Romantico, Sci-Fi, Xuanhuan" tvg-actors="Cast web drama" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/I-m-your-bleating-phone-2.png" tvg-description="Un tocco di sci-fi e romanticismo in una storia leggera su connessioni ‘impossibili’ e seconde possibilità."
+,MINI & WEB DRAMA Cinese | I Am Your Bleating Phone (2016) — SCHEDA
+
+# Episodi — I Am Your Bleating Phone
+#EXTINF:-1 tvg-id="i_am_your_bleating_phone_2016" tvg-episode="01" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/I-m-your-bleating-phone-2.png",I Am Your Bleating Phone - Ep. 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/I%20Am%20Your%20Bleating%20Phone/I%20Am%20Your%20Bleating%20Phone%2001.mp4
+#EXTINF:-1 tvg-id="i_am_your_bleating_phone_2016" tvg-episode="02" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/I-m-your-bleating-phone-2.png",I Am Your Bleating Phone - Ep. 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/I%20Am%20Your%20Bleating%20Phone/I%20Am%20Your%20Bleating%20Phone%2002.mp4
+
+# SCHEDA — Trapped in Osaka (2025)
+#EXTINF:-1 tvg-id="trapped_in_osaka_2025" group-title="MINI E WEB DRAMA" tvg-country="Cina" tvg-genre="BL, Drammatico, LGBTQ+, Romantico, Vita" tvg-actors="Cast web drama" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-1.png" tvg-description="Un incontro inaspettato in Giappone riaccende ferite e desideri: breve racconto BL dalle sfumature intime."
+,MINI & WEB DRAMA Cinese | Trapped in Osaka (2025) — SCHEDA
+
+# Episodi — Trapped in Osaka (1–4)
+#EXTINF:-1 tvg-id="trapped_in_osaka_2025" tvg-episode="01" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-1.png",Trapped in Osaka - Ep. 01
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/01.mp4
+#EXTINF:-1 tvg-id="trapped_in_osaka_2025" tvg-episode="02" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-1.png",Trapped in Osaka - Ep. 02
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/02.mp4
+#EXTINF:-1 tvg-id="trapped_in_osaka_2025" tvg-episode="03" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-1.png",Trapped in Osaka - Ep. 03
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/03.mp4
+#EXTINF:-1 tvg-id="trapped_in_osaka_2025" tvg-episode="04" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-1.png",Trapped in Osaka - Ep. 04
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/04.mp4
+
+####################################################
+# ALTRO · CORTOMETRAGGI
+####################################################
+
+# Basuke Shōnen no Himitsu (Basketball Boy's Secret) (2018)
+#EXTINF:-1 tvg-id="basketball_boys_secret_2018" group-title="ALTRO" tvg-subcategory="CORTOMETRAGGI" tvg-country="Giappone" tvg-genre="BL, Drammatico, Educativo, LGBTQ+" tvg-actors="—" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Basketball-Boys-Secret-3.png" tvg-description="Due amici delle medie affrontano un momento di verità che mette alla prova la loro amicizia e l’accettazione di sé.",ALTRO Cortometraggi | Basuke Shōnen no Himitsu (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basketball%20Boy%27s%20Secret.mp4
+
+# The Invitation (2023)
+#EXTINF:-1 tvg-id="the_invitation_2023" group-title="ALTRO" tvg-subcategory="CORTOMETRAGGI" tvg-country="Giappone" tvg-genre="Horror, Psicologico, Soprannaturale" tvg-actors="—" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/invitation4.jpg" tvg-description="Due agenti indagano su un odore nauseante in una casa isolata, scoprendo un orrore che era meglio non risvegliare.",ALTRO Cortometraggi | The Invitation (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/The%20Invitation.mp4
+
+# Blind Mind (2023)
+#EXTINF:-1 tvg-id="blind_mind_2023" group-title="ALTRO" tvg-subcategory="CORTOMETRAGGI" tvg-country="Giappone" tvg-genre="Drammatico, Romantico, Disabilità" tvg-actors="Sato Kanta; Taira Yuna; Moctar Diouf" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_014626172.png" tvg-description="Un giovane non vedente e una influencer imparano a vedere oltre le apparenze e a credere in un amore possibile.",ALTRO Cortometraggi | Blind Mind (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind_edit.mp4
+
+# 187cm 155cm – Raccolta (2020)
+#EXTINF:-1 tvg-id="187cm_155cm_2020_comp" group-title="ALTRO" tvg-subcategory="CORTOMETRAGGI" tvg-country="Corea" tvg-genre="Commedia Romantica, Scolastico" tvg-actors="Hong Min-ki" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/187cm-155cm-3.png" tvg-description="Una coppia con grande differenza d’altezza attraversa gelosie e incomprensioni in episodi brevi e leggeri.",ALTRO Cortometraggi | 187cm 155cm – Raccolta (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/187cm%20155cm%20%EB%AA%B0%EC%95%84%EB%B3%B4%EA%B8%B0%20%ED%86%B5%ED%95%A9%EB%B3%B8.mp4
+
+
+####################################################
+# ALTRO · PUBBLICITÀ
+####################################################
+
+# Office Romance Recipe (2022)
+#EXTINF:-1 tvg-id="office_romance_recipe_2022" group-title="ALTRO" tvg-subcategory="PUBBLICITÀ" tvg-country="Corea" tvg-genre="Pubblicità, Romantico, Commedia" tvg-actors="—" tvg-description="Mini-spot promozionali a tema ufficio con tono leggero e romantico." tvg-logo="CHANGE_ME_Office_Romance_Recipe",
+ALTRO Pubblicità | Office Romance Recipe (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/PUBBLICITA/Office%20Romance%20Recipe.mp4
+
+
+####################################################
+# ALTRO · TEASER TRAILER
+####################################################
+
+# The Villainess is a Marionette (2022)
+#EXTINF:-1 tvg-id="the_villainess_is_a_marionette_2022" group-title="ALTRO" tvg-subcategory="TEASER TRAILER" tvg-country="Corea" tvg-genre="Teaser, Fantasy, Romantico" tvg-actors="Han So-hee; Cha Eun-woo; Lee Soo-hyuk" tvg-description="Teaser cinematografico del webtoon: una principessa decide di spezzare i fili che la manipolano." tvg-logo="CHANGE_ME_Villainess_is_a_Marionette",
+ALTRO Teaser Trailer | The Villainess is a Marionette (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/TEASER%20TRAILER/The%20Villainess%20is%20a%20Marionette.mp4
+
