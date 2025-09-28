@@ -1,240 +1,487 @@
 #EXTM3U
 
-##########
-# ALTRO  #
-##########
+#EXTINF:-1 tvg-id="001" tvg-name="Big World sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Big-World.jpg" group-title="Film",Big World sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big%20World%20sub%20ita%20%282024%29.mp4
 
-#EXTINF:-1 tvg-id="187cm_155cm" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/short-film.png",ALTRO | 187cm 155cm 몰아보기 통합본
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/187cm%20155cm%20%EB%AA%B0%EC%95%84%EB%B3%B4%EA%B8%B0%20%ED%86%B5%ED%95%A9%EB%B3%B8.mp4
+#EXTINF:-1 tvg-id="002" tvg-name="Better Days sub ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Better-Days.jpg" group-title="Film",Better Days sub ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Better%20Days%20sub%20ita%20%282019%29.mp4
 
-#EXTINF:-1 tvg-id="basketball_boys_secret" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/basketball-boys-secret.png",ALTRO | Basketball Boy's Secret
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basketball%20Boy%27s%20Secret.mp4
+#EXTINF:-1 tvg-id="003" tvg-name="So Young 2: So You're Still Here sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/never-gone.jpg" group-title="Film",So Young 2: So You're Still Here sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young%202%20So%20You%27re%20Still%20Here%20sub%20ita%20%282016%29.mp4
 
-#EXTINF:-1 tvg-id="blind_mind" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/blind-mind.png",ALTRO | Blind Mind
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind_edit.mp4
+#EXTINF:-1 tvg-id="004" tvg-name="So Young sub ita (2013)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/So-young.jpg" group-title="Film",So Young sub ita (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young%20sub%20ita%20%282013%29.mp4
 
-#EXTINF:-1 tvg-id="the_invitation_short" group-title="ALTRO" tvg-country="Corea" tvg-genre="Cortometraggio" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/the-invitation-short.png",ALTRO | The Invitation
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/The%20Invitation.mp4
+#EXTINF:-1 tvg-id="005" tvg-name="Hua Mulan Liu Chu Xuan edition sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/huamulan-2.jpg" group-title="Film",Hua Mulan Liu Chu Xuan edition sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Hua%20Mulan%20Liu%20Chu%20Xuan%20edition%20sub%20ita%20%282020%29.mp4
 
-#EXTINF:-1 tvg-id="villainess_is_a_marionette_trailer" group-title="ALTRO" tvg-country="Corea" tvg-genre="Teaser Trailer" tvg-actors="" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/06/villainess-is-a-marionette.png",ALTRO | The Villainess Is A Marionette (Teaser Trailer)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/TEASER%20TRAILER/The%20Villainess%20Is%20A%20Marionette.mp4
+#EXTINF:-1 tvg-id="006" tvg-name="The Enchanting Phantom sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Enchanting-Phantom-1.jpg" group-title="Film",The Enchanting Phantom sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The%20Enchanting%20Phantom%20sub%20ita%20%282020%29.mp4
 
-########
-# FILM #
-########
+#EXTINF:-1 tvg-id="007" tvg-name="Once Upon a Time sub ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Once-Upon-a-Time-1.jpg" group-title="Film",Once Upon a Time sub ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once%20Upon%20a%20Time%20sub%20ita%20%282017%29.mp4
 
-## CINA
-#EXTINF:-1 tvg-id="big_world_in" group-title="FILM" tvg-country="Cina" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/big-world-in.png",FILM Cinese | Big World In
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big.World.in.mp4
+#EXTINF:-1 tvg-id="008" tvg-name="One Week Friends sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/One-Week-Friends-1.jpg" group-title="Film",One Week Friends sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends%20sub%20ita%20%282022%29.mp4
 
-#EXTINF:-1 tvg-id="chinese_ghost_story_2020" group-title="FILM" tvg-country="Cina" tvg-genre="Fantasy • Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/chinese-ghost-story-2020.png",FILM Cinese | Chinese Ghost Story: Human Love (2020)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Chinese.Ghost.Story.Human.Love.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D_edit.mp4
+#EXTINF:-1 tvg-id="009" tvg-name="Mr. Pride vs Miss Prejudice sub ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Mr.-Pride-vs.-Miss-Prejudice-1.jpg" group-title="Film",Mr. Pride vs Miss Prejudice sub ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr.%20Pride%20vs%20Miss%20Prejudice%20sub%20ita%20%282017%29.mp4
 
-#EXTINF:-1 tvg-id="fall_in_love_at_first_kiss_2019" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/fall-in-love-at-first-kiss-2019.png",FILM Cinese | Fall in Love at First Kiss (2019)
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4
+#EXTINF:-1 tvg-id="010" tvg-name="I am what I am sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/I_Am_What_I_Am-cover.jpg" group-title="Film",I am what I am sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20I%20am%20sub%20ita%20%282021%29.mp4
 
-#EXTINF:-1 tvg-id="fall_in_love_with_my_badboy" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/fall-in-love-with-my-badboy.png",FILM Cinese | Fall in Love with My Badboy
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall.in.Love.with.My.Badboy.mp4
+#EXTINF:-1 tvg-id="011" tvg-name="Fall In Love With My Badboy sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/fall-in-bad-2.jpg" group-title="Film",Fall In Love With My Badboy sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20In%20Love%20With%20My%20Badboy%20sub%20ita%20%282020%29.mp4
 
-#EXTINF:-1 tvg-id="i_am_what_i_am" group-title="FILM" tvg-country="Cina" tvg-genre="Animazione • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/i-am-what-i-am.png",FILM Cinese | I Am What I Am
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20i%20am.mp4
+#EXTINF:-1 tvg-id="012" tvg-name="My Love sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/My-Love-2021-1.jpg" group-title="Film",My Love sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love%20sub%20ita%20%282021%29.mp4
 
-#EXTINF:-1 tvg-id="mr_pride_vs_miss_prejudice" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/mr-pride-vs-miss-prejudice.png",FILM Cinese | Mr. Pride vs Miss Prejudice
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr.%20Pride%20VS%20Miss%20Prejudice%20-%20china.mp4
+#EXTINF:-1 tvg-id="013" tvg-name="Never Said Goodbye sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Never-Said-Goodbye-1.jpg" group-title="Film",Never Said Goodbye sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Never%20Said%20Goodbye%20sub%20ita%20%282016%29.mp4
 
-#EXTINF:-1 tvg-id="my_love_cn" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/my-love-cn.png",FILM Cinese | My Love
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love.mp4
+#EXTINF:-1 tvg-id="014" tvg-name="The Northeastern Bro sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/The-Northeastern-Bro-1.jpg" group-title="Film",The Northeastern Bro sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The%20Northeastern%20Bro%20sub%20ita%20%282021%29.mp4
 
-#EXTINF:-1 tvg-id="never_gone" group-title="FILM" tvg-country="Cina" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/never-gone.png",FILM Cinese | Never Gone
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/never%20gone.mp4
+#EXTINF:-1 tvg-id="015" tvg-name="Bad Guy sub Ita (2001)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/Xdrwxf.jpg" group-title="Film",Bad Guy sub Ita (2001)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Bad%20Guy%20sub%20Ita%20%282001%29.mp4
 
-## COREA
-#EXTINF:-1 tvg-id="a_werewolf_boy" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Fantasy" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/a-werewolf-boy.png",FILM Coreano | A Werewolf Boy
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Werewolf%20Boy.mp4
+#EXTINF:-1 tvg-id="016" tvg-name="You’re So Precious to Me sub Ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/Youre-So-Precious-to-Me.jpg" group-title="Film",You’re So Precious to Me sub Ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/You%E2%80%99re%20So%20Precious%20to%20Me%20sub%20Ita%20%282021%29.mp4
 
-#EXTINF:-1 tvg-id="architecture_101" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/architecture-101.png",FILM Coreano | Architecture 101
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Architecture%20101.mp4
+#EXTINF:-1 tvg-id="017" tvg-name="Derailed sub Ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/09/veAypf.jpg" group-title="Film",Derailed sub Ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Derailed%20sub%20Ita%20%282016%29.mp4
 
-#EXTINF:-1 tvg-id="beauty_inside_movie" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Fantasy" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/beauty-inside-movie.png",FILM Coreano | Beauty Inside
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Beauty%20Inside.mp4
+#EXTINF:-1 tvg-id="018" tvg-name="Il Mare – Siworae sub Ita (2000)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/dnFnGiVMDYNcV5sF9cjl1XeZFWc.webp" group-title="Film",Il Mare – Siworae sub Ita (2000)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae%20sub%20Ita%20%282000%29.mp4
 
-#EXTINF:-1 tvg-id="christmas_in_august" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/christmas-in-august.png",FILM Coreano | Christmas in August
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Christmas%20in%20August.mp4
+#EXTINF:-1 tvg-id="019" tvg-name="Marriage Blue sub Ita (2013)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/vXe2gf.jpg" group-title="Film",Marriage Blue sub Ita (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Marriage%20Blue%20sub%20Ita%20%282013%29.mp4
 
-#EXTINF:-1 tvg-id="innocent_thing" group-title="FILM" tvg-country="Corea" tvg-genre="Thriller • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/innocent-thing.png",FILM Coreano | Innocent Thing
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Innocent%20Thing.mp4
+#EXTINF:-1 tvg-id="020" tvg-name="Start-Up sub Ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/start-up-2.jpg" group-title="Film",Start-Up sub Ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Start-Up%20sub%20Ita%20%282019%29.mp4
 
-#EXTINF:-1 tvg-id="little_forest_kr" group-title="FILM" tvg-country="Corea" tvg-genre="Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/little-forest-kr.png",FILM Coreano | Little Forest
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Little%20Forest.mp4
+#EXTINF:-1 tvg-id="021" tvg-name="Along with the Gods 2: The Last 49 Days sub Ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-2.jpg" group-title="Film",Along with the Gods 2: The Last 49 Days sub Ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Along%20with%20the%20Gods%202%20The%20Last%2049%20Days%20sub%20Ita%20%282018%29.mp4
 
-#EXTINF:-1 tvg-id="my_sassy_girl" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/my-sassy-girl.png",FILM Coreano | My Sassy Girl
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My%20Sassy%20Girl.mp4
+#EXTINF:-1 tvg-id="022" tvg-name="My Annoying Brother sub Ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/E7Zx7f.jpg" group-title="Film",My Annoying Brother sub Ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My%20Annoying%20Brother%20sub%20Ita%20%282016%29.mp4
 
-#EXTINF:-1 tvg-id="on_your_wedding_day" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/on-your-wedding-day.png",FILM Coreano | On Your Wedding Day
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/On%20Your%20Wedding%20Day.mp4
+#EXTINF:-1 tvg-id="023" tvg-name="Along with the Gods: The Two Worlds sub Ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-1.jpg" group-title="Film",Along with the Gods: The Two Worlds sub Ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Along%20with%20the%20Gods%20The%20Two%20Worlds%20sub%20Ita%20%282017%29.mp4
 
-#EXTINF:-1 tvg-id="tune_in_for_love" group-title="FILM" tvg-country="Corea" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/tune-in-for-love.png",FILM Coreano | Tune in for Love
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Tune%20in%20for%20Love.mp4
+#EXTINF:-1 tvg-id="024" tvg-name="Yadung: The Switch sub Ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Haunted-Palace.jpg" group-title="Film",Yadung: The Switch sub Ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Yadung%20The%20Switch%20sub%20Ita%20%282025%29.mp4
 
-## GIAPPONE
-#EXTINF:-1 tvg-id="after_the_rain" group-title="FILM" tvg-country="Giappone" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/after-the-rain.png",FILM Giapponese | After the Rain
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/After%20the%20Rain.mp4
+#EXTINF:-1 tvg-id="025" tvg-name="Secret: Untold Melody sub Ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Secret-Untold-Melody.jpg" group-title="Film",Secret: Untold Melody sub Ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Secret%20Untold%20Melody%20sub%20Ita%20%282025%29.mp4
 
-#EXTINF:-1 tvg-id="close_range_love" group-title="FILM" tvg-country="Giappone" tvg-genre="Romantico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/close-range-love.png",FILM Giapponese | Close Range Love
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Close%20Range%20Love.mp4
+#EXTINF:-1 tvg-id="026" tvg-name="Hi-Five sub Ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rebound-1.jpg" group-title="Film",Hi-Five sub Ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hi-Five%20sub%20Ita%20%282023%29.mp4
 
-#EXTINF:-1 tvg-id="my_little_monster" group-title="FILM" tvg-country="Giappone" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/my-little-monster.png",FILM Giapponese | My Little Monster
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/My%20Little%20Monster.mp4
+#EXTINF:-1 tvg-id="027" tvg-name="Hear Me: Our Summer sub Ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Hear-Me-Our-Summer.jpg" group-title="Film",Hear Me: Our Summer sub Ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hear%20Me%20Our%20Summer%20sub%20Ita%20%282024%29.mp4
 
-#EXTINF:-1 tvg-id="orange_movie" group-title="FILM" tvg-country="Giappone" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/orange-movie.png",FILM Giapponese | Orange
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Orange.mp4
+#EXTINF:-1 tvg-id="028" tvg-name="Forbidden Fairytale sub Ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Forbidden-Fairytaler.jpg" group-title="Film",Forbidden Fairytale sub Ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Forbidden%20Fairytale%20sub%20Ita%20%282025%29.mp4
 
-## HONG KONG
-#EXTINF:-1 tvg-id="love_off_the_cuff" group-title="FILM" tvg-country="Hong Kong" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/love-off-the-cuff.png",FILM Hong Kong | Love Off the Cuff
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Love%20Off%20the%20Cuff.mp4
+#EXTINF:-1 tvg-id="029" tvg-name="A Frozen Flower sub Ita (2008)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/url.webp" group-title="Film",A Frozen Flower sub Ita (2008)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Frozen%20Flower%20sub%20Ita%20%282008%29.mp4
 
-## TAIWAN
-#EXTINF:-1 tvg-id="more_than_blue" group-title="FILM" tvg-country="Taiwan" tvg-genre="Romantico • Drammatico" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/more-than-blue.png",FILM Taiwan | More Than Blue
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/More%20Than%20Blue.mp4
+#EXTINF:-1 tvg-id="030" tvg-name="Scarlet Innocence sub Ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Scarlet-Innocence.jpg" group-title="Film",Scarlet Innocence sub Ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Scarlet%20Innocence%20sub%20Ita%20%282014%29.mp4
 
-#EXTINF:-1 tvg-id="our_times" group-title="FILM" tvg-country="Taiwan" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/our-times.png",FILM Taiwan | Our Times
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Our%20Times.mp4
+#EXTINF:-1 tvg-id="031" tvg-name="Josee sub Ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Josee.jpg" group-title="Film",Josee sub Ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Josee%20sub%20Ita%20%282020%29.mp4
 
-## THAILANDIA
-#EXTINF:-1 tvg-id="friend_zone" group-title="FILM" tvg-country="Thailandia" tvg-genre="Romantico • Commedia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/friend-zone.png",FILM Thailandese | Friend Zone
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/Friend%20Zone.mp4
+#EXTINF:-1 tvg-id="032" tvg-name="A Year-End Medley sub Ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Year-End-Medley-1.jpg" group-title="Film",A Year-End Medley sub Ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Year-End%20Medley%20sub%20Ita%20%282021%29.mp4
 
-#########
-# DRAMA #
-#########
+#EXTINF:-1 tvg-id="033" tvg-name="The Classic sub Ita (2003)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Classic.jpg" group-title="Film",The Classic sub Ita (2003)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Classic%20sub%20Ita%20%282003%29.mp4
 
-## COREA
-# Goblin (2016) - TUTTI GLI EPISODI RAGGRUPPATI CON STESSO TVG-ID
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/01.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/02.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/03.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/04.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/05.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/06.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/07.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/08.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 09
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/09.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/10.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/11.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/12.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/13.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 14
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/14.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 15
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/15.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Episodio 16
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/16.mp4
-#EXTINF:-1 tvg-id="goblin_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/goblin2.jpg" tvg-genre="Fantasy • Romantico",DRAMA Coreano | Goblin (2016) - Special
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/GOBLIN/Speciale.mp4
+#EXTINF:-1 tvg-id="034" tvg-name="Woojoo’s Christmas sub Ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Woojoos-Christmas.jpg" group-title="Film",Woojoo’s Christmas sub Ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Woojoo%E2%80%99s%20Christmas%20sub%20Ita%20%282016%29.mp4
 
-# Moon Lovers: Scarlet Heart Ryeo (2016) - TUTTI GLI EPISODI RAGGRUPPATI CON STESSO TVG-ID
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/01.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 02
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/02.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 03
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/03.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 04
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/04.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 05
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/05.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 06
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/06.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 07
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/07.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 08
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/08.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 09
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/09.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 10
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/10.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 11
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/11.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 12
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/12.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 13
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/13.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 14
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/14.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 15
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/15.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 16
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/16.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 17
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/17.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 18
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/18.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 19
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/19.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Episodio 20
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/20.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Special 1
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/Special%201.mp4
-#EXTINF:-1 tvg-id="moon_lovers_2016" group-title="DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/moon-lovers.jpg" tvg-genre="Storico • Romantico",DRAMA Coreano | Moon Lovers: Scarlet Heart Ryeo (2016) - Special 2
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/MOON%20LOVERS/Special%202.mp4
+#EXTINF:-1 tvg-id="035" tvg-name="Love in the Big City sub Ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Love-in-the-Big-City.jpg" group-title="Film",Love in the Big City sub Ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Love%20in%20the%20Big%20City%20sub%20Ita%20%282024%29.mp4
 
-## CINA
-#EXTINF:-1 tvg-id="love_o2o_2016" group-title="DRAMA" tvg-country="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/love-o2o.jpg" tvg-genre="Romantico • Commedia",DRAMA Cinese | Love O2O (2016) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/LOVE%20O2O/01.mp4
+#EXTINF:-1 tvg-id="036" tvg-name="A Millionaire’s First Love sub Ita (2006)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Millionaires-First-Love.jpg" group-title="Film",A Millionaire’s First Love sub Ita (2006)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Millionaire%E2%80%99s%20First%20Love%20sub%20Ita%20%282006%29.mp4
 
-## GIAPPONE
-#EXTINF:-1 tvg-id="hana_yori_dango_2005" group-title="DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/hana-yori-dango.jpg" tvg-genre="Romantico • Commedia",DRAMA Giapponese | Hana Yori Dango (2005) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/HANA%20YORI%20DANGO/01.mp4
+#EXTINF:-1 tvg-id="037" tvg-name="Hope sub Ita (2013)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Hope.jpg" group-title="Film",Hope sub Ita (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hope%20sub%20Ita%20%282013%29.mp4
 
-## HONG KONG
-#EXTINF:-1 tvg-id="meteor_garden_2001" group-title="DRAMA" tvg-country="Hong Kong" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/meteor-garden-2001.jpg" tvg-genre="Romantico • Commedia",DRAMA Hong Kong | Meteor Garden (2001) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/HONG%20KONG/METEOR%20GARDEN/01.mp4
+#EXTINF:-1 tvg-id="038" tvg-name="Love Reset sub Ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Love-Reset.jpg" group-title="Film",Love Reset sub Ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Love%20Reset%20sub%20Ita%20%282023%29.mp4
 
-## TAIWAN
-#EXTINF:-1 tvg-id="meteor_garden_2018" group-title="DRAMA" tvg-country="Taiwan" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/meteor-garden-2018.jpg" tvg-genre="Romantico • Commedia",DRAMA Taiwan | Meteor Garden (2018) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/TAIWAN/METEOR%20GARDEN%202018/01.mp4
+#EXTINF:-1 tvg-id="039" tvg-name="The Girl’s Ghost Story sub Ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Girls-Ghost-Story.jpg" group-title="Film",The Girl’s Ghost Story sub Ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Girl%E2%80%99s%20Ghost%20Story%20sub%20Ita%20%282014%29.mp4
 
-## THAILANDIA
-#EXTINF:-1 tvg-id="f4_thailand_2021" group-title="DRAMA" tvg-country="Thailandia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/f4-thailand.jpg" tvg-genre="Romantico • Commedia",DRAMA Thailandese | F4 Thailand (2021) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/THAILANDIA/F4%20THAILAND/01.mp4
+#EXTINF:-1 tvg-id="040" tvg-name="Method sub Ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Method.jpg" group-title="Film",Method sub Ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Method%20sub%20Ita%20%282017%29.mp4
 
-###################
-# MINI E WEB DRAMA #
-###################
+#EXTINF:-1 tvg-id="041" tvg-name="Soulmate sub Ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_013726696.png" group-title="Film",Soulmate sub Ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Soulmate%20sub%20Ita%20%282024%29.mp4
 
-## COREA
-#EXTINF:-1 tvg-id="a_teen_2018" group-title="MINI E WEB DRAMA" tvg-country="Corea" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/a-teen.jpg" tvg-genre="Romantico • Commedia",MINI E WEB DRAMA Coreano | A-Teen (2018) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/A-TEEN/01.mp4
+#EXTINF:-1 tvg-id="042" tvg-name="Spirits’ Homecoming sub Ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/spirits.jpg" group-title="Film",Spirits’ Homecoming sub Ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Spirits%E2%80%99%20Homecoming%20sub%20Ita%20%282016%29.mp4
 
-## CINA
-#EXTINF:-1 tvg-id="go_go_squid_2019" group-title="MINI E WEB DRAMA" tvg-country="Cina" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/go-go-squid.jpg" tvg-genre="Romantico • Commedia",MINI E WEB DRAMA Cinese | Go Go Squid! (2019) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/GO%20GO%20SQUID/01.mp4
+#EXTINF:-1 tvg-id="043" tvg-name="Running Man sub Ita (2013)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/running-man2.jpg" group-title="Film",Running Man sub Ita (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Running%20Man%20sub%20Ita%20%282013%29.mp4
 
-## GIAPPONE
-#EXTINF:-1 tvg-id="coffee_and_vanilla_2019" group-title="MINI E WEB DRAMA" tvg-country="Giappone" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-and-vanilla.jpg" tvg-genre="Romantico",MINI E WEB DRAMA Giapponese | Coffee & Vanilla (2019) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/GIAPPONE/COFFEE%20AND%20VANILLA/01.mp4
+#EXTINF:-1 tvg-id="044" tvg-name="No Breathing sub Ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/No-Breathing-1.jpg" group-title="Film",No Breathing sub Ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/No%20Breathing%20sub%20Ita%20%282014%29.mp4
 
-## HONG KONG
-#EXTINF:-1 tvg-id="love_is_science_2021" group-title="MINI E WEB DRAMA" tvg-country="Hong Kong" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/love-is-science.jpg" tvg-genre="Romantico • Commedia",MINI E WEB DRAMA Hong Kong | Love is Science (2021) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/HONG%20KONG/LOVE%20IS%20SCIENCE/01.mp4
+#EXTINF:-1 tvg-id="045" tvg-name="Hot Young Bloods sub Ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/x4QVqf.jpg" group-title="Film",Hot Young Bloods sub Ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hot%20Young%20Bloods%20sub%20Ita%20%282014%29.mp4
 
-## TAIWAN
-#EXTINF:-1 tvg-id="someday_or_one_day_2019" group-title="MINI E WEB DRAMA" tvg-country="Taiwan" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/someday-or-one-day.jpg" tvg-genre="Romantico • Fantasy",MINI E WEB DRAMA Taiwan | Someday or One Day (2019) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/TAIWAN/SOMEDAY%20OR%20ONE%20DAY/01.mp4
+#EXTINF:-1 tvg-id="046" tvg-name="Wonderland sub Ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Wonderland-1.jpg" group-title="Film",Wonderland sub Ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Wonderland%20sub%20Ita%20%282024%29.mp4
 
-## THAILANDIA
-#EXTINF:-1 tvg-id="2gether_2020" group-title="MINI E WEB DRAMA" tvg-country="Thailandia" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/2gether.jpg" tvg-genre="Romantico • Commedia",MINI E WEB DRAMA Thailandese | 2gether: The Series (2020) - Episodio 01
-https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/THAILANDIA/2GETHER/01.mp4
+#EXTINF:-1 tvg-id="047" tvg-name="Secretly Greatly sub Ita (2013)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Secretly-Greatly-1.jpg" group-title="Film",Secretly Greatly sub Ita (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Secretly%20Greatly%20sub%20Ita%20%282013%29.mp4
+
+#EXTINF:-1 tvg-id="048" tvg-name="Exhuma sub Ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_013726696.png" group-title="Film",Exhuma sub Ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Exhuma%20sub%20Ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="049" tvg-name="Single in Seoul sub Ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/single-in-seoul-1.jpg" group-title="Film",Single in Seoul sub Ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Single%20in%20Seoul%20sub%20Ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="050" tvg-name="Spiritwalker sub Ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Spiritwalker-1.jpg" group-title="Film",Spiritwalker sub Ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Spiritwalker%20sub%20Ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="051" tvg-name="V.I.P sub Ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rampant-1.jpg" group-title="Film",V.I.P sub Ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/V.I.P%20sub%20Ita%20%282017%29.mp4
+
+#EXTINF:-1 tvg-id="052" tvg-name="The Gangster, the Cop and the Devil sub Ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Gangster-the-Cop-and-the-Devil-1.jpg" group-title="Film",The Gangster, the Cop and the Devil sub Ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Gangster%2C%20the%20Cop%20and%20the%20Devil%20sub%20Ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="053" tvg-name="Rebound sub Ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rebound-1.jpg" group-title="Film",Rebound sub Ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rebound%20sub%20Ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="054" tvg-name="May 18 sub Ita (2007)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/may-18-1.jpg" group-title="Film",May 18 sub Ita (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/May%2018%20sub%20Ita%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="055" tvg-name="Concrete Utopia sub Ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/concrete-utopia-1.jpg" group-title="Film",Concrete Utopia sub Ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Concrete%20Utopia%20sub%20Ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="056" tvg-name="Twenty sub Ita (2015)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/twenty-1.jpg" group-title="Film",Twenty sub Ita (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Twenty%20sub%20Ita%20%282015%29.mp4
+
+#EXTINF:-1 tvg-id="057" tvg-name="The Odd Family: Zombie on Sale sub Ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Odd-Family-Zombie-on-Sale-1.jpg" group-title="Film",The Odd Family: Zombie on Sale sub Ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Odd%20Family%20Zombie%20on%20Sale%20sub%20Ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="058" tvg-name="The Childe sub Ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-childe1.jpg" group-title="Film",The Childe sub Ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Childe%20sub%20Ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="059" tvg-name="Kim Ji-young: Born 1982 sub Ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kim-Ji-Young-Born-1982-1-scaled.jpg" group-title="Film",Kim Ji-young: Born 1982 sub Ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Kim%20Ji-young%20Born%201982%20sub%20Ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="060" tvg-name="100 Days with Mr. Arrogant sub Ita (2004)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/100-Days-with-Mr.-Arrogant-1.jpg" group-title="Film",100 Days with Mr. Arrogant sub Ita (2004)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/100%20Days%20with%20Mr.%20Arrogant%20sub%20Ita%20%282004%29.mp4
+
+#EXTINF:-1 tvg-id="061" tvg-name="Voice of Silence sub Ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Voice-of-Silence-1.jpg" group-title="Film",Voice of Silence sub Ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Voice%20of%20Silence%20sub%20Ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="062" tvg-name="Real sub Ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rampant-1.jpg" group-title="Film",Real sub Ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Real%20sub%20Ita%20%282017%29.mp4
+
+#EXTINF:-1 tvg-id="063" tvg-name="Rampant sub Ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/rampant-1.jpg" group-title="Film",Rampant sub Ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Rampant%20sub%20Ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="064" tvg-name="Memories Of The Sword sub Ita (2015)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/memories-of-the-sword-1.jpg" group-title="Film",Memories Of The Sword sub Ita (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Memories%20Of%20The%20Sword%20sub%20Ita%20%282015%29.mp4
+
+#EXTINF:-1 tvg-id="065" tvg-name="Always sub Ita (2011)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/always-1.jpg" group-title="Film",Always sub Ita (2011)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Always%20sub%20Ita%20%282011%29.mp4
+
+#EXTINF:-1 tvg-id="066" tvg-name="The Servant sub Ita (2010)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/the-servant-1.jpg" group-title="Film",The Servant sub Ita (2010)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Servant%20sub%20Ita%20%282010%29.mp4
+
+#EXTINF:-1 tvg-id="067" tvg-name="The King and the Clown sub Ita (2005)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-King-and-the-Clown-1.jpg" group-title="Film",The King and the Clown sub Ita (2005)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20King%20and%20the%20Clown%20sub%20Ita%20%282005%29.mp4
+
+#EXTINF:-1 tvg-id="068" tvg-name="Empire of Lust sub Ita (2015)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/lust.jpg" group-title="Film",Empire of Lust sub Ita (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Empire%20of%20Lust%20sub%20Ita%20%282015%29.mp4
+
+#EXTINF:-1 tvg-id="069" tvg-name="Northern Limit Line sub Ita (2015)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Northern-Limit-Line-3.jpg" group-title="Film",Northern Limit Line sub Ita (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Northern%20Limit%20Line%20sub%20Ita%20%282015%29.mp4
+
+#EXTINF:-1 tvg-id="070" tvg-name="One on One sub Ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/2w53Wf.jpg" group-title="Film",One on One sub Ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/One%20on%20One%20sub%20Ita%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="071" tvg-name="Late Autumn sub Ita (2010)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/late-2.jpg" group-title="Film",Late Autumn sub Ita (2010)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Late%20Autumn%20sub%20Ita%20%282010%29.mp4
+
+#EXTINF:-1 tvg-id="072" tvg-name="The Divine Fury sub Ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/WNPopf.jpg" group-title="Film",The Divine Fury sub Ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Divine%20Fury%20sub%20Ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="073" tvg-name="Burning sub Ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Burning-1.jpg" group-title="Film",Burning sub Ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Burning%20sub%20Ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="074" tvg-name="Midnight Runners sub Ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Midnight-Runners-1.jpg" group-title="Film",Midnight Runners sub Ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Midnight%20Runners%20sub%20Ita%20%282017%29.mp4
+
+#EXTINF:-1 tvg-id="075" tvg-name="A Man and a Woman sub Ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/A-man-and-a-woman.jpg" group-title="Film",A Man and a Woman sub Ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Man%20and%20a%20Woman%20sub%20Ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="076" tvg-name="My PS Partner sub Ita (2012)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/My-P.S.-Partne-1.webp" group-title="Film",My PS Partner sub Ita (2012)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My%20PS%20Partner%20sub%20Ita%20%282012%29.mp4
+
+#EXTINF:-1 tvg-id="077" tvg-name="On Your Wedding Day sub Ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/On-Your-Wedding-Day-1.jpg" group-title="Film",On Your Wedding Day sub Ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/On%20Your%20Wedding%20Day%20sub%20Ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="078" tvg-name="Hard Hit sub Ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/hard-2.jpg" group-title="Film",Hard Hit sub Ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hard%20Hit%20sub%20Ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="079" tvg-name="Silenced sub Ita (2011)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Silenced-1.jpg" group-title="Film",Silenced sub Ita (2011)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Silenced%20sub%20Ita%20%282011%29.mp4
+
+#EXTINF:-1 tvg-id="080" tvg-name="Antique Bakery sub Ita (2008)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Antique-1.jpg" group-title="Film",Antique Bakery sub Ita (2008)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Antique%20Bakery%20sub%20Ita%20%282008%29.mp4
+
+#EXTINF:-1 tvg-id="081" tvg-name="The Suspect sub Ita (2013)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/w0kwnf.jpg" group-title="Film",The Suspect sub Ita (2013)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Suspect%20sub%20Ita%20%282013%29.mp4
+
+#EXTINF:-1 tvg-id="082" tvg-name="The Last Ride sub Ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/The-Last-Ride-1.jpg" group-title="Film",The Last Ride sub Ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Last%20Ride%20sub%20Ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="083" tvg-name="Homme Fatale sub Ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Homme-Fatale1-scaled.jpg" group-title="Film",Homme Fatale sub Ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Homme%20Fatale%20sub%20Ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="084" tvg-name="Seobok sub Ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/snowdrop.jpg" group-title="Film",Seobok sub Ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Seobok%20sub%20Ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="085" tvg-name="A way station sub Ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/a-way-1.jpg" group-title="Film",A way station sub Ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20way%20station%20sub%20Ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="086" tvg-name="Pipeline sub Ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/pipeline.jpg" group-title="Film",Pipeline sub Ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pipeline%20sub%20Ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="087" tvg-name="Parasyte: Parte 2 sub ita (2015)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/JjKvXf.jpg" group-title="Film",Parasyte: Parte 2 sub ita (2015)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20Parte%202%20sub%20ita%20%282015%29.mp4
+
+#EXTINF:-1 tvg-id="088" tvg-name="Parasyte: Parte 1 sub ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-kiseiju.jpg" group-title="Film",Parasyte: Parte 1 sub ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20Parte%201%20sub%20ita%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="089" tvg-name="Karakai Jozu no Takagi-san sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Karakai-Jozu-no-Takagi-san.jpg" group-title="Film",Karakai Jozu no Takagi-san sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Karakai%20Jozu%20no%20Takagi-san%20sub%20ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="090" tvg-name="Ano Hana ga Saku Oka de, Kimi to Mata Aetara sub ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Ano-Hana-ga.jpg" group-title="Film",Ano Hana ga Saku Oka de, Kimi to Mata Aetara sub ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ano%20Hana%20ga%20Saku%20Oka%20de%2C%20Kimi%20to%20Mata%20Aetara%20sub%20ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="091" tvg-name="Nagisa ni Saku Hana sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Nagisa-ni-Saku-Hana.jpg" group-title="Film",Nagisa ni Saku Hana sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Nagisa%20ni%20Saku%20Hana%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="092" tvg-name="Metamorufoze no Engawa sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/BL-Metamorphosis.jpg" group-title="Film",Metamorufoze no Engawa sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Metamorufoze%20no%20Engawa%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="093" tvg-name="Konya Sekai kara Kono Koi ga Kietemo sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Even-if-This-Love.jpg" group-title="Film",Konya Sekai kara Kono Koi ga Kietemo sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Konya%20Sekai%20kara%20Kono%20Koi%20ga%20Kietemo%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="094" tvg-name="Inuyashiki sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Inuyashiki.jpg" group-title="Film",Inuyashiki sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Inuyashiki%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="095" tvg-name="Shigatsu ni Nareba Kanojo wa sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Shigatsu-ni-Nareba-Kanojo-wa.jpg" group-title="Film",Shigatsu ni Nareba Kanojo wa sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Shigatsu%20ni%20Nareba%20Kanojo%20wa%20sub%20ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="096" tvg-name="Ajin: Demi-Human sub ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Ajin-Demi-Human.jpg" group-title="Film",Ajin: Demi-Human sub ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ajin%20Demi-Human%20sub%20ita%20%282017%29.mp4
+
+#EXTINF:-1 tvg-id="097" tvg-name="Kimi wa Houkago Insomnia sub ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Insomniacs-After-School-1.jpg" group-title="Film",Kimi wa Houkago Insomnia sub ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Kimi%20wa%20Houkago%20Insomnia%20sub%20ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="098" tvg-name="Kakugo wa Iika Soko no Joshi sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/lock.jpg" group-title="Film",Kakugo wa Iika Soko no Joshi sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Kakugo%20wa%20Iika%20Soko%20no%20Joshi%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="099" tvg-name="Sen wa Boku o Egaku sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Lines-that-Define-Me.jpg" group-title="Film",Sen wa Boku o Egaku sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Sen%20wa%20Boku%20o%20Egaku%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-name="Boku wa Imouto ni Koi wo Suru sub ita (2007)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/boku-wa-imouto-1.jpg" group-title="Film",Boku wa Imouto ni Koi wo Suru sub ita (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Boku%20wa%20Imouto%20ni%20Koi%20wo%20Suru%20sub%20ita%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="101" tvg-name="Ookami Shoujo to Kuro Ouji sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Wolf-Girl-and-Black-Prince-1.jpg" group-title="Film",Ookami Shoujo to Kuro Ouji sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ookami%20Shoujo%20to%20Kuro%20Ouji%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="102" tvg-name="Watashi no Shiawasena Kekkon – film sub ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/my-happy-marriage-1.jpg" group-title="Film",Watashi no Shiawasena Kekkon – film sub ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Watashi%20no%20Shiawasena%20Kekkon%20-%20film%20sub%20ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="103" tvg-name="Perfect World – film sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-film-1.jpg" group-title="Film",Perfect World – film sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Perfect%20World%20-%20film%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="104" tvg-name="Hana Yori Dango Final sub ita (2008)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Hana-Yori-Dango-Final-1.jpg" group-title="Film",Hana Yori Dango Final sub ita (2008)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Hana%20Yori%20Dango%20Final%20sub%20ita%20%282008%29.mp4
+
+#EXTINF:-1 tvg-id="105" tvg-name="Tokyo Revengers sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Tokyo-Revengers-1-1.jpg" group-title="Film",Tokyo Revengers sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Tokyo%20Revengers%20sub%20ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="106" tvg-name="Ani ni Aisaresugite Komattemasu sub ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/honey-2.jpg" group-title="Film",Ani ni Aisaresugite Komattemasu sub ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ani%20ni%20Aisaresugite%20Komattemasu%20sub%20ita%20%282017%29.mp4
+
+#EXTINF:-1 tvg-id="107" tvg-name="Honey sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/honey-2.jpg" group-title="Film",Honey sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Honey%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="108" tvg-name="Marmalade boy sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Marmalade-boy-1.jpg" group-title="Film",Marmalade boy sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Marmalade%20boy%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="109" tvg-name="No call no life sub ita (2011)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/No-call-no-life-1.webp" group-title="Film",No call no life sub ita (2011)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/No%20call%20no%20life%20sub%20ita%20%282011%29.mp4
+
+#EXTINF:-1 tvg-id="110" tvg-name="Hatsuyuki no Koi sub ita (2007)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Virgin-Snow-1.webp" group-title="Film",Hatsuyuki no Koi sub ita (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Hatsuyuki%20no%20Koi%20sub%20ita%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="111" tvg-name="Usagi Drop sub ita (2011)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/9Y7BMf.jpg" group-title="Film",Usagi Drop sub ita (2011)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Usagi%20Drop%20sub%20ita%20%282011%29.mp4
+
+#EXTINF:-1 tvg-id="112" tvg-name="Haganai – Boku wa Tomodachi ga Sukunai sub ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/b3K5Ef.jpg" group-title="Film",Haganai – Boku wa Tomodachi ga Sukunai sub ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Haganai%20-%20Boku%20wa%20Tomodachi%20ga%20Sukunai%20sub%20ita%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="113" tvg-name="Kurosaki kun no Iinari ni Nante Naranai sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Kurosaki-kun-no-Iinari-ni-Nante-Naranai.jpg" group-title="Film",Kurosaki kun no Iinari ni Nante Naranai sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Kurosaki%20kun%20no%20Iinari%20ni%20Nante%20Naranai%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="114" tvg-name="Ex sub ita (2010)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/ex-1.jpg" group-title="Film",Ex sub ita (2010)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG KONG/Ex%20sub%20ita%20%282010%29.mp4
+
+#EXTINF:-1 tvg-id="115" tvg-name="Fall in Love at First Kiss sub ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/fall-in-love-at-first-kiss-1.jpg" group-title="Film",Fall in Love at First Kiss sub ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Fall%20in%20Love%20at%20First%20Kiss%20sub%20ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="116" tvg-name="Say Yes Again sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Say-Yes-Again-1.jpg" group-title="Film",Say Yes Again sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20Yes%20Again%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="117" tvg-name="Laser Candy sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/AI-Love-You-1.jpg" group-title="Film",Laser Candy sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/Laser%20Candy%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="118" tvg-name="A Familiar Stranger sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Familiar-Stranger.jpg" group-title="Drama",A Familiar Stranger sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="119" tvg-name="Dramaworld sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/dramaworld-1.jpg" group-title="Drama",Dramaworld sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="120" tvg-name="Again My Life sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/again-my-life1.webp" group-title="Drama",Again My Life sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="121" tvg-name="Doctor Brain sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/br-brain-1.jpg" group-title="Drama",Doctor Brain sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain%20sub%20ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="122" tvg-name="Through the Darkness sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/RKyzE_4f.jpg" group-title="Drama",Through the Darkness sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="123" tvg-name="Time between dog and wolf sub ita (2007)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Time-between-dog-and-wolf.jpg" group-title="Drama",Time between dog and wolf sub ita (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf%20sub%20ita%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="124" tvg-name="Snowdrop sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/snowdrop.jpg" group-title="Drama",Snowdrop sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop%20sub%20ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="125" tvg-name="Lovers of the Red Sky sub ita (2021)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/red-sky.jpg" group-title="Drama",Lovers of the Red Sky sub ita (2021)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky%20sub%20ita%20%282021%29.mp4
+
+#EXTINF:-1 tvg-id="126" tvg-name="Guardian: The Lonely and Great God sub ita – Goblin sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/goblin1.jpg" group-title="Drama",Guardian: The Lonely and Great God sub ita – Goblin sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20sub%20ita%20-%20Goblin%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="127" tvg-name="Moon Lovers: Scarlet Heart Ryeo sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-03_052851479.png" group-title="Drama",Moon Lovers: Scarlet Heart Ryeo sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="128" tvg-name="True Beauty sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-13_050249572.png" group-title="Drama",True Beauty sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty%20sub%20ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="129" tvg-name="Pachinko la moglie coreana sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-03_040336482-e1722650672196.png" group-title="Drama",Pachinko la moglie coreana sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="130" tvg-name="Twelve sub ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/08/twelve.jpg" group-title="Drama",Twelve sub ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve%20sub%20ita%20%282025%29.mp4
+
+#EXTINF:-1 tvg-id="131" tvg-name="S-Line sub ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/S-Line-2.jpg" group-title="Drama",S-Line sub ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line%20sub%20ita%20%282025%29.mp4
+
+#EXTINF:-1 tvg-id="132" tvg-name="The Haunted Palace sub ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Haunted-Palace.jpg" group-title="Drama",The Haunted Palace sub ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace%20sub%20ita%20%282025%29.mp4
+
+#EXTINF:-1 tvg-id="133" tvg-name="The Scandal of Chun Hwa sub ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Scandal-of-Chun-Hwa.jpg" group-title="Drama",The Scandal of Chun Hwa sub ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa%20sub%20ita%20%282025%29.mp4
+
+#EXTINF:-1 tvg-id="134" tvg-name="Pride and Prejudice sub ita (2014)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Pride-and-Prejudice.jpg" group-title="Drama",Pride and Prejudice sub ita (2014)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice%20sub%20ita%20%282014%29.mp4
+
+#EXTINF:-1 tvg-id="135" tvg-name="When the Stars Gossip sub ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/When-the-Stars-Gossip.jpg" group-title="Drama",When the Stars Gossip sub ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip%20sub%20ita%20%282025%29.mp4
+
+#EXTINF:-1 tvg-id="136" tvg-name="Queen Woo sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Queen-Woo.jpg" group-title="Drama",Queen Woo sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo%20sub%20ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="137" tvg-name="The Impossible Heir sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/eY3dnQ_4f.jpg" group-title="Drama",The Impossible Heir sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir%20sub%20ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="138" tvg-name="The Smile Has Left Your Eyes sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Smile-Has-Left-Your-Eyes-1.jpg" group-title="Drama",The Smile Has Left Your Eyes sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="139" tvg-name="Wonderful World sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/wonderful-world-1.jpg" group-title="Drama",Wonderful World sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World%20sub%20ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="140" tvg-name="Coffee Prince sub ita (2007)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/05/coffee-prince-1.jpg" group-title="Drama",Coffee Prince sub ita (2007)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince%20sub%20ita%20%282007%29.mp4
+
+#EXTINF:-1 tvg-id="141" tvg-name="A Good Day To Be A Dog sub ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/a-good-day-to-be-a-dog-1.jpg" group-title="Drama",A Good Day To Be A Dog sub ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog%20sub%20ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="142" tvg-name="Kahogona Wakadanna-sama no Amayakashi Kon sub ita (2024)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Kahogona-Wakadanna-sama-no-Amayakashi-Kon-1.jpg" group-title="Drama",Kahogona Wakadanna-sama no Amayakashi Kon sub ita (2024)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon%20sub%20ita%20%282024%29.mp4
+
+#EXTINF:-1 tvg-id="143" tvg-name="Perfect World – drama sub ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Perfect-World-drama-1.jpg" group-title="Drama",Perfect World – drama sub ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20-%20drama%20sub%20ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="144" tvg-name="Junichi sub ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Junichi-1.jpg" group-title="Drama",Junichi sub ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi%20sub%20ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="145" tvg-name="Yameru Toki mo, Sukoyaka Naru Toki mo sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/03/Xrl0xf.jpg" group-title="Drama",Yameru Toki mo, Sukoyaka Naru Toki mo sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%2C%20Sukoyaka%20Naru%20Toki%20mo%20sub%20ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="146" tvg-name="Trapped in Osaka sub ita (2025)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-2.jpg" group-title="Drama",Trapped in Osaka sub ita (2025)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/Trapped%20in%20Osaka%20sub%20ita%20%282025%29.mp4
+
+#EXTINF:-1 tvg-id="147" tvg-name="I Am Your Bleating Phone sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/09/i-am-your-2.png" group-title="Drama",I Am Your Bleating Phone sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/I%20Am%20Your%20Bleating%20Phone%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="148" tvg-name="187cm 155cm – raccolta sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/187cm-155cm-3.png" group-title="Drama",187cm 155cm – raccolta sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/187cm%20155cm%20-%20raccolta%20sub%20ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="149" tvg-name="Playful Kiss YouTube Edition sub ita (2010)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/youtube.jpg" group-title="Drama",Playful Kiss YouTube Edition sub ita (2010)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition%20sub%20ita%20%282010%29.mp4
+
+#EXTINF:-1 tvg-id="150" tvg-name="Playful Kiss Seung Jo's Diary sub ita (2010)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/diary-1.jpg" group-title="Drama",Playful Kiss Seung Jo's Diary sub ita (2010)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Playful%20Kiss%20Seung%20Jo%27s%20Diary%20sub%20ita%20%282010%29.mp4
+
+#EXTINF:-1 tvg-id="151" tvg-name="The Mermaid Prince: The Beginning sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/mermai-2-1.jpg" group-title="Drama",The Mermaid Prince: The Beginning sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Mermaid%20Prince%20The%20Beginning%20sub%20ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="152" tvg-name="Mermaid Prince sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/eEKrKf.jpg" group-title="Drama",Mermaid Prince sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Mermaid%20Prince%20sub%20ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="153" tvg-name="Office Romance Recipe sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Office-Romance-Recipe-1.jpg" group-title="Drama",Office Romance Recipe sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Office%20Romance%20Recipe%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="154" tvg-name="Soul Plate sub ita (2019)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_020519428.png" group-title="Drama",Soul Plate sub ita (2019)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Soul%20Plate%20sub%20ita%20%282019%29.mp4
+
+#EXTINF:-1 tvg-id="155" tvg-name="7 First Kisses sub ita (2016)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/7-First-Kisses-1.jpg" group-title="Drama",7 First Kisses sub ita (2016)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/7%20First%20Kisses%20sub%20ita%20%282016%29.mp4
+
+#EXTINF:-1 tvg-id="156" tvg-name="Queen of the Ring sub ita (2017)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Queen-of-the-Ring-1.jpg" group-title="Drama",Queen of the Ring sub ita (2017)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20of%20the%20Ring%20sub%20ita%20%282017%29.mp4
+
+#EXTINF:-1 tvg-id="157" tvg-name="Handmade Love sub ita (2020)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/04/Handmade-Love-1.jpg" group-title="Drama",Handmade Love sub ita (2020)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Handmade%20Love%20sub%20ita%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="158" tvg-name="Basuke Shōnen no Himitsu sub ita (2018)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Basketball-Boys-Secret-3.png" group-title="Film",Basuke Shōnen no Himitsu sub ita (2018)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Basuke%20Sh%C5%8Dnen%20no%20Himitsu%20sub%20ita%20%282018%29.mp4
+
+#EXTINF:-1 tvg-id="159" tvg-name="The Invitation sub ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/invitation.jpg" group-title="Film",The Invitation sub ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Invitation%20sub%20ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="160" tvg-name="Blind Mind sub ita (2023)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_014626172.png" group-title="Film",Blind Mind sub ita (2023)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Blind%20Mind%20sub%20ita%20%282023%29.mp4
+
+#EXTINF:-1 tvg-id="161" tvg-name="The Villainess is a Marionette sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-31_162952963.png" group-title="Drama",The Villainess is a Marionette sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Villainess%20is%20a%20Marionette%20sub%20ita%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="162" tvg-name="Office Romance Recipe sub ita (2022)" tvg-logo="https://mydrama.altervista.org/wp-content/uploads/2025/07/Office-Romance-Recipe-1.jpg" group-title="Drama",Office Romance Recipe sub ita (2022)
+https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Office%20Romance%20Recipe%20sub%20ita%20%282022%29.mp4
