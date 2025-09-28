@@ -1,5 +1,4 @@
 [
-  // 1. FILM - CINA: "Big World sub ita (2024)" (Video Singolo)
   {
     "id_progetto": "film-cina-bigworld-001",
     "tipo": "film",
@@ -15,8 +14,6 @@
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big.World.in.mp4"
     }
   },
-
-  // 2. FILM - COREA: "Il Mare – Siworae sub ita (2000)" (Video Singolo)
   {
     "id_progetto": "film-corea-ilmare-002",
     "tipo": "film",
@@ -32,8 +29,6 @@
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4"
     }
   },
-
-  // 3. FILM - GIAPPONE: "Parasyte: Parte 1 sub ita (2014)" (Video Singolo)
   {
     "id_progetto": "film-giappone-parasyte-003",
     "tipo": "film",
@@ -49,8 +44,6 @@
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%201.mp4"
     }
   },
-
-  // 4. DRAMA - COREA: "S-Line sub ita (2025)" (Multi-Video/Serie)
   {
     "id_progetto": "drama-corea-sline-004",
     "tipo": "serie",
@@ -73,8 +66,6 @@
       ]
     }
   },
-
-  // 5. MINI E WEB DRAMA - CINA: "Trapped in Osaka sub ita (2025)" (Multi-Video/Serie)
   {
     "id_progetto": "webdrama-cina-osaka-005",
     "tipo": "serie",
@@ -95,8 +86,6 @@
       ]
     }
   },
-
-  // 6. ALTRO - CORTOMETRAGGIO: "Blind Mind sub ita (2023)" (Video Singolo)
   {
     "id_progetto": "altro-corto-blindmind-006",
     "tipo": "film",
