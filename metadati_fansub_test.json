@@ -875,11 +875,397 @@
     },
     "data_inserimento": "2024-08-17"
   },
-  
+[
+  {
+    "id_progetto": "drama-giappone-momichanshouse-029",
+    "tipo": "serie",
+    "titolo": "Momi-chan's House sub ita (2020)",
+    "descrizione": "Momi-chan ha una passione per l'ordinamento e la pulizia estrema, tanto da aprire un'agenzia che aiuta a riordinare e riorganizzare le case delle persone. Incontra diversi clienti e affronta i loro problemi emotivi attraverso il riordino fisico. La serie è composta da 4 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Vita",
+      "Commedia",
+      "Drammatico"
+    ],
+    "attori": [
+      "Honda Kyōya",
+      "Ishii Momoka",
+      "Ōnishi Ryūsei"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Momichans-House.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/04.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-18"
+  },
+  {
+    "id_progetto": "drama-giappone-shitteruwife-030",
+    "tipo": "serie",
+    "titolo": "Shitteru Wife sub ita (2021)",
+    "descrizione": "Kenta e Mio sono sposati, ma la loro relazione è tesa. Quando gli viene data la possibilità di viaggiare indietro nel tempo, Kenta cambia il suo passato per sposare il suo primo amore, ma scopre che la vita, anche nella versione ideale, è piena di complicazioni. La serie è composta da 10 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Fantastico",
+      "Viaggio nel Tempo"
+    ],
+    "attori": [
+      "Ōkura Tadayoshi",
+      "Hirose Alice"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Shitteru-Wife.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/10.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-19"
+  },
+  {
+    "id_progetto": "drama-giappone-anotokikiss-031",
+    "tipo": "serie",
+    "titolo": "Ano Toki Kiss Shite Okeba sub ita (2021)",
+    "descrizione": "Nozomu, un uomo impiegato in un supermercato, si innamora di Tomoe, la sua fumettista preferita. Dopo un incidente, l'anima di Tomoe finisce nel corpo di uno sconosciuto anziano. La serie in 8 episodi è una commedia romantica che esplora l'amore oltre l'aspetto fisico.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Commedia",
+      "Romantico",
+      "Fantastico"
+    ],
+    "attori": [
+      "Matsuzaka Tōri",
+      "Inoue Mako",
+      "Asō Yumi"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Ano-Toki-Kiss.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/08.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-20"
+  },
+  {
+    "id_progetto": "drama-giappone-wakadannasama-032",
+    "tipo": "serie",
+    "titolo": "Wakadanna-sama no Amayakashi Kon sub ita (2024)",
+    "descrizione": "Akari, una ragazza che lavora in una locanda tradizionale (Ryokan), sposa il giovane erede Haku per un matrimonio combinato. La loro relazione si rivela inaspettatamente dolce grazie alla natura estremamente premurosa e affettuosa di lui. La serie è composta da 6 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Vita",
+      "Slice of Life"
+    ],
+    "attori": [
+      "Higa Manami",
+      "Takeda Shinji"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Wakadanna.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/06.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-21"
+  },
+  {
+    "id_progetto": "drama-giappone-perfectworld-033",
+    "tipo": "serie",
+    "titolo": "Perfect World – drama sub ita (2019)",
+    "descrizione": "Tsugumi Ayukawa rincontra il suo primo amore del liceo, Itsuki Ayukawa, ora un architetto costretto su una sedia a rotelle. La storia in 10 episodi esplora le difficoltà e la profondità di una relazione romantica che sfida le convenzioni e gli ostacoli fisici.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Disabilità",
+      "Vita"
+    ],
+    "attori": [
+      "Matsuzaka Tōri",
+      "Yamamoto Mizuki"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Perfect-World-Drama.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/10.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-22"
+  },
+  {
+    "id_progetto": "drama-giappone-junichi-034",
+    "tipo": "serie",
+    "titolo": "Junichi sub ita (2019)",
+    "descrizione": "Junichi, un giovane misterioso e affascinante, incontra sei donne sole e insoddisfatte. Attraverso questi incontri fugaci, il ragazzo le aiuta inconsapevolmente a ritrovare un senso nella vita e l'amore perduto. La serie è composta da 6 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Drammatico",
+      "Vita",
+      "Mistero"
+    ],
+    "attori": [
+      "Shison Jun",
+      "Kaho",
+      "Toda Erika",
+      "Miura Toko"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Junichi.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/06.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-23"
+  },
+  {
+    "id_progetto": "drama-giappone-yamerutokimo-035",
+    "tipo": "serie",
+    "titolo": "Yameru Toki mo, Sukoyaka Naru Toki mo sub ita (2020)",
+    "descrizione": "Mutsuo e Moto si incontrano e si innamorano, ma Mutsuo soffre di un disturbo dissociativo dell'identità: a volte crede di essere un designer e altre volte un artista, perdendo la memoria del suo vero sé. La serie esplora la sfida di amare qualcuno con una condizione mentale complessa, in 10 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Drammatico",
+      "Psicologico"
+    ],
+    "attori": [
+      "Fujigaya Taisuke",
+      "Nao"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Yameru-Toki.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/10.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-08-24"
+  }
 ]
-]
-]
-]
+
 
 
 
