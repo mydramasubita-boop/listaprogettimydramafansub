@@ -45,7 +45,67 @@
     }
   },
   {
-    "id_progetto": "drama-corea-sline-004",
+  "id_progetto": "film-thailandia-lasercandy-004",
+  "tipo": "film",
+  "titolo": "Laser Candy sub ita (2022)",
+  "descrizione": "Conosciuto anche come 'AI Love You', è un film commedia romantico e di fantascienza thailandese con elementi drammatici. La trama è ambientata nel prossimo futuro e segue un'intelligenza artificiale che gestisce un edificio, alimentata dalle emozioni umane che percepisce. Quando, a causa di un malfunzionamento del software, l'IA sviluppa sentimenti profondi per Lana, una ragazza umana, decide di trasferire la propria coscienza nel corpo di un uomo reale per conquistarla, imparando ad amare nel mondo reale.",
+  "macro_categoria": "film",
+  "sub_categoria": "Thailandia",
+  "generi": ["14+", "Commedia", "Romantico", "Sci-Fi"],
+  "attori": ["David Asavanond", "Mario Maurer", "Michael S. New", "Pimchanok Leuwisetpaiboon", "Sahajak Boonthanakit"],
+  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/AI-love-you-3.png",
+  "video_data": {
+    "is_serie": false,
+    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/AI%20Love%20You%20-%20thailand.mp4"
+  }
+},
+{
+  "id_progetto": "film-hongkong-ex-005",
+  "tipo": "film",
+  "titolo": "Ex sub ita (2010)",
+  "descrizione": "È un film commedia romantico e drammatico di Hong Kong diretto da Heiward Mak. La trama segue Zhou Yi, una giovane donna che, dopo una rottura turbolenta all'aeroporto, si ritrova a dover ospitare temporaneamente a casa del suo ex-fidanzato, Ping, che convive con la sua attuale compagna. Questa inaspettata convivenza riaccende vecchie fiamme e porta a un complesso triangolo amoroso, esplorando le dinamiche delle relazioni passate e presenti attraverso situazioni comiche, malintesi e connessioni inaspettate.",
+  "macro_categoria": "film",
+  "sub_categoria": "Hong Kong",
+  "generi": ["14+", "Romantico"],
+  "attori": ["Derek Tsang", "Gillian Chung", "Jacky Heung", "Lawrence Chou", "Michelle Wai", "William Chan"],
+  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/ex-3.png",
+  "video_data": {
+    "is_serie": false,
+    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Ex%20-%20hong%20kong.mp4"
+  }
+},
+{
+  "id_progetto": "film-taiwan-fallinloveatfirstkiss-006",
+  "tipo": "film",
+  "titolo": "Fall in Love at First Kiss sub ita (2019)",
+  "descrizione": "Un film taiwanese di genere commedia romantica che segue la storia di Yuan Xiang Qin, una ragazza vivace ma non particolarmente brillante a scuola, che si innamora perdutamente di Jiang Zhi Shu, il ragazzo più intelligente e popolare della scuola. Dopo un terremoto che distrugge la sua casa, Xiang Qin e suo padre vanno a vivere con un vecchio amico, che si rivela essere il padre di Zhi Shu. Costretti a convivere sotto lo stesso tetto, inizia una convivenza piena di momenti imbarazzanti, situazioni comiche e la determinata ricerca di Xiang Qin di conquistare il cuore del freddo e distaccato Zhi Shu.",
+  "macro_categoria": "film",
+  "sub_categoria": "Taiwan",
+  "generi": ["14+", "Commedia", "Romantico", "Scuola"],
+  "attori": ["Darren Wang", "Jelly Lin", "Kang Ren Wu", "Wang Zheng Zhi"],
+  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/fall-in-love-at-first-kiss-3.png",
+  "video_data": {
+    "is_serie": false,
+    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Fall%20in%20Love%20at%20First%20Kiss%20-%20taiwan.mp4"
+  }
+},
+{
+  "id_progetto": "film-taiwan-sayyesagain-007",
+  "tipo": "film",
+  "titolo": "Say Yes Again sub ita (2022)",
+  "descrizione": "È un film taiwanese di genere commedia romantica e fantastica con elementi sci-fi legati ai viaggi nel tempo. La storia segue Luke, un giovane innamorato che, dopo una proposta di matrimonio fallita accolta con un secco 'Scusa' dalla sua amata Cai, si ritrova intrappolato in un loop temporale. Luke è costretto a rivivere incessantemente lo stesso giorno della sua fallita proposta, e dovrà sfruttare le sue 'infinite' possibilità per capire cosa è andato storto, analizzare le differenze caratteriali e imparare a comunicare per conquistare il cuore di Cai.",
+  "macro_categoria": "film",
+  "sub_categoria": "Taiwan",
+  "generi": ["14+", "Commedia", "Drammatico", "Romantico", "Soprannaturale"],
+  "attori": ["Fang Wen Lin", "Guo Shu Yao", "Hou Yan Xi", "Kent Tsai", "Molly Chiang"],
+  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Say-Yes-Again-3.png",
+  "video_data": {
+    "is_serie": false,
+    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20yes%20again%20-%20taiwan.mp4"
+  }
+},
+  {
+    "id_progetto": "drama-corea-sline-008",
     "tipo": "serie",
     "titolo": "S-Line sub ita (2025)",
     "descrizione": "La storia si concentra sulla comparsa improvvisa di un fenomeno globale e sconcertante: sopra la testa di ogni persona, appare una misteriosa linea rossa (la “S-Line”). Questa linea non è casuale; essa si estende e si collega visibilmente a ogni individuo con cui quella persona ha avuto rapporti sessuali, rivelando pubblicamente una rete di relazioni passate.",
@@ -67,7 +127,7 @@
     }
   },
   {
-    "id_progetto": "webdrama-cina-osaka-005",
+    "id_progetto": "webdrama-cina-osaka-009",
     "tipo": "serie",
     "titolo": "Trapped in Osaka sub ita (2025)",
     "descrizione": "La storia si concentra su un giovane uomo la cui vita è segnata da un profondo dolore e da un’onere finanziario: è perseguitato dagli strozzini a causa dei debiti accumulati per le cure mediche del suo fidanzato, ormai defunto.",
@@ -87,7 +147,7 @@
     }
   },
   {
-    "id_progetto": "altro-corto-blindmind-006",
+    "id_progetto": "altro-corto-blindmind-010",
     "tipo": "film",
     "titolo": "Blind Mind sub ita (2023)",
     "descrizione": "Il cortometraggio si concentra su Yu Mitsui, un giovane non vedente che vive la sua quotidianità interagendo con le persone che lo circondano. La storia si sviluppa attorno a un semplice ma significativo incontro tra Yu e una giovane influencer, che è solita giudicare le persone in base al loro aspetto. Questo incontro inaspettato diventa un catalizzatore per entrambi.",
@@ -102,4 +162,5 @@
     }
   }
 ]
+
 
