@@ -126,1462 +126,638 @@
       ]
     }
   },
-  {
-    "id_progetto": "webdrama-cina-osaka-009",
-    "tipo": "serie",
-    "titolo": "Trapped in Osaka sub ita (2025)",
-    "descrizione": "La storia si concentra su un giovane uomo la cui vita è segnata da un profondo dolore e da un’onere finanziario: è perseguitato dagli strozzini a causa dei debiti accumulati per le cure mediche del suo fidanzato, ormai defunto.",
-    "macro_categoria": "mini e web drama",
-    "sub_categoria": "Cina",
-    "generi": ["18+", "BL", "Drammatico", "LGBTQ+", "Romantico", "Vita"],
-    "attori": ["Qin Jia-lin", "Wang Zi-hang"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-2.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {"titolo_episodio": "Episodio 1 (Mini)", "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/01.mp4"},
-        {"titolo_episodio": "Episodio 2 (Mini)", "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/02.mp4"},
-        {"titolo_episodio": "Episodio 3 (Mini)", "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/03.mp4"},
-        {"titolo_episodio": "Episodio 4 (Mini)", "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/04.mp4"}
-      ]
-    }
-  },
-  {
-    "id_progetto": "altro-corto-blindmind-010",
-    "tipo": "film",
-    "titolo": "Blind Mind sub ita (2023)",
-    "descrizione": "Il cortometraggio si concentra su Yu Mitsui, un giovane non vedente che vive la sua quotidianità interagendo con le persone che lo circondano. La storia si sviluppa attorno a un semplice ma significativo incontro tra Yu e una giovane influencer, che è solita giudicare le persone in base al loro aspetto. Questo incontro inaspettato diventa un catalizzatore per entrambi.",
-    "macro_categoria": "altro",
-    "sub_categoria": "Cortometraggi",
-    "generi": ["14+", "Disabilità", "Romantico"],
-    "attori": ["Moctar Diouf", "Sato Kanta", "Taira Yuna"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_014626172.png",
-    "video_data": {
-      "is_serie": false, 
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind_edit.mp4"
-    }
-  },
   [
   {
-    "id_progetto": "altro-corto-basukeshonen-011",
-    "tipo": "film",
+    "id_progetto": "altro-cortometraggi-basukeshonen-001",
+    "tipo": "cortometraggio",
     "titolo": "Basuke Shōnen no Himitsu sub ita (2018)",
-    "descrizione": "Una storia breve e toccante che esplora l'amicizia, i sogni e le sfide di un giovane appassionato di basket, costretto a confrontarsi con una realtà inaspettata.",
+    "descrizione": "Un cortometraggio giapponese incentrato su un giovane ragazzo di basket e un segreto che ne condiziona la vita e le relazioni, esplorando temi di gioventù e sport.",
     "macro_categoria": "altro",
-    "sub_categoria": "Cortometraggi",
+    "sub_categoria": "cortometraggi",
     "generi": [
-      "14+",
-      "Scuola",
-      "Sport",
-      "Vita"
+      "Scolastico",
+      "Sportivo",
+      "Drammatico"
     ],
     "attori": [
-      "Koseki Yuta",
-      "Sato Hisanori"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Basuke-Shonen.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Basuke-Shonen-no-Himitsu.png",
     "video_data": {
       "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basuke%20Shonen.mp4"
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Basuke%20Shōnen%20no%20Himitsu/Film.mp4"
     },
-    "data_inserimento": "2024-08-01"
+    "data_inserimento": "2024-09-18"
   },
   {
-    "id_progetto": "altro-corto-theinvitation-012",
-    "tipo": "film",
+    "id_progetto": "altro-cortometraggi-theinvitation-002",
+    "tipo": "cortometraggio",
     "titolo": "The Invitation sub ita (2023)",
-    "descrizione": "In un mondo futuro distopico, un giovane si ritrova a dover compiere una scelta cruciale quando riceve un misterioso invito che potrebbe cambiare la sua vita, ma con un costo ignoto e potenzialmente fatale.",
+    "descrizione": "Cortometraggio con elementi di mistero e tensione, che ruota attorno a un invito cruciale e alle conseguenze del suo accettazione o rifiuto da parte del protagonista.",
     "macro_categoria": "altro",
-    "sub_categoria": "Cortometraggi",
+    "sub_categoria": "cortometraggi",
     "generi": [
-      "14+",
-      "Sci-Fi",
-      "Thriller"
+      "Mistero",
+      "Thriller",
+      "Drammatico"
     ],
     "attori": [
-      "Kim Su-hyeong",
-      "Lee Chae-min"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/The-Invitation.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Invitation-Cortometraggio.png",
     "video_data": {
       "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/The%20Invitation.mp4"
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/The%20Invitation/Film.mp4"
     },
-    "data_inserimento": "2024-08-02"
+    "data_inserimento": "2024-09-19"
   },
   {
-    "id_progetto": "altro-corto-blindmind-013",
-    "tipo": "film",
+    "id_progetto": "altro-cortometraggi-blindmind-003",
+    "tipo": "cortometraggio",
     "titolo": "Blind Mind sub ita (2023)",
-    "descrizione": "Il cortometraggio si concentra su Yu Mitsui, un giovane non vedente, e sul suo significativo incontro con una giovane influencer, che è solita giudicare le persone in base all'aspetto. L'incontro diventa un catalizzatore per entrambi.",
+    "descrizione": "Un cortometraggio che esplora temi psicologici, concentrandosi sulla percezione, la mente e le sfide di una persona che affronta la 'cecità' in senso metaforico o letterale.",
     "macro_categoria": "altro",
-    "sub_categoria": "Cortometraggi",
+    "sub_categoria": "cortometraggi",
     "generi": [
-      "14+",
-      "Disabilità",
+      "Psicologico",
+      "Drammatico",
+      "Mistero"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Blind-Mind.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind/Film.mp4"
+    },
+    "data_inserimento": "2024-09-20"
+  },
+[
+  {
+    "id_progetto": "altro-teaser-thevillainess-004",
+    "tipo": "trailer",
+    "titolo": "The Villainess is a Marionette sub ita (2022)",
+    "descrizione": "Il teaser trailer ufficiale dell'adattamento drammatico o animato del popolare webtoon/romanzo 'The Villainess is a Marionette', incentrato sulla protagonista costretta a recitare un ruolo non suo.",
+    "macro_categoria": "altro",
+    "sub_categoria": "teaser trailer",
+    "generi": [
+      "Fantasy",
+      "Trailer",
       "Romantico"
     ],
     "attori": [
-      "Moctar Diouf",
-      "Sato Kanta",
-      "Taira Yuna"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/immagine_2024-08-05_014626172.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/CORTOMETRAGGI/Blind%20Mind_edit.mp4"
-    },
-    "data_inserimento": "2024-08-03"
-  },
-  {
-    "id_progetto": "altro-teaser-villainess-014",
-    "tipo": "film",
-    "titolo": "The Villainess is a Marionette sub ita (2022)",
-    "descrizione": "Questo teaser trailer presenta un adattamento webtoon che segue Kayena, un'eroina che rinasce con la consapevolezza del suo triste destino. Decide di manipolare il suo fratellastro per rovesciare l'imperatore e prendere il controllo del regno, promettendo un dramma di intrighi e potere.",
-    "macro_categoria": "altro",
-    "sub_categoria": "Teaser Trailer",
-    "generi": [
-      "14+",
-      "Fantasy",
-      "Storico"
-    ],
-    "attori": [
-      "Cha Eun-woo",
       "Han So-hee",
-      "Lee Soo-hyuk"
+      "Cha Eun-woo"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/The-Villainess.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Villainess-is-a-Marionette-Teaser.png",
     "video_data": {
       "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/TEASER%20TRAILER/The%20Villainess%20is%20a%20Marionette.mp4"
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/TEASER%20TRAILER/The%20Villainess%20is%20a%20Marionette/Video.mp4"
     },
-    "data_inserimento": "2024-08-04"
+    "data_inserimento": "2024-09-21"
   },
+[
   {
-    "id_progetto": "altro-pubblicita-officeromance-015",
-    "tipo": "serie",
+    "id_progetto": "altro-pubblicita-officeromancerecipe-005",
+    "tipo": "pubblicita",
     "titolo": "Office Romance Recipe sub ita (2022)",
-    "descrizione": "Una pubblicità in formato mini-drama di 4 episodi che racconta la storia d'amore che sboccia tra un uomo e una donna sul posto di lavoro, mostrando come un pasto delizioso possa essere la ricetta per una relazione.",
+    "descrizione": "Una serie di 4 episodi di breve formato, probabilmente creata come pubblicità o mini-drama promozionale, con una trama leggera e romantica ambientata in un contesto d'ufficio.",
     "macro_categoria": "altro",
-    "sub_categoria": "Pubblicità",
+    "sub_categoria": "pubblicità",
     "generi": [
-      "14+",
-      "Commedia",
       "Romantico",
-      "Vita"
+      "Commedia",
+      "Pubblicità"
     ],
     "attori": [
-      "Moon Sang-min",
-      "Park Ji-hyun"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Office-Romance.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Office-Romance-Recipe-Pubblicità.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
           "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/01.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/PUBBLICITÀ/Office%20Romance%20Recipe/01.mp4"
         },
         {
           "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/02.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/PUBBLICITÀ/Office%20Romance%20Recipe/02.mp4"
         },
         {
           "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/03.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/PUBBLICITÀ/Office%20Romance%20Recipe/03.mp4"
         },
         {
           "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/04.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/ALTRO/PUBBLICITÀ/Office%20Romance%20Recipe/04.mp4"
         }
       ]
     },
-    "data_inserimento": "2024-08-05"
+    "data_inserimento": "2024-09-22"
   },
-    [
+[
   {
-    "id_progetto": "webdrama-cina-osaka-016",
+    "id_progetto": "minidrama-cina-trappedinosaka-006",
     "tipo": "serie",
     "titolo": "Trapped in Osaka sub ita (2025)",
-    "descrizione": "Un mini-drama che si concentra su un giovane perseguitato dagli strozzini a causa dei debiti accumulati per le cure mediche del suo fidanzato defunto. La storia esplora il profondo dolore e le difficoltà finanziarie che deve affrontare.",
+    "descrizione": "Una serie di breve formato ambientata a Osaka, incentrata su una storia intensa e complicata. La serie è composta da 4 episodi.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Cina",
     "generi": [
-      "18+",
-      "BL",
-      "Drammatico",
-      "LGBTQ+",
       "Romantico",
-      "Vita"
+      "Drammatico",
+      "Mistero"
     ],
     "attori": [
-      "Qin Jia-lin",
-      "Wang Zi-hang"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Trapped-in-Osaka-2.jpg",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Trapped-in-Osaka.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
-          "titolo_episodio": "Episodio 1 (Mini)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/01.mp4"
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/01.mp4"
         },
         {
-          "titolo_episodio": "Episodio 2 (Mini)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/02.mp4"
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/02.mp4"
         },
         {
-          "titolo_episodio": "Episodio 3 (Mini)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/03.mp4"
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/03.mp4"
         },
         {
-          "titolo_episodio": "Episodio 4 (Mini)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/04.mp4"
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/Trapped%20in%20Osaka/04.mp4"
         }
       ]
     },
-    "data_inserimento": "2025-07-28"
+    "data_inserimento": "2024-09-23"
   },
   {
-    "id_progetto": "webdrama-cina-bleatingphone-017",
+    "id_progetto": "minidrama-cina-iamyourbleatingphone-007",
     "tipo": "serie",
     "titolo": "I Am Your Bleating Phone sub ita (2016)",
-    "descrizione": "Una web-drama cinese in 2 episodi che esplora l'ossessione per i social media e gli smartphone, dove una ragazza desidera che il suo telefono prenda vita per soddisfare tutti i suoi bisogni.",
+    "descrizione": "Mini-drama cinese che affronta temi relazionali moderni attraverso il dispositivo di comunicazione, in soli 2 episodi.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Cina",
     "generi": [
-      "14+",
       "Commedia",
-      "Fantastico",
+      "Romantico",
       "Vita"
     ],
     "attori": [
-      "Liu Jin",
-      "Song Yanfei"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/I-am-your-Bleating-Phone.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/I-Am-Your-Bleating-Phone.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
-          "titolo_episodio": "Episodio 1 (Mini)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/I%20am%20your%20Bleating%20Phone/01.mp4"
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/I%20Am%20Your%20Bleating%20Phone/01.mp4"
         },
         {
-          "titolo_episodio": "Episodio 2 (Mini)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/CINA/I%20am%20your%20Bleating%20Phone/02.mp4"
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/CINA/I%20Am%20Your%20Bleating%20Phone/02.mp4"
         }
       ]
     },
-    "data_inserimento": "2024-08-06"
+    "data_inserimento": "2024-09-24"
   },
+[
   {
-    "id_progetto": "webdrama-corea-187cm155cm-018",
+    "id_progetto": "minidrama-corea-187cm155cm-008",
     "tipo": "serie",
     "titolo": "187cm 155cm – raccolta sub ita (2020)",
-    "descrizione": "Un web-drama in un unico episodio  che si concentra sulle differenze di altezza e sulle situazioni comiche e romantiche che ne derivano in una relazione, esplorando le dinamiche uniche tra due persone di statura molto diversa.",
+    "descrizione": "Una raccolta di storie brevi in 1 episodio, che giocano sulle differenze di altezza nelle relazioni.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Corea",
     "generi": [
-      "14+",
+      "Romantico",
       "Commedia",
-      "Romantico"
+      "Scolastico"
     ],
     "attori": [
-      "Kim Do-hoon",
-      "Kim Jin-kyeong"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/187cm-155cm.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/187cm-155cm.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
-          "titolo_episodio": "Episodio Unico",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/187cm%20155cm/01.mp4"
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/187cm%20155cm/01.mp4"
         }
       ]
     },
-    "data_inserimento": "2024-08-07"
+    "data_inserimento": "2024-09-25"
   },
   {
-    "id_progetto": "webdrama-corea-playfulkissyoutube-019",
+    "id_progetto": "minidrama-corea-playfulkissyoutube-009",
     "tipo": "serie",
     "titolo": "Playful Kiss YouTube Edition sub ita (2010)",
-    "descrizione": "Una versione speciale di 7 episodi, spin-off del drama principale, creata per YouTube. Continua la storia della coppia protagonista, mostrando la loro vita dopo il matrimonio con un tocco più intimo e divertente.",
+    "descrizione": "Serie speciale web di 7 episodi che segue la vita dei protagonisti del drama 'Playful Kiss' dopo il matrimonio.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Corea",
     "generi": [
-      "14+",
+      "Romantico",
       "Commedia",
-      "Romantico"
+      "Sequel"
     ],
     "attori": [
-      "Jung So-min",
-      "Kim Hyun-joong"
+      "Kim Hyun-joong",
+      "Jung So-min"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Playful-Kiss-YouTube-Edition.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Playful-Kiss-YouTube.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
           "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/01.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/01.mp4"
         },
         {
           "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/02.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/02.mp4"
         },
         {
           "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/03.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/03.mp4"
         },
         {
           "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/04.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/04.mp4"
         },
         {
           "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/05.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/05.mp4"
         },
         {
           "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/06.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/06.mp4"
         },
         {
           "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/07.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20YouTube%20Edition/07.mp4"
         }
       ]
     },
-    "data_inserimento": "2024-08-08"
+    "data_inserimento": "2024-09-26"
   },
   {
-    "id_progetto": "webdrama-corea-seungjodiary-020",
+    "id_progetto": "minidrama-corea-playfulkissseung-010",
     "tipo": "serie",
     "titolo": "Playful Kiss Seung Jo's Diary sub ita (2010)",
-    "descrizione": "Una serie speciale di 7 episodi  che ripropone gli eventi del drama principale dal punto di vista del protagonista maschile, Seung Jo, offrendo un'interpretazione comica e le sue vere sensazioni nascoste.",
+    "descrizione": "Una serie di 7 episodi che ripercorre gli eventi di 'Playful Kiss' dal punto di vista del protagonista maschile, Seung Jo.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Corea",
     "generi": [
-      "14+",
+      "Romantico",
       "Commedia",
-      "Romantico"
+      "Scolastico"
     ],
     "attori": [
-      "Jung So-min",
-      "Kim Hyun-joong"
+      "Kim Hyun-joong",
+      "Jung So-min"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Playful-Kiss-Seung-Jos-Diary.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Playful-Kiss-Diary.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
           "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/01.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/01.mp4"
         },
         {
           "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/02.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/02.mp4"
         },
         {
           "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/03.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/03.mp4"
         },
         {
           "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/04.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/04.mp4"
         },
         {
           "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/05.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/05.mp4"
         },
         {
           "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/06.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/06.mp4"
         },
         {
           "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jos%20Diary/07.mp4"
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Playful%20Kiss%20Seung%20Jo's%20Diary/07.mp4"
         }
       ]
     },
-    "data_inserimento": "2024-08-09"
+    "data_inserimento": "2024-09-27"
   },
   {
-    "id_progetto": "webdrama-corea-mermaidprincebeg-021",
+    "id_progetto": "minidrama-corea-mermaidprincebeginning-011",
     "tipo": "serie",
     "titolo": "The Mermaid Prince: The Beginning sub ita (2020)",
-    "descrizione": "Un prequel in un unico episodio  che torna indietro nel tempo per raccontare le origini e i primi incontri dei personaggi principali, prima degli eventi del web-drama *Mermaid Prince*.",
+    "descrizione": "Un prequel di 1 episodio che esplora le origini del 'Principe Sirena'.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Corea",
     "generi": [
-      "14+",
-      "Mistero",
+      "Fantasy",
       "Romantico",
-      "Scuola",
-      "Soprannaturale"
+      "Scolastico"
     ],
     "attori": [
       "Moonbin",
       "Chae Won-bin"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/The-Mermaid-Prince-The-Beginning.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Mermaid-Prince-The-Beginning.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
         {
-          "titolo_episodio": "Episodio Unico",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/The%20Mermaid%20Prince%20The%20Beginning/01.mp4"
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/The%20Mermaid%20Prince%20The%20Beginning/01.mp4"
         }
       ]
     },
-    "data_inserimento": "2024-08-10"
+    "data_inserimento": "2024-09-28"
   },
   {
-    "id_progetto": "webdrama-corea-mermaidprince-022",
+    "id_progetto": "minidrama-corea-mermaidprince-012",
     "tipo": "serie",
     "titolo": "Mermaid Prince sub ita (2020)",
-    "descrizione": "La web-drama segue una ragazza che, durante una gita scolastica, incontra un misterioso ragazzo che lavora in una pensione. Iniziano a circolare voci che lui sia un 'principe sirena', tra mistero e attrazione romantica. Ha 6 episodi.",
+    "descrizione": "Una studentessa incontra un misterioso ragazzo soprannominato il 'Principe Sirena' durante una vacanza. La serie è composta da 6 episodi.",
     "macro_categoria": "mini e web drama",
     "sub_categoria": "Corea",
-    "generi": [
-      "14+",
-      "Mistero",
-      "Romantico",
-      "Scuola",
-      "Soprannaturale"
-    ],
-    "attori": [
-      "Moonbin",
-      "Jung Shin-hye"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Mermaid-Prince.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Mermaid%20Prince/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Mermaid%20Prince/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Mermaid%20Prince/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Mermaid%20Prince/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Mermaid%20Prince/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Mermaid%20Prince/06.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-11"
-  },
-  {
-    "id_progetto": "webdrama-corea-officeromancerecipe-023",
-    "tipo": "serie",
-    "titolo": "Office Romance Recipe sub ita (2022)",
-    "descrizione": "Una serie coreana di 4 episodi  che narra la storia d'amore che sboccia tra colleghi di lavoro, esplorando come il cibo e la condivisione dei pasti influenzino i loro sentimenti. Ricade anche nella categoria 'Pubblicità'.",
-    "macro_categoria": "mini e web drama",
-    "sub_categoria": "Corea",
-    "generi": [
-      "14+",
-      "Commedia",
-      "Romantico",
-      "Vita"
-    ],
-    "attori": [
-      "Moon Sang-min",
-      "Park Ji-hyun"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Office-Romance.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/04.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-12"
-  },
-  {
-    "id_progetto": "webdrama-corea-soulplate-024",
-    "tipo": "serie",
-    "titolo": "Soul Plate sub ita (2019)",
-    "descrizione": "Una serie fantastica-romantica in cui sei angeli  scendono sulla Terra per aprire un ristorante chiamato 'Soul Plate'. Attraverso il cibo, aiutano persone con problemi emotivi a guarire le loro ferite interiori. Include 6 episodi e 1 speciale.",
-    "macro_categoria": "mini e web drama",
-    "sub_categoria": "Corea",
-    "generi": [
-      "14+",
-      "Fantastico",
-      "Romantico",
-      "Vita"
-    ],
-    "attori": [
-      "Cha Eun-woo",
-      "Kim Myung-jun",
-      "Moon Bin",
-      "Park Min-hyuk",
-      "Yoon San-ha",
-      "Yoon Tae-woong"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Soul-Plate.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio Speciale",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Soul%20Plate/Special.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-13"
-  },
-  {
-    "id_progetto": "webdrama-corea-7firstkisses-025",
-    "tipo": "serie",
-    "titolo": "7 First Kisses sub ita (2016)",
-    "descrizione": "Una commedia romantica in 8 episodi  che segue una commessa che non ha mai avuto un fidanzato. Un giorno, incontra una dea che le offre la possibilità di incontrare sette uomini bellissimi e affascinanti per il suo primo bacio.",
-    "macro_categoria": "mini e web drama",
-    "sub_categoria": "Corea",
-    "generi": [
-      "14+",
-      "Commedia",
-      "Fantastico",
-      "Romantico"
-    ],
-    "attori": [
-      "Choi Ji-woo",
-      "Kai",
-      "Lee Chae-yeong",
-      "Lee Joon-gi",
-      "Lee Min-ho",
-      "Park Hae-jin",
-      "Taecyeon"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/7-First-Kisses.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/7%20First%20Kisses/08.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-14"
-  },
-  {
-    "id_progetto": "webdrama-corea-queenofthering-026",
-    "tipo": "serie",
-    "titolo": "Queen of the Ring sub ita (2017)",
-    "descrizione": "Una mini-serie romantica e fantasy di 3 episodi  che ruota attorno a un anello di famiglia magico. Una ragazza usa l'anello per apparire come la ragazza ideale agli occhi del ragazzo che le piace, imparando il vero significato di bellezza e fiducia.",
-    "macro_categoria": "mini e web drama",
-    "sub_categoria": "Corea",
-    "generi": [
-      "14+",
-      "Commedia",
-      "Fantastico",
-      "Romantico"
-    ],
-    "attori": [
-      "Ahn Hyo-seop",
-      "Kim Seul-gi",
-      "Yoon So-hee"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Queen-of-the-Ring.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Queen%20of%20the%20Ring/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Queen%20of%20the%20Ring/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Queen%20of%20the%20Ring/03.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-15"
-  },
-  {
-    "id_progetto": "webdrama-corea-handmadelove-027",
-    "tipo": "serie",
-    "titolo": "Handmade Love sub ita (2020)",
-    "descrizione": "Una web-drama fantasy di 2 episodi  che segue Woven, un angelo caduto sulla Terra e costretto a produrre abiti curativi per gli umani nel suo negozio di sartoria, cercando di rimediare a un errore commesso nel cielo.",
-    "macro_categoria": "mini e web drama",
-    "sub_categoria": "Corea",
-    "generi": [
-      "14+",
-      "Fantastico",
-      "Romantico"
-    ],
-    "attori": [
-      "Lee Su-ho",
-      "Park Ji-hoon"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Handmade-Love.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Handmade%20Love/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Handmade%20Love/02.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-16"
-  },
-  [
-  {
-    "id_progetto": "drama-cina-familiarstranger-028",
-    "tipo": "serie",
-    "titolo": "A Familiar Stranger sub ita (2022)",
-    "descrizione": "Un mini-drama storico di 8 episodi  che vede la figlia del primo ministro scambiare i volti con una serva per fuggire da un matrimonio indesiderato. Tuttavia, si ritrova coinvolta in intrighi di corte e in una storia d'amore inaspettata.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Cina",
-    "generi": [
-      "14+",
-      "Romantico",
-      "Storico"
-    ],
-    "attori": [
-      "Guo Jianan",
-      "Kong Shuhang",
-      "Li Haifei"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/A-Familiar-Stranger.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/08.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-17"
-  },
-[
-  {
-    "id_progetto": "drama-giappone-momichanshouse-029",
-    "tipo": "serie",
-    "titolo": "Momi-chan's House sub ita (2020)",
-    "descrizione": "Momi-chan ha una passione per l'ordinamento e la pulizia estrema, tanto da aprire un'agenzia che aiuta a riordinare e riorganizzare le case delle persone. Incontra diversi clienti e affronta i loro problemi emotivi attraverso il riordino fisico. La serie è composta da 4 episodi.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Vita",
-      "Commedia",
-      "Drammatico"
-    ],
-    "attori": [
-      "Honda Kyōya",
-      "Ishii Momoka",
-      "Ōnishi Ryūsei"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Momichans-House.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Momichans%20House/04.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-18"
-  },
-  {
-    "id_progetto": "drama-giappone-shitteruwife-030",
-    "tipo": "serie",
-    "titolo": "Shitteru Wife sub ita (2021)",
-    "descrizione": "Kenta e Mio sono sposati, ma la loro relazione è tesa. Quando gli viene data la possibilità di viaggiare indietro nel tempo, Kenta cambia il suo passato per sposare il suo primo amore, ma scopre che la vita, anche nella versione ideale, è piena di complicazioni. La serie è composta da 10 episodi.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Romantico",
-      "Fantastico",
-      "Viaggio nel Tempo"
-    ],
-    "attori": [
-      "Ōkura Tadayoshi",
-      "Hirose Alice"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Shitteru-Wife.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Shitteru%20Wife/10.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-19"
-  },
-  {
-    "id_progetto": "drama-giappone-anotokikiss-031",
-    "tipo": "serie",
-    "titolo": "Ano Toki Kiss Shite Okeba sub ita (2021)",
-    "descrizione": "Nozomu, un uomo impiegato in un supermercato, si innamora di Tomoe, la sua fumettista preferita. Dopo un incidente, l'anima di Tomoe finisce nel corpo di uno sconosciuto anziano. La serie in 8 episodi è una commedia romantica che esplora l'amore oltre l'aspetto fisico.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Commedia",
-      "Romantico",
-      "Fantastico"
-    ],
-    "attori": [
-      "Matsuzaka Tōri",
-      "Inoue Mako",
-      "Asō Yumi"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Ano-Toki-Kiss.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Ano%20Toki%20Kiss/08.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-20"
-  },
-  {
-    "id_progetto": "drama-giappone-wakadannasama-032",
-    "tipo": "serie",
-    "titolo": "Wakadanna-sama no Amayakashi Kon sub ita (2024)",
-    "descrizione": "Akari, una ragazza che lavora in una locanda tradizionale (Ryokan), sposa il giovane erede Haku per un matrimonio combinato. La loro relazione si rivela inaspettatamente dolce grazie alla natura estremamente premurosa e affettuosa di lui. La serie è composta da 6 episodi.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Romantico",
-      "Vita",
-      "Slice of Life"
-    ],
-    "attori": [
-      "Higa Manami",
-      "Takeda Shinji"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Wakadanna.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Wakadanna/06.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-21"
-  },
-  {
-    "id_progetto": "drama-giappone-perfectworld-033",
-    "tipo": "serie",
-    "titolo": "Perfect World – drama sub ita (2019)",
-    "descrizione": "Tsugumi Ayukawa rincontra il suo primo amore del liceo, Itsuki Ayukawa, ora un architetto costretto su una sedia a rotelle. La storia in 10 episodi esplora le difficoltà e la profondità di una relazione romantica che sfida le convenzioni e gli ostacoli fisici.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Romantico",
-      "Disabilità",
-      "Vita"
-    ],
-    "attori": [
-      "Matsuzaka Tōri",
-      "Yamamoto Mizuki"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Perfect-World-Drama.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World/10.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-22"
-  },
-  {
-    "id_progetto": "drama-giappone-junichi-034",
-    "tipo": "serie",
-    "titolo": "Junichi sub ita (2019)",
-    "descrizione": "Junichi, un giovane misterioso e affascinante, incontra sei donne sole e insoddisfatte. Attraverso questi incontri fugaci, il ragazzo le aiuta inconsapevolmente a ritrovare un senso nella vita e l'amore perduto. La serie è composta da 6 episodi.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Drammatico",
-      "Vita",
-      "Mistero"
-    ],
-    "attori": [
-      "Shison Jun",
-      "Kaho",
-      "Toda Erika",
-      "Miura Toko"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Junichi.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/06.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-23"
-  },
-  {
-    "id_progetto": "drama-giappone-yamerutokimo-035",
-    "tipo": "serie",
-    "titolo": "Yameru Toki mo, Sukoyaka Naru Toki mo sub ita (2020)",
-    "descrizione": "Mutsuo e Moto si incontrano e si innamorano, ma Mutsuo soffre di un disturbo dissociativo dell'identità: a volte crede di essere un designer e altre volte un artista, perdendo la memoria del suo vero sé. La serie esplora la sfida di amare qualcuno con una condizione mentale complessa, in 10 episodi.",
-    "macro_categoria": "drama",
-    "sub_categoria": "Giappone",
-    "generi": [
-      "Romantico",
-      "Drammatico",
-      "Psicologico"
-    ],
-    "attori": [
-      "Fujigaya Taisuke",
-      "Nao"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Yameru-Toki.png",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki/10.mp4"
-        }
-      ]
-    },
-    "data_inserimento": "2024-08-24"
-  },
-[
-  {
-    "id_progetto": "film-cina-bigworld-036",
-    "tipo": "film",
-    "titolo": "Big World sub ita (2024)",
-    "descrizione": "Un thriller fantascientifico che esplora un futuro distopico e le drammatiche conseguenze di una tecnologia rivoluzionaria che promette di cambiare l'umanità, ma a un costo altissimo.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Thriller",
-      "Fantastico",
-      "Sci-Fi"
-    ],
-    "attori": [
-      "Li Jia Qi",
-      "Luo Jia Liang"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Big-World.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big%20World.mp4"
-    },
-    "data_inserimento": "2024-08-25"
-  },
-  {
-    "id_progetto": "film-cina-betterdays-037",
-    "tipo": "film",
-    "titolo": "Better Days sub ita (2019)",
-    "descrizione": "Il film denuncia il grave problema del bullismo a scuola e le sue drammatiche ripercussioni. Racconta la storia di un'adolescente che viene bullizzata e trova in un piccolo delinquente l'unica persona disposta a proteggerla.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Drammatico",
-      "Scolastico",
-      "Sociale"
-    ],
-    "attori": [
-      "Zhou Dongyu",
-      "Jackson Yee"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Better-Days.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Better%20Days.mp4"
-    },
-    "data_inserimento": "2024-08-26"
-  },
-  {
-    "id_progetto": "film-cina-soyoung2-038",
-    "tipo": "film",
-    "titolo": "So Young 2: So You're Still Here sub ita (2016)",
-    "descrizione": "Sequel che racconta la storia di due innamorati che si separano dopo il liceo e si ritrovano anni dopo, affrontando le ferite del passato e la domanda se l'amore adolescenziale possa sopravvivere al tempo e alle difficoltà della vita adulta.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Romantico",
-      "Drammatico"
-    ],
-    "attori": [
-      "Kris Wu",
-      "Liu Yifei"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/So-Young-2.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young%202.mp4"
-    },
-    "data_inserimento": "2024-08-27"
-  },
-  {
-    "id_progetto": "film-cina-soyoung-039",
-    "tipo": "film",
-    "titolo": "So Young sub ita (2013)",
-    "descrizione": "La storia di una giovane donna che, dopo anni all'estero, torna in Cina e riflette sul suo periodo universitario, sulle sue amicizie e sulle prime intense esperienze di amore, crescita personale e rimpianti.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Romantico",
-      "Scolastico",
-      "Drammatico"
-    ],
-    "attori": [
-      "Mark Chao",
-      "Yang Zishan"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/So-Young.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young.mp4"
-    },
-    "data_inserimento": "2024-08-28"
-  },
-  {
-    "id_progetto": "film-cina-huamulan-040",
-    "tipo": "film",
-    "titolo": "Hua Mulan Liu Chu Xuan edition sub ita (2020)",
-    "descrizione": "Una rivisitazione della leggenda cinese di Hua Mulan, la giovane donna che si traveste da uomo per prendere il posto del padre anziano nell'esercito, affrontando dure battaglie e nascondendo la sua vera identità.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Storico",
-      "Azione",
-      "Guerra"
-    ],
-    "attori": [
-      "Liu Chu Xuan",
-      "Chen Si Si"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Hua-Mulan.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Hua%20Mulan.mp4"
-    },
-    "data_inserimento": "2024-08-29"
-  },
-  {
-    "id_progetto": "film-cina-enchantingphantom-041",
-    "tipo": "film",
-    "titolo": "The Enchanting Phantom sub ita (2020)",
-    "descrizione": "Adattamento cinematografico di una classica storia d'amore fantasy e horror tra un timido studioso e uno spirito femminile bellissimo ma condannato, in un contesto di demoni, monaci esorcisti e magia oscura.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Storico",
-      "Fantasy",
-      "Romantico",
-      "Horror"
-    ],
-    "attori": [
-      "Chen Xing Xu",
-      "Li Kaixin"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Enchanting-Phantom.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The%20Enchanting%20Phantom.mp4"
-    },
-    "data_inserimento": "2024-08-30"
-  },
-  {
-    "id_progetto": "film-cina-onceuponatime-042",
-    "tipo": "film",
-    "titolo": "Once Upon a Time sub ita (2017)",
-    "descrizione": "Basato sul popolare romanzo *Three Lives Three Worlds, Ten Miles of Peach Blossoms*, il film racconta l'amore epico e tormentato tra due divinità, i cui destini si intrecciano attraverso tre vite in mondi diversi, tra paradisi e regni mortali.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
     "generi": [
       "Fantasy",
       "Romantico",
-      "Storico"
-    ],
-    "attori": [
-      "Liu Yifei",
-      "Yang Yang"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/08/Once-Upon-a-Time.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once%20Upon%20a%20Time.mp4"
-    },
-    "data_inserimento": "2024-08-31"
-  },
-  {
-    "id_progetto": "film-cina-oneweekfriends-043",
-    "tipo": "film",
-    "titolo": "One Week Friends sub ita (2022)",
-    "descrizione": "Remake del popolare manga giapponese. Un ragazzo cerca tenacemente di fare amicizia con una compagna di classe che, a causa di un trauma, perde tutti i ricordi relativi ai suoi amici ogni lunedì, costringendola a ricominciare la loro amicizia ogni settimana.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Scolastico",
-      "Romantico",
-      "Drammatico"
-    ],
-    "attori": [
-      "Zhao Jinmai",
-      "Lin Yi"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/One-Week-Friends.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends.mp4"
-    },
-    "data_inserimento": "2024-09-01"
-  },
-  {
-    "id_progetto": "film-cina-mrpridevsmissprejudice-044",
-    "tipo": "film",
-    "titolo": "Mr. Pride vs Miss Prejudice sub ita (2017)",
-    "descrizione": "Una commedia romantica che vede contrapporsi un ricco e arrogante 'Mr. Pride' e una vivace, ma snob, 'Miss Prejudice'. Le loro interazioni, inizialmente piene di litigi e malintesi, li portano a un'inaspettata storia d'amore.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Commedia",
-      "Romantico"
-    ],
-    "attori": [
-      "Dilraba Dilmurat",
-      "Leon Zhang"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Mr-Pride-vs-Miss-Prejudice.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr%20Pride%20vs%20Miss%20Prejudice.mp4"
-    },
-    "data_inserimento": "2024-09-02"
-  },
-  {
-    "id_progetto": "film-cina-iamwhatiam-045",
-    "tipo": "film",
-    "titolo": "I am what I am sub ita (2021)",
-    "descrizione": "Un film d'animazione acclamato che segue A Juan, un giovane emarginato. Ispirato da una ragazza, si unisce a un gruppo di danza del leone per inseguire i suoi sogni, affrontando le pressioni sociali e i dubbi interiori.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Animazione",
-      "Vita",
-      "Commedia"
-    ],
-    "attori": [],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/I-am-what-I-am.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20I%20am.mp4"
-    },
-    "data_inserimento": "2024-09-03"
-  },
-  {
-    "id_progetto": "film-cina-fallinlovewithmybadboy-046",
-    "tipo": "film",
-    "titolo": "Fall In Love With My Badboy sub ita (2020)",
-    "descrizione": "Una storia d'amore tra una ragazza apparentemente ingenua e un 'cattivo ragazzo' misterioso e affascinante. La loro relazione è presto complicata da segreti nascosti e lotte per la giustizia.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
-    "generi": [
-      "Romantico",
-      "Azione",
       "Scolastico"
     ],
     "attori": [
-      "Lin Bo Hong",
-      "Li Jia Qi"
+      "Moonbin",
+      "Chae Won-bin"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Fall-In-Love.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Mermaid-Prince.png",
     "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20In%20Love%20With%20My%20Badboy.mp4"
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Mermaid%20Prince/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Mermaid%20Prince/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Mermaid%20Prince/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Mermaid%20Prince/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Mermaid%20Prince/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Mermaid%20Prince/06.mp4"
+        }
+      ]
     },
-    "data_inserimento": "2024-09-04"
+    "data_inserimento": "2024-09-29"
   },
   {
-    "id_progetto": "film-cina-mylove-047",
-    "tipo": "film",
-    "titolo": "My Love sub ita (2021)",
-    "descrizione": "Un dramma romantico che ripercorre 15 anni della storia d'amore tra l'ex coppia del liceo Zhou Xiaoqi e You Yongci. Attraverso gli anni, la loro relazione è messa alla prova da scelte di vita, perdite e la ricerca della felicità.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
+    "id_progetto": "minidrama-corea-officeromancerecipe-013",
+    "tipo": "serie",
+    "titolo": "Office Romance Recipe sub ita (2022)",
+    "descrizione": "Una serie coreana di 4 episodi che esplora le relazioni e la commedia sul posto di lavoro.",
+    "macro_categoria": "mini e web drama",
+    "sub_categoria": "Corea",
     "generi": [
       "Romantico",
-      "Vita",
-      "Drammatico"
+      "Commedia",
+      "Ufficio"
     ],
     "attori": [
-      "Greg Hsu",
-      "Zhang Ruonan"
+      "Non specificato"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/My-Love.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Office-Romance-Recipe.png",
     "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love.mp4"
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Office%20Romance%20Recipe/04.mp4"
+        }
+      ]
     },
-    "data_inserimento": "2024-09-05"
+    "data_inserimento": "2024-09-30"
   },
   {
-    "id_progetto": "film-cina-neversaidthgoodbye-048",
-    "tipo": "film",
-    "titolo": "Never Said Goodbye sub ita (2016)",
-    "descrizione": "Una toccante storia d'amore tra un uomo coreano e una donna cinese a Shanghai. La loro relazione è dolce e appassionata, ma destinata a essere interrotta da un destino crudele e da un sacrificio silenzioso.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
+    "id_progetto": "minidrama-corea-soulplate-014",
+    "tipo": "serie",
+    "titolo": "Soul Plate sub ita (2019)",
+    "descrizione": "Mini-drama fantasy sulla cucina che aiuta a guarire le persone. La serie è composta da 6 episodi più 1 episodio speciale[cite: 12].",
+    "macro_categoria": "mini e web drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Fantasy",
+      "Cibo",
+      "Musical"
+    ],
+    "attori": [
+      "Cha Eun-woo",
+      "Kim Mi-kyung"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Soul-Plate.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio Speciale",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Soul%20Plate/Speciale.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-10-01"
+  },
+  {
+    "id_progetto": "minidrama-corea-7firstkisses-015",
+    "tipo": "serie",
+    "titolo": "7 First Kisses sub ita (2016)",
+    "descrizione": "Una commedia romantica in 8 episodi [cite: 12] in cui una commessa incontra una dea che le offre la possibilità di incontrare sette uomini affascinanti.",
+    "macro_categoria": "mini e web drama",
+    "sub_categoria": "Corea",
     "generi": [
       "Romantico",
-      "Drammatico"
+      "Commedia",
+      "Fantasy"
     ],
     "attori": [
       "Lee Joon-gi",
-      "Zhou Dongyu"
+      "Park Hae-jin",
+      "Ji Chang-wook",
+      "Lee Jong-suk",
+      "Taecyeon",
+      "Kai",
+      "Choi Ji-woo",
+      "Lee Min-ho"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Never-Said-Goodbye.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/7-First-Kisses.png",
     "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Never%20Said%20Goodbye.mp4"
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/7%20First%20Kisses/08.mp4"
+        }
+      ]
     },
-    "data_inserimento": "2024-09-06"
+    "data_inserimento": "2024-10-02"
   },
   {
-    "id_progetto": "film-cina-thenortheasternbro-049",
-    "tipo": "film",
-    "titolo": "The Northeastern Bro sub ita (2021)",
-    "descrizione": "Una commedia ricca di azione che segue il 'fratello maggiore' del nord-est della Cina, un uomo con un cuore d'oro ma dai modi rudi, e le sue esilaranti avventure per proteggere i suoi cari.",
-    "macro_categoria": "film",
-    "sub_categoria": "Cina",
+    "id_progetto": "minidrama-corea-queenofthe-016",
+    "tipo": "serie",
+    "titolo": "Queen of the Ring sub ita (2017)",
+    "descrizione": "Una mini-serie fantasy sulla magia di un anello che fa apparire la protagonista come la donna ideale. La serie è composta da 3 episodi[cite: 12].",
+    "macro_categoria": "mini e web drama",
+    "sub_categoria": "Corea",
     "generi": [
+      "Romantico",
       "Commedia",
-      "Azione"
+      "Fantasy"
     ],
     "attori": [
-      "Ma Li",
-      "Ying Da"
+      "Kim Seul-gi",
+      "Ahn Hyo-seop"
     ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Northeastern-Bro.png",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Queen-of-the-Ring.png",
     "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The%20Northeastern%20Bro.mp4"
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Queen%20of%20the%20Ring/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Queen%20of%20the%20Ring/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Queen%20of%20the%20Ring/03.mp4"
+        }
+      ]
     },
-    "data_inserimento": "2024-09-07"
-  }
+    "data_inserimento": "2024-10-03"
+  },
+  {
+    "id_progetto": "minidrama-corea-handmadelove-017",
+    "tipo": "serie",
+    "titolo": "Handmade Love sub ita (2020)",
+    "descrizione": "Una serie di 2 episodi [cite: 12] con elementi fantasy e moda, incentrata su un angelo caduto che usa i vestiti per guarire le ferite emotive delle persone.",
+    "macro_categoria": "mini e web drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Fantasy",
+      "Romantico",
+      "Moda"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Handmade-Love.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Handmade%20Love/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20E%20WEB%20DRAMA/COREA/Handmade%20Love/02.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-10-04"
+  },
 ]
+
 
 
 
