@@ -756,7 +756,2453 @@
     },
     "data_inserimento": "2024-10-04"
   },
+[
+  {
+    "id_progetto": "drama-cina-afamiliarstranger-018",
+    "tipo": "serie",
+    "titolo": "A Familiar Stranger sub ita (2022)",
+    "descrizione": "Una serie storica o wuxia che ruota attorno a uno scambio d'identità forzato e al mistero che ne consegue tra i protagonisti. La serie è composta da 8 episodi, come indicato nel tuo elenco.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Storico",
+      "Romantico",
+      "Mistero"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/A-Familiar-Stranger.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/CINA/A%20Familiar%20Stranger/08.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-10-05"
+  },
+[
+  {
+    "id_progetto": "film-cina-bigworld-019",
+    "tipo": "film",
+    "titolo": "Big World sub ita (2024)",
+    "descrizione": "Un film che probabilmente esplora temi di ambizione e le sfide di muoversi in un mondo vasto e complesso. Il film ha una durata singola.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Drammatico",
+      "Vita",
+      "Avventura"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Big-World.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Big%20World/Film.mp4"
+    },
+    "data_inserimento": "2024-10-06"
+  },
+  {
+    "id_progetto": "film-cina-betterdays-020",
+    "tipo": "film",
+    "titolo": "Better Days sub ita (2019)",
+    "descrizione": "Una potente storia di due adolescenti, una vittima di bullismo e un giovane delinquente, che formano un legame per proteggersi a vicenda in un mondo crudele.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Drammatico",
+      "Scolastico",
+      "Crimine"
+    ],
+    "attori": [
+      "Zhou Dongyu",
+      "Jackson Yee"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Better-Days.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Better%20Days/Film.mp4"
+    },
+    "data_inserimento": "2024-10-07"
+  },
+  {
+    "id_progetto": "film-cina-soyoung2-021",
+    "tipo": "film",
+    "titolo": "So Young 2: So You're Still Here sub ita (2016)",
+    "descrizione": "Un sequel incentrato su una coppia che si innamora al liceo, si separa a causa della pressione sociale e si ritrova anni dopo, affrontando i rimpianti e il destino. Basato sul romanzo di Xin Yiwu.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Drammatico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Kris Wu",
+      "Liu Yifei"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/So-Young-2.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young%202/Film.mp4"
+    },
+    "data_inserimento": "2024-10-08"
+  },
+  {
+    "id_progetto": "film-cina-soyoung-022",
+    "tipo": "film",
+    "titolo": "So Young sub ita (2013)",
+    "descrizione": "Un film che segue un gruppo di studenti universitari, le loro ambizioni, i loro sogni e le complessità delle loro prime relazioni. Basato sul romanzo di Xin Yiwu.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Gioventù",
+      "Drammatico"
+    ],
+    "attori": [
+      "Mark Chao",
+      "Yang Zishan"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/So-Young.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/So%20Young/Film.mp4"
+    },
+    "data_inserimento": "2024-10-09"
+  },
+  {
+    "id_progetto": "film-cina-huamulan-023",
+    "tipo": "film",
+    "titolo": "Hua Mulan Liu Chu Xuan edition sub ita (2020)",
+    "descrizione": "Una delle tante versioni live-action cinesi della leggendaria storia di Hua Mulan, la guerriera che si traveste da uomo per prendere il posto del padre in battaglia.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Azione",
+      "Storico",
+      "Guerra"
+    ],
+    "attori": [
+      "Liu Chu Xuan"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Hua-Mulan-Liu-Chu-Xuan-edition.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Hua%20Mulan%20Liu%20Chu%20Xuan%20edition/Film.mp4"
+    },
+    "data_inserimento": "2024-10-10"
+  },
+  {
+    "id_progetto": "film-cina-enchantingphantom-024",
+    "tipo": "film",
+    "titolo": "The Enchanting Phantom sub ita (2020)",
+    "descrizione": "Remake di un classico fantasy-horror su un giovane studioso che si innamora di un bellissimo spirito femminile, ignaro che sia intrappolata e costretta a sedurre gli uomini.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Fantasy",
+      "Romantico",
+      "Storico"
+    ],
+    "attori": [
+      "Chen Xing Xu",
+      "Eleanor Lee"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Enchanting-Phantom.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The%20Enchanting%20Phantom/Film.mp4"
+    },
+    "data_inserimento": "2024-10-11"
+  },
+  {
+    "id_progetto": "film-cina-onceuponatime-025",
+    "tipo": "film",
+    "titolo": "Once Upon a Time sub ita (2017)",
+    "descrizione": "Un grande film fantasy 'xianxia' basato sul popolare romanzo e serie TV, su un'antica storia d'amore tra una dea e un principe del cielo, separati dal destino.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Fantasy",
+      "Romantico",
+      "Storico"
+    ],
+    "attori": [
+      "Liu Yifei",
+      "Yang Yang"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Once-Upon-a-Time.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Once%20Upon%20a%20Time/Film.mp4"
+    },
+    "data_inserimento": "2024-10-12"
+  },
+  {
+    "id_progetto": "film-cina-oneweekfriends-026",
+    "tipo": "film",
+    "titolo": "One Week Friends sub ita (2022)",
+    "descrizione": "Una ragazza affetta da amnesia che dimentica i suoi amici ogni lunedì incontra un ragazzo determinato a diventare suo amico ogni settimana. Remake cinese di un manga/anime giapponese.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Scolastico",
+      "Drammatico"
+    ],
+    "attori": [
+      "Zhao Jinmai",
+      "Lin Yi"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/One-Week-Friends.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/One%20Week%20Friends/Film.mp4"
+    },
+    "data_inserimento": "2024-10-13"
+  },
+  {
+    "id_progetto": "film-cina-mrpridevsmissprejudice-027",
+    "tipo": "film",
+    "titolo": "Mr. Pride vs Miss Prejudice sub ita (2017)",
+    "descrizione": "Una commedia romantica in cui un ricco e arrogante 'Mr. Pride' si scontra con una ragazza di buon cuore ma povera, 'Miss Prejudice', portando a una serie di esilaranti malintesi e, infine, all'amore.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Commedia"
+    ],
+    "attori": [
+      "Dilraba Dilmurat",
+      "Leon Zhang"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Mr-Pride-vs-Miss-Prejudice.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Mr%20Pride%20vs%20Miss%20Prejudice/Film.mp4"
+    },
+    "data_inserimento": "2024-10-14"
+  },
+  {
+    "id_progetto": "film-cina-iamwhatiam-028",
+    "tipo": "film",
+    "titolo": "I am what I am sub ita (2021)",
+    "descrizione": "Un film d'animazione cinese acclamato dalla critica sulla danza del leone (Lion Dance), in cui tre adolescenti 'scarti' inseguono il loro sogno, esplorando l'identità e la perseveranza.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Animazione",
+      "Commedia",
+      "Vita"
+    ],
+    "attori": [
+      "Non specificato (Animazione)"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/I-am-what-I-am.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/I%20am%20what%20I%20am/Film.mp4"
+    },
+    "data_inserimento": "2024-10-15"
+  },
+  {
+    "id_progetto": "film-cina-fallinlove-029",
+    "tipo": "film",
+    "titolo": "Fall In Love With My Badboy sub ita (2020)",
+    "descrizione": "Un film romantico-giovanile sul classico archetipo della brava ragazza che si innamora del 'cattivo ragazzo' sconsiderato, navigando tra i drammi adolescenziali.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Fall-In-Love-With-My-Badboy.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20In%20Love%20With%20My%20Badboy/Film.mp4"
+    },
+    "data_inserimento": "2024-10-16"
+  },
+  {
+    "id_progetto": "film-cina-mylove-030",
+    "tipo": "film",
+    "titolo": "My Love sub ita (2021)",
+    "descrizione": "Un film drammatico e romantico che ripercorre la storia d'amore decennale tra due persone, dalla scuola superiore all'età adulta, con le gioie e i dolori che ne derivano. Remake del film coreano *On Your Wedding Day*.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Drammatico"
+    ],
+    "attori": [
+      "Greg Hsu",
+      "Zhang Ruonan"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/My-Love.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/My%20Love/Film.mp4"
+    },
+    "data_inserimento": "2024-10-17"
+  },
+  {
+    "id_progetto": "film-cina-neversaidgoodbye-031",
+    "tipo": "film",
+    "titolo": "Never Said Goodbye sub ita (2016)",
+    "descrizione": "Una straziante storia d'amore tra una donna cinese e un uomo coreano, che affrontano la distanza e il destino. La trama è nota per il suo elemento tragico.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Romantico",
+      "Melodramma",
+      "Drammatico"
+    ],
+    "attori": [
+      "Lee Joon-gi",
+      "Zhou Dongyu"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Never-Said-Goodbye.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Never%20Said%20Goodbye/Film.mp4"
+    },
+    "data_inserimento": "2024-10-18"
+  },
+  {
+    "id_progetto": "film-cina-thenortheasternbro-032",
+    "tipo": "film",
+    "titolo": "The Northeastern Bro sub ita (2021)",
+    "descrizione": "Una commedia che probabilmente segue le avventure di un ragazzo (Bro) della Cina nord-orientale, nota per un particolare senso dell'umorismo.",
+    "macro_categoria": "film",
+    "sub_categoria": "Cina",
+    "generi": [
+      "Commedia",
+      "Crimine",
+      "Azione"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Northeastern-Bro.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The%20Northeastern%20Bro/Film.mp4"
+    },
+    "data_inserimento": "2024-10-19"
+  },
+[
+  {
+    "id_progetto": "drama-giappone-kahogonawakadannasama-033",
+    "tipo": "serie",
+    "titolo": "Kahogona Wakadanna-sama no Amayakashi Kon sub ita (2024)",
+    "descrizione": "Una commedia romantica che esplora un matrimonio combinato o una relazione in cui un giovane capo (Wakadanna-sama) vizia e protegge eccessivamente la sua partner. La serie è composta da 6 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Commedia",
+      "Storico"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Kahogona-Wakadanna-sama-no-Amayakashi-Kon.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Kahogona%20Wakadanna-sama%20no%20Amayakashi%20Kon/06.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-02"
+  },
+  {
+    "id_progetto": "drama-giappone-perfectworld-034",
+    "tipo": "serie",
+    "titolo": "Perfect World – drama sub ita (2019)",
+    "descrizione": "Una storia romantica su una donna che si ricongiunge con il suo primo amore del liceo, ora un architetto costretto sulla sedia a rotelle, e le sfide emotive e pratiche che devono affrontare. La serie è composta da 10 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Perfect-World-drama.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Perfect%20World%20–%20drama/10.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-03"
+  },
+  {
+    "id_progetto": "drama-giappone-junichi-035",
+    "tipo": "serie",
+    "titolo": "Junichi sub ita (2019)",
+    "descrizione": "Una serie che segue l'impatto del giovane e misterioso Junichi su sei donne diverse, ognuna in un momento cruciale della propria vita. La serie è composta da 6 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Mistero",
+      "Psicologico"
+    ],
+    "attori": [
+      "Kengo Kora",
+      "Yumi Adachi"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Junichi.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Junichi/06.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-04"
+  },
+  {
+    "id_progetto": "drama-giappone-yamerutokimosukoyaka-036",
+    "tipo": "serie",
+    "titolo": "Yameru Toki mo, Sukoyaka Naru Toki mo sub ita (2020)",
+    "descrizione": "Un drama romantico che segue la storia di un giovane falegname afflitto da un disturbo comportamentale che lo porta a recitare e di una designer in lutto. La serie è composta da 10 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Romantico",
+      "Vita",
+      "Drammatico"
+    ],
+    "attori": [
+      "Taisuke Fujigaya",
+      "Mariya Nagao"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Yameru-Toki-mo-Sukoyaka-Naru-Toki-mo.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/Yameru%20Toki%20mo%20Sukoyaka%20Naru%20Toki%20mo/10.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-05"
+  },
+[
+  {
+    "id_progetto": "drama-corea-dramaworld-037",
+    "tipo": "serie",
+    "titolo": "Dramaworld sub ita (2016)",
+    "descrizione": "Una serie meta-fantastica dove una fan americana di K-drama viene catapultata nel suo show coreano preferito per salvare il protagonista. Si tratta di un web-drama multilingue, precedentemente erroneamente inserito altrove. 10 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Commedia",
+      "Fantasy",
+      "Romantico"
+    ],
+    "attori": [
+      "Liv Hewson",
+      "Sean Dulake"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Dramaworld.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Dramaworld/10.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-06"
+  },
+  {
+    "id_progetto": "drama-corea-againmylife-038",
+    "tipo": "serie",
+    "titolo": "Again My Life sub ita (2022)",
+    "descrizione": "Un thriller fantasy-legale su un procuratore che viene ucciso ingiustamente e gli viene data una seconda possibilità per far cadere un potente politico corrotto. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Legale",
+      "Fantasy",
+      "Thriller"
+    ],
+    "attori": [
+      "Lee Joon-gi"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Again-My-Life.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Again%20My%20Life/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-07"
+  },
+  {
+    "id_progetto": "drama-corea-doctorbrain-039",
+    "tipo": "serie",
+    "titolo": "Doctor Brain sub ita (2021)",
+    "descrizione": "Un thriller sci-fi originale Apple TV+ su un neuroscienziato che cerca di risolvere il mistero della morte della sua famiglia accedendo ai ricordi dei defunti. La serie è composta da 6 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Sci-Fi",
+      "Mistero"
+    ],
+    "attori": [
+      "Lee Sun-kyun"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Doctor-Brain.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Doctor%20Brain/06.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-08"
+  },
+  {
+    "id_progetto": "drama-corea-throughthedarkness-040",
+    "tipo": "serie",
+    "titolo": "Through the Darkness sub ita (2022)",
+    "descrizione": "Un thriller procedurale basato sul primo profiler criminale della Corea del Sud, che deve decifrare la mente degli assassini seriali mentre la nazione è terrorizzata. La serie è composta da 12 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Crimine",
+      "Mistero"
+    ],
+    "attori": [
+      "Kim Nam-gil"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Through-the-Darkness.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Through%20the%20Darkness/12.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-09"
+  },
+  {
+    "id_progetto": "drama-corea-timebetweendogandwolf-041",
+    "tipo": "serie",
+    "titolo": "Time between dog and wolf sub ita (2007)",
+    "descrizione": "Un thriller d'azione e spionaggio su un agente dell'NIS che si infiltra in un'organizzazione criminale per vendicare la morte dei suoi genitori. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Azione",
+      "Thriller",
+      "Romantico"
+    ],
+    "attori": [
+      "Lee Joon-gi"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Time-between-dog-and-wolf.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Time%20between%20dog%20and%20wolf/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-10"
+  },
+  {
+    "id_progetto": "drama-corea-snowdrop-042",
+    "tipo": "serie",
+    "titolo": "Snowdrop sub ita (2021)",
+    "descrizione": "Un melodramma storico ambientato nel 1987 in Corea del Sud, incentrato su uno studente che si rifugia in un dormitorio femminile, dove una studentessa decide di nasconderlo. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Romantico",
+      "Storico",
+      "Melodramma"
+    ],
+    "attori": [
+      "Jung Hae-in",
+      "Jisoo (Blackpink)"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Snowdrop.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Snowdrop/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-11"
+  },
+  {
+    "id_progetto": "drama-corea-loversredsky-043",
+    "tipo": "serie",
+    "titolo": "Lovers of the Red Sky sub ita (2021)",
+    "descrizione": "Un drama storico-fantasy che ruota attorno a un pittore cieco (poi in grado di vedere) e un astronomo che può leggere le stelle. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Storico",
+      "Romantico",
+      "Fantasy"
+    ],
+    "attori": [
+      "Kim Yoo-jung",
+      "Ahn Hyo-seop"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Lovers-of-the-Red-Sky.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Lovers%20of%20the%20Red%20Sky/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-12"
+  },
+  {
+    "id_progetto": "drama-corea-guardian-goblin-044",
+    "tipo": "serie",
+    "titolo": "Guardian: The Lonely and Great God sub ita – Goblin sub ita (2016)",
+    "descrizione": "Un fantasy romantico sul destino di un Goblin (immortale) che cerca la sua sposa umana per porre fine alla sua maledizione. Considerato un classico del genere K-drama. La serie è composta da 16 episodi principali e 5 speciali (21 video in totale).",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Fantasy",
+      "Romantico",
+      "Commedia"
+    ],
+    "attori": [
+      "Gong Yoo",
+      "Kim Go-eun"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Guardian-The-Lonely-and-Great-God-Goblin.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/16.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/Speciale%201.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/Speciale%202.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/Speciale%203.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/Speciale%204.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Guardian%20The%20Lonely%20and%20Great%20God%20–%20Goblin/Speciale%205.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-13"
+  },
+  {
+    "id_progetto": "drama-corea-moonlovers-045",
+    "tipo": "serie",
+    "titolo": "Moon Lovers: Scarlet Heart Ryeo sub ita (2016)",
+    "descrizione": "Una donna del XXI secolo viene trasportata indietro nel tempo nell'era Goryeo e si ritrova coinvolta nelle lotte di potere tra i principi reali. La serie è composta da 20 episodi principali e 3 speciali (23 video in totale).",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Storico",
+      "Fantasy",
+      "Romantico"
+    ],
+    "attori": [
+      "Lee Joon-gi",
+      "IU"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Moon-Lovers-Scarlet-Heart-Ryeo.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/16.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 17",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/17.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 18",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/18.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 19",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/19.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 20",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/20.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Speciale%201.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Speciale%202.mp4"
+        },
+        {
+          "titolo_episodio": "Speciale 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Moon%20Lovers%20Scarlet%20Heart%20Ryeo/Speciale%203.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-14"
+  },
+  {
+    "id_progetto": "drama-corea-truebeauty-046",
+    "tipo": "serie",
+    "titolo": "True Beauty sub ita (2020)",
+    "descrizione": "Una commedia romantica scolastica basata sul webtoon, su una studentessa che padroneggia l'arte del trucco per nascondere il suo aspetto e si ritrova coinvolta in un triangolo amoroso.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Romantico",
+      "Commedia",
+      "Scolastico"
+    ],
+    "attori": [
+      "Moon Ga-young",
+      "Cha Eun-woo"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/True-Beauty.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/True%20Beauty/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-15"
+  },
+  {
+    "id_progetto": "drama-corea-pachinko-047",
+    "tipo": "serie",
+    "titolo": "Pachinko la moglie coreana sub ita (2022)",
+    "descrizione": "Una saga epica che racconta le speranze e i sogni di quattro generazioni di una famiglia di immigrati coreani che lasciano la loro terra natale in cerca di sopravvivenza e prosperità, ambientata in Corea, Giappone e Stati Uniti. La serie è composta da 16 episodi (come richiesto, anche se la prima stagione ne ha 8).",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Storico",
+      "Drammatico",
+      "Famiglia"
+    ],
+    "attori": [
+      "Lee Min-ho",
+      "Youn Yuh-jung"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Pachinko.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko%20la%20moglie%20coreana/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-16"
+  },
+  {
+    "id_progetto": "drama-corea-twelve-048",
+    "tipo": "serie",
+    "titolo": "Twelve sub ita (2025)",
+    "descrizione": "Una serie coreana del 2025, probabilmente un thriller o fantasy. La serie è composta da 8 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Fantasy"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Twelve.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/08.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-17"
+  },
+  {
+    "id_progetto": "drama-corea-sline-049",
+    "tipo": "serie",
+    "titolo": "S-Line sub ita (2025)",
+    "descrizione": "Una serie coreana del 2025 con elementi sovrannaturali o sci-fi che probabilmente ruota attorno a un concetto come una 'linea S'. La serie è composta da 6 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Sovrannaturale",
+      "Mistero"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/S-Line.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/06.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-18"
+  },
+  {
+    "id_progetto": "drama-corea-thehauntedpalace-050",
+    "tipo": "serie",
+    "titolo": "The Haunted Palace sub ita (2025)",
+    "descrizione": "Un drama storico con elementi horror o mistero ambientato in un palazzo reale coreano. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Storico",
+      "Horror",
+      "Mistero"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Haunted-Palace.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-19"
+  },
+  {
+    "id_progetto": "drama-corea-scandalchunhwa-051",
+    "tipo": "serie",
+    "titolo": "The Scandal of Chun Hwa sub ita (2025)",
+    "descrizione": "Un drama storico e d'azione ambientato in epoca Joseon. La serie è composta da 12 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Storico",
+      "Azione",
+      "Romantico"
+    ],
+    "attori": [
+      "Non specificato"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Scandal-of-Chun-Hwa.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/12.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-20"
+  },
+  {
+    "id_progetto": "drama-corea-prideandprejudice-052",
+    "tipo": "serie",
+    "titolo": "Pride and Prejudice sub ita (2014)",
+    "descrizione": "Un drama legale su un gruppo di procuratori che lavorano per i deboli e i meno abbienti. La serie è composta da 21 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Legale",
+      "Mistero",
+      "Romantico"
+    ],
+    "attori": [
+      "Choi Jin-hyuk",
+      "Baek Jin-hee"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Pride-and-Prejudice.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/16.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 17",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/17.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 18",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/18.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 19",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/19.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 20",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/20.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 21",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/21.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-21"
+  },
+  {
+    "id_progetto": "drama-corea-whenstarsgossip-053",
+    "tipo": "serie",
+    "titolo": "When the Stars Gossip sub ita (2025)",
+    "descrizione": "Una commedia romantica fantascientifica ambientata tra astronauti e turisti spaziali in una stazione spaziale, esplorando l'amore oltre la Terra. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Sci-Fi",
+      "Romantico",
+      "Commedia"
+    ],
+    "attori": [
+      "Lee Min-ho",
+      "Gong Hyo-jin"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/When-the-Stars-Gossip.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-22"
+  },
+  {
+    "id_progetto": "drama-corea-queenwoo-054",
+    "tipo": "serie",
+    "titolo": "Queen Woo sub ita (2024)",
+    "descrizione": "Un drama storico che racconta la storia di un'astuta regina che deve trovare un nuovo re entro sette giorni dopo la morte improvvisa del suo marito, per proteggere la sua famiglia e la sua dinastia. La serie è composta da 8 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Storico",
+      "Politico",
+      "Azione"
+    ],
+    "attori": [
+      "Jeon Jong-seo"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Queen-Woo.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/08.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-23"
+  },
+  {
+    "id_progetto": "drama-corea-impossibleheir-055",
+    "tipo": "serie",
+    "titolo": "The Impossible Heir sub ita (2024)",
+    "descrizione": "Un drama di vendetta e ambizione, dove un ragazzo nato in povertà si unisce all'erede illegittimo di una potente azienda per cospirare contro i ricchi e riprendersi il loro posto nella società. La serie è composta da 12 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Affari",
+      "Drammatico"
+    ],
+    "attori": [
+      "Lee Jae-wook",
+      "Lee Jun-young"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Impossible-Heir.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/12.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-24"
+  },
+  {
+    "id_progetto": "drama-corea-smilehaslefteyes-056",
+    "tipo": "serie",
+    "titolo": "The Smile Has Left Your Eyes sub ita (2018)",
+    "descrizione": "Un thriller melodrammatico su un uomo cinico, sospettato di omicidio, e la donna che si innamora di lui, nonostante gli avvertimenti di suo fratello. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Romantico",
+      "Mistero"
+    ],
+    "attori": [
+      "Seo In-guk",
+      "Jung So-min"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/The-Smile-Has-Left-Your-Eyes.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Smile%20Has%20Left%20Your%20Eyes/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-25"
+  },
+  {
+    "id_progetto": "drama-corea-wonderfulworld-057",
+    "tipo": "serie",
+    "titolo": "Wonderful World sub ita (2024)",
+    "descrizione": "Un thriller emotivo su una professoressa che cerca vendetta dopo aver perso suo figlio a causa di un'ingiustizia legale. La serie è composta da 14 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Thriller",
+      "Drammatico",
+      "Mistero"
+    ],
+    "attori": [
+      "Kim Nam-joo",
+      "Cha Eun-woo"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Wonderful-World.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Wonderful%20World/14.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-26"
+  },
+  {
+    "id_progetto": "drama-corea-coffeeprince-058",
+    "tipo": "serie",
+    "titolo": "Coffee Prince sub ita (2007)",
+    "descrizione": "Un classico del K-drama, commedia romantica su una ragazza che si traveste da uomo per ottenere un lavoro in un bar gestito da un ricco erede. La serie è composta da 16 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Romantico",
+      "Commedia",
+      "Vita"
+    ],
+    "attori": [
+      "Gong Yoo",
+      "Yoon Eun-hye"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/Coffee-Prince.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Coffee%20Prince/16.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-27"
+  },
+  {
+    "id_progetto": "drama-corea-gooddaytobeandog-059",
+    "tipo": "serie",
+    "titolo": "A Good Day To Be A Dog sub ita (2023)",
+    "descrizione": "Un drama fantasy-romantico su una donna che è maledetta a trasformarsi in un cane dopo aver baciato un uomo, e l'unico modo per rompere la maledizione è che lui la baci di nuovo. La serie è composta da 14 episodi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Fantasy",
+      "Romantico",
+      "Commedia"
+    ],
+    "attori": [
+      "Cha Eun-woo",
+      "Park Gyu-young"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2024/09/A-Good-Day-To-Be-A-Dog.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/A%20Good%20Day%20To%20Be%20A%20Dog/14.mp4"
+        }
+      ]
+    },
+    "data_inserimento": "2024-11-28"
+  },
 ]
+
 
 
 
