@@ -23,10 +23,10 @@
     "sub_categoria": "Corea",
     "generi": ["18+", "Drammatico", "Erotico", "Psicologico", "Romantico"],
     "attori": ["Cho Jae-hyun", "Jo Min-ki", "Kim Jung-gyun", "Seo Won"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/bad-guy-2001.jpg",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/09/bad-guy-2001-kim-ki-duk.png",
     "video_data": {
       "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Bad.Guy.mp4"
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Bad.Guy.2001.mp4"
     }
   },
   {
@@ -38,10 +38,10 @@
     "sub_categoria": "Corea",
     "generi": ["14+", "Commedia", "Drammatico", "Vita"],
     "attori": ["Jin Goo", "Jung Seo-yeon", "Kang Shin-il", "Jang Yoon-jung"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Youre-So-Precious-to-Me.jpg",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/09/youare.png",
     "video_data": {
       "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Youre.So.Precious.to.Me.mp4"
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/You're%20So%20Precious%20to%20Me.mp4"
     }
   },
   {
@@ -53,7 +53,7 @@
     "sub_categoria": "Corea",
     "generi": ["18+", "Azione", "Crimine", "Drammatico"],
     "attori": ["Choi Min-ho", "Don Lee (Ma Dong-seok)", "Kim Jae-young", "Jung Yoo-jin"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Derailed.jpg",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/09/derailed-2016.png",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Derailed.mp4"
@@ -68,10 +68,40 @@
     "sub_categoria": "Corea",
     "generi": ["14+", "Fantasy", "Romantico"],
     "attori": ["Choi Yoon-young", "Jo Seung-yun", "Jun Ji-hyun", "Kim Moo-saeng", "Lee In-chul", "Lee Jung-jae"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/dnFnGiVMDYNcV5sF9cjl1XeZFWc.webp",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Il-Mare-Siworae.png",
     "video_data": {
       "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il.Mare.-.Siworae.mp4"
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4"
+    }
+  },
+{
+    "id_progetto": "film-giappone-parasyte2-001",
+    "tipo": "film",
+    "titolo": "Parasyte: Parte 2 sub ita (2015)",
+    "descrizione": "Continuano i tentativi di Shinichi di convivere con Migi mentre combattono altri parassiti che hanno preso il controllo di esseri umani. Il confronto finale con i parassiti è imminente, con il destino dell'umanità nelle mani di Shinichi e del suo parassita 'ospite' a metà, Migi.",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": ["14+", "Azione", "Fantascienza", "Horror", "Live Action", "Psicologico"],
+    "attori": ["Abe Sadawo", "Fukatsu Eri", "Hashimoto Ai", "Kunimura Jun", "Sometani Shota", "Yo Kimiko"],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-2-kiseiju-2.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%202.mp4"
+    }
+  },
+  {
+    "id_progetto": "film-giappone-parasyte1-002",
+    "tipo": "film",
+    "titolo": "Parasyte: Parte 1 sub ita (2014)",
+    "descrizione": "Dei parassiti alieni invadono la Terra e prendono il controllo del cervello umano. Lo studente Shinichi Izumi è l'unico il cui parassita, Migi, non riesce a raggiungere il cervello, stabilendosi nella sua mano destra. I due devono imparare a coesistere per affrontare gli altri parassiti che vedono gli umani solo come cibo.",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": ["14+", "Azione", "Fantascienza", "Horror", "Live Action", "Psicologico"],
+    "attori": ["Abe Sadawo", "Fukatsu Eri", "Hashimoto Ai", "Kunimura Jun", "Sometani Shota", "Yo Kimiko"],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-kiseiju.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%201.mp4"
     }
   },
   {
@@ -83,7 +113,7 @@
     "sub_categoria": "Corea",
     "generi": ["14+", "Commedia", "Romantico", "Vita"],
     "attori": ["Go Jun-hee", "Guzal Tursunova", "Joo Ji-hoon", "Kim Hyo-jin", "Lee Yeon-hee", "Lee Hee-jun", "Ok Taec-yeon", "Song Gi-yun", "Mina Fujii"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Marriage-Blue.jpg",
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/marriage-blue.png",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Marriage.Blue.mp4"
@@ -1094,37 +1124,7 @@
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pipeline-2021.mp4"
     }
   },
-{
-    "id_progetto": "film-giappone-parasyte2-001",
-    "tipo": "film",
-    "titolo": "Parasyte: Parte 2 sub ita (2015)",
-    "descrizione": "Continuano i tentativi di Shinichi di convivere con Migi mentre combattono altri parassiti che hanno preso il controllo di esseri umani. Il confronto finale con i parassiti è imminente, con il destino dell'umanità nelle mani di Shinichi e del suo parassita 'ospite' a metà, Migi.",
-    "macro_categoria": "film",
-    "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Fantascienza", "Horror", "Live Action", "Psicologico"],
-    "attori": ["Abe Sadawo", "Fukatsu Eri", "Hashimoto Ai", "Kunimura Jun", "Sometani Shota", "Yo Kimiko"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-2-kiseiju-2.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%202.mp4"
-    }
-  },
-  {
-    "id_progetto": "film-giappone-parasyte1-002",
-    "tipo": "film",
-    "titolo": "Parasyte: Parte 1 sub ita (2014)",
-    "descrizione": "Dei parassiti alieni invadono la Terra e prendono il controllo del cervello umano. Lo studente Shinichi Izumi è l'unico il cui parassita, Migi, non riesce a raggiungere il cervello, stabilendosi nella sua mano destra. I due devono imparare a coesistere per affrontare gli altri parassiti che vedono gli umani solo come cibo.",
-    "macro_categoria": "film",
-    "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Fantascienza", "Horror", "Live Action", "Psicologico"],
-    "attori": ["Abe Sadawo", "Fukatsu Eri", "Hashimoto Ai", "Kunimura Jun", "Sometani Shota", "Yo Kimiko"],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-kiseiju.png",
-    "video_data": {
-      "is_serie": false,
-      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Parasyte%20-%20kiseiju%201.mp4"
-    }
-  },
-  {
+ {
     "id_progetto": "film-giappone-takagisan-003",
     "tipo": "film",
     "titolo": "Karakai Jozu no Takagi-san sub ita (2024)",
@@ -1912,6 +1912,602 @@
     "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20yes%20again%20-%20taiwan.mp4"
   }
 },
+  {
+    "id_progetto": "drama-corea-twelve-012",
+    "tipo": "serie",
+    "titolo": "Twelve sub ita (2025)",
+    "descrizione": "Una serie d'azione e thriller basata sui dodici 'eroi mitologici coreani' (Gumiho). Un gruppo di umani con poteri soprannaturali, noti come 'Twelve', lotta per salvare il mondo da un pericolo incombente, dovendo al contempo nascondere la propria identità.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Azione",
+      "Fantasy",
+      "Thriller"
+    ],
+    "attori": [
+      "Baek Soo Ho",
+      "Hye Yeon"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/twelve.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/08.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id_progetto": "drama-corea-sline-013",
+    "tipo": "serie",
+    "titolo": "S-Line sub ita (2025)",
+    "descrizione": "In un mondo distopico, un filo rosso, la 'S-Line', appare sopra le teste delle persone per indicare un contatto sessuale avuto. La serie esplora le conseguenze sociali e personali di questo fenomeno, dove i segreti non possono più essere nascosti.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "18+",
+      "Fantascienza",
+      "Thriller",
+      "Mistero",
+      "Distopico"
+    ],
+    "attori": [
+      "Lee Soo Hyuk",
+      "Lee Da Hee",
+      "Arin (Oh My Girl)"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/s-line.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/06.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id_progetto": "drama-corea-hauntedpalace-014",
+    "tipo": "serie",
+    "titolo": "The Haunted Palace sub ita (2025)",
+    "descrizione": "Un drama storico ambientato nel palazzo reale Joseon. Un'indagine su un misterioso omicidio si intreccia con superstizioni e credenze popolari, portando a galla segreti e rancori sepolti tra le mura del palazzo, dove sembra che uno spirito sia tornato per vendicarsi.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Giallo",
+      "Horror",
+      "Storico",
+      "Thriller"
+    ],
+    "attori": [
+      "Go Min Si",
+      "Park Bo Young"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/the-haunted-palace.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/16.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id_progetto": "drama-corea-scandalofchunhwa-015",
+    "tipo": "serie",
+    "titolo": "The Scandal of Chun Hwa sub ita (2025)",
+    "descrizione": "Una serie comico-romantica ambientata in un periodo storico che segue le vicende di una misteriosa artista di corte e il suo coinvolgimento con i segreti e gli scandali della famiglia reale.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Storico"
+    ],
+    "attori": [
+      "Go Ah Sung",
+      "Ryeoun",
+      "Hong Kyung"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/the-scandal-of-chun-hwa.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/12.mp4"
+        }
+      ]
+     }
+    },
+  {
+    "id_progetto": "drama-corea-prideandprejudice-016",
+    "tipo": "serie",
+    "titolo": "Pride and Prejudice sub ita (2014)",
+    "descrizione": "Un drama legale che segue un gruppo di giovani e ambiziosi procuratori e avvocati che lavorano insieme per combattere le ingiustizie in tribunale, affrontando complotti e corruzione che circondano un caso irrisolto del loro passato.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Legale",
+      "Romantico",
+      "Thriller"
+    ],
+    "attori": [
+      "Choi Jin Hyuk",
+      "Baek Jin Hee",
+      "Choi Min Soo"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/pride-and-prejudice-2014.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/16.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 17",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/17.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 18",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/18.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 19",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/19.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 20",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/20.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 21 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/21.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id_progetto": "drama-corea-whenthestarsgossip-017",
+    "tipo": "serie",
+    "titolo": "When the Stars Gossip sub ita (2025)",
+    "descrizione": "Una commedia romantica ambientata nello spazio che racconta la storia d'amore tra un'astronauta e un chirurgo estetico che si incontrano in una stazione spaziale. Il drama esplora le sfide di una relazione interstellare.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Fantascienza"
+    ],
+    "attori": [
+      "Lee Min Ho",
+      "Gong Hyo Jin"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/when-the-stars-gossip.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/16.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id_progetto": "drama-corea-queenwoo-018",
+    "tipo": "serie",
+    "titolo": "Queen Woo sub ita (2024)",
+    "descrizione": "Un drama storico che racconta la storia della Regina Woo, la quale si ritrova in una situazione di pericolo dopo la morte improvvisa del Re. Per proteggere la sua famiglia e il suo clan, deve sposare uno dei suoi fratellastri entro sette giorni.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Storico",
+      "Politico"
+    ],
+    "attori": [
+      "Jeon Jong Seo",
+      "Kim Mu Yeol",
+      "Ji Chang Wook"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/queen-woo.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/08.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id_progetto": "drama-corea-impossibleheir-019",
+    "tipo": "serie",
+    "titolo": "The Impossible Heir sub ita (2024)",
+    "descrizione": "Kang In Ha, nato in povertà ma con l'ambizione di scalare la vetta sociale, si allea con il suo amico Han Tae Oh per prendere il controllo del più grande conglomerato coreano. Il loro piano disperato e rischioso li mette contro potenti avversari.",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Affari",
+      "Thriller",
+      "Vendetta"
+    ],
+    "attori": [
+      "Lee Jae Wook",
+      "Lee Jun Young",
+      "Hong Su Zu"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/the-impossible-heir.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12 (Finale)",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/12.mp4"
+        }
+      ]
+    }
+  },
  {
     "id_progetto": "drama-corea-dramaworld-001",
     "tipo": "serie",
@@ -2860,602 +3456,6 @@
         {
           "titolo_episodio": "Episodio 16 (Finale)",
           "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pachinko/16.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-twelve-012",
-    "tipo": "serie",
-    "titolo": "Twelve sub ita (2025)",
-    "descrizione": "Una serie d'azione e thriller basata sui dodici 'eroi mitologici coreani' (Gumiho). Un gruppo di umani con poteri soprannaturali, noti come 'Twelve', lotta per salvare il mondo da un pericolo incombente, dovendo al contempo nascondere la propria identità.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Azione",
-      "Fantasy",
-      "Thriller"
-    ],
-    "attori": [
-      "Baek Soo Ho",
-      "Hye Yeon"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/twelve.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Twelve/08.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-sline-013",
-    "tipo": "serie",
-    "titolo": "S-Line sub ita (2025)",
-    "descrizione": "In un mondo distopico, un filo rosso, la 'S-Line', appare sopra le teste delle persone per indicare un contatto sessuale avuto. La serie esplora le conseguenze sociali e personali di questo fenomeno, dove i segreti non possono più essere nascosti.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "18+",
-      "Fantascienza",
-      "Thriller",
-      "Mistero",
-      "Distopico"
-    ],
-    "attori": [
-      "Lee Soo Hyuk",
-      "Lee Da Hee",
-      "Arin (Oh My Girl)"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/s-line.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/S-Line/06.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-hauntedpalace-014",
-    "tipo": "serie",
-    "titolo": "The Haunted Palace sub ita (2025)",
-    "descrizione": "Un drama storico ambientato nel palazzo reale Joseon. Un'indagine su un misterioso omicidio si intreccia con superstizioni e credenze popolari, portando a galla segreti e rancori sepolti tra le mura del palazzo, dove sembra che uno spirito sia tornato per vendicarsi.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Giallo",
-      "Horror",
-      "Storico",
-      "Thriller"
-    ],
-    "attori": [
-      "Go Min Si",
-      "Park Bo Young"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/the-haunted-palace.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/10.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 11",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/11.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 12",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/12.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 13",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/13.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 14",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/14.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 15",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/15.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 16 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Haunted%20Palace/16.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-scandalofchunhwa-015",
-    "tipo": "serie",
-    "titolo": "The Scandal of Chun Hwa sub ita (2025)",
-    "descrizione": "Una serie comico-romantica ambientata in un periodo storico che segue le vicende di una misteriosa artista di corte e il suo coinvolgimento con i segreti e gli scandali della famiglia reale.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Commedia",
-      "Romantico",
-      "Storico"
-    ],
-    "attori": [
-      "Go Ah Sung",
-      "Ryeoun",
-      "Hong Kyung"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/the-scandal-of-chun-hwa.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/10.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 11",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/11.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 12 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/12.mp4"
-        }
-      ]
-     }
-    },
-  {
-    "id_progetto": "drama-corea-prideandprejudice-016",
-    "tipo": "serie",
-    "titolo": "Pride and Prejudice sub ita (2014)",
-    "descrizione": "Un drama legale che segue un gruppo di giovani e ambiziosi procuratori e avvocati che lavorano insieme per combattere le ingiustizie in tribunale, affrontando complotti e corruzione che circondano un caso irrisolto del loro passato.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Drammatico",
-      "Legale",
-      "Romantico",
-      "Thriller"
-    ],
-    "attori": [
-      "Choi Jin Hyuk",
-      "Baek Jin Hee",
-      "Choi Min Soo"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/pride-and-prejudice-2014.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/10.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 11",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/11.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 12",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/12.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 13",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/13.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 14",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/14.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 15",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/15.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 16",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/16.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 17",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/17.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 18",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/18.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 19",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/19.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 20",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/20.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 21 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Pride%20and%20Prejudice/21.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-whenthestarsgossip-017",
-    "tipo": "serie",
-    "titolo": "When the Stars Gossip sub ita (2025)",
-    "descrizione": "Una commedia romantica ambientata nello spazio che racconta la storia d'amore tra un'astronauta e un chirurgo estetico che si incontrano in una stazione spaziale. Il drama esplora le sfide di una relazione interstellare.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Commedia",
-      "Romantico",
-      "Fantascienza"
-    ],
-    "attori": [
-      "Lee Min Ho",
-      "Gong Hyo Jin"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/when-the-stars-gossip.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/10.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 11",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/11.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 12",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/12.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 13",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/13.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 14",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/14.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 15",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/15.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 16 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/When%20the%20Stars%20Gossip/16.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-queenwoo-018",
-    "tipo": "serie",
-    "titolo": "Queen Woo sub ita (2024)",
-    "descrizione": "Un drama storico che racconta la storia della Regina Woo, la quale si ritrova in una situazione di pericolo dopo la morte improvvisa del Re. Per proteggere la sua famiglia e il suo clan, deve sposare uno dei suoi fratellastri entro sette giorni.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Drammatico",
-      "Storico",
-      "Politico"
-    ],
-    "attori": [
-      "Jeon Jong Seo",
-      "Kim Mu Yeol",
-      "Ji Chang Wook"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/queen-woo.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/Queen%20Woo/08.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id_progetto": "drama-corea-impossibleheir-019",
-    "tipo": "serie",
-    "titolo": "The Impossible Heir sub ita (2024)",
-    "descrizione": "Kang In Ha, nato in povertà ma con l'ambizione di scalare la vetta sociale, si allea con il suo amico Han Tae Oh per prendere il controllo del più grande conglomerato coreano. Il loro piano disperato e rischioso li mette contro potenti avversari.",
-    "macro_categoria": "drama",
-    "sub_categoria": "COREA",
-    "generi": [
-      "14+",
-      "Affari",
-      "Thriller",
-      "Vendetta"
-    ],
-    "attori": [
-      "Lee Jae Wook",
-      "Lee Jun Young",
-      "Hong Su Zu"
-    ],
-    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/the-impossible-heir.jpg",
-    "video_data": {
-      "is_serie": true,
-      "episodi": [
-        {
-          "titolo_episodio": "Episodio 1",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/01.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 2",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/02.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 3",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/03.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 4",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/04.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 5",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/05.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 6",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/06.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 7",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/07.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 8",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/08.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 9",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/09.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 10",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/10.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 11",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/11.mp4"
-        },
-        {
-          "titolo_episodio": "Episodio 12 (Finale)",
-          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Impossible%20Heir/12.mp4"
         }
       ]
     }
