@@ -1,5 +1,35 @@
 [
  {
+    "id_progetto": "ranma-1-2-sub-ita-2011",
+    "tipo": "film",
+    "titolo": "Ranma 1/2 sub ita (2011)",
+    "descrizione": "Akane è determinata a proteggere la longevità del dojo Tendo. Tuttavia, un giorno suo padre Soun dichiara improvvisamente che il successore del dojo deve essere maschio. Questo esclude il partner predestinato di Akane, Ranma, il quale soffre di una maledizione che lo trasforma in una ragazza ogni volta che viene schizzato con acqua fredda. Nel tentativo di rimuovere la maledizione e ereditare il dojo, Ranma si mette alla ricerca di una sorgente termale segreta, ma incontra un misterioso nemico.",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": ["Azione", "Commedia", "Romantico", "Soprannaturale"],
+    "attori": ["Natsuna", "Kaku Ken-To", "Aragaki Yui", "Namase Katsu-hisa", "Tanihara Sho-suke", "Hasegawa Kyo-ko"],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/11/5nd7Z1pVMLoPvrO4EF9fL25S3p9.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ranma%201-2%20Live%20Action.mp4"
+    }
+  },
+ {
+    "id_progetto": "film-corea-2-oclock-date-pretty-crazy-2025",
+    "tipo": "film",
+    "titolo": "2 o’clock Date – Pretty Crazy sub ita (2025)",
+    "descrizione": "Jung Seon-Ji è un'affascinante aspirante pasticcera con un segreto di cui nemmeno lei è a conoscenza: è sotto una maledizione che la trasforma in una specie di diavolessa ingestibile ogni notte. La Seon-Ji diurna non ha alcun ricordo della Seon-Ji notturna e del comportamento sgarbato di quest'ultima. Una notte d'estate, la Seon-Ji notturna si scontra in modo spettacolare con il suo imbarazzato vicino disoccupato, Gil Gu. Cogliendo l'occasione, la famiglia di Seon-Ji assume Gil Gu per lavorare il turno di notte e sorvegliarla. Mentre si innamora perdutamente della Seon-Ji diurna e affronta i loro sconcertanti appuntamenti notturni, Gil Gu si impegna a svelare la maledizione e aiutare entrambe le versioni della ragazza a trovare il proprio futuro.",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": ["Commedia Romantica", "Drammatico", "Fantasia", "Live Action"],
+    "attori": ["Lim Yoon-Ah", "Ahn Bo-Hyun", "Sung Dong-Il", "Joo Hyun-Young", "Go Geon-Han", "Shin Hyun-Soo"],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/11/pretty-crazy.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pretty%20Crazy.mp4"
+    }
+  },
+ {
     "id_progetto": "film-corea-omniscient-2025",
     "tipo": "film",
     "titolo": "Omniscient Reader: The Prophecy sub Ita (2025)",
@@ -4691,3 +4721,4 @@
     }
   }
 ]
+
