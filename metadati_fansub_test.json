@@ -1,58 +1,134 @@
 [
- {
+  {
+    "id_progetto": "altro-cortometraggi-the-effect-of-one-night-on-parting--001",
+    "tipo": "film",
+    "titolo": "The Effect of One Night on Parting sub ita (2021)",
+    "descrizione": "È un cortometraggio romantico e drammatico sudcoreano. La trama segue Kim Hyeon-jung e Hong Jin-woo, una coppia che si trova a confrontarsi con una separazione imminente. La storia si sviluppa nel corso dell’ultima notte che i due trascorrono insieme, esplorando l’effetto profondo e talvolta doloroso che il ricordo di un amore passato può avere sulla decisione di separarsi definitivamente.",
+    "macro_categoria": "altro",
+    "sub_categoria": "CORTOMETRAGGI",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Drammatico",
+      "Live Action"
+    ],
+    "attori": [
+      "Ha Yoon-Kyung",
+      "Hong Kyung",
+      "Kang Tae-Oh",
+      "Lee Ga-Yeon",
+      "Seo Yi-Sook",
+      "Shin Ye-eun"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/12/A-Moment-of-Romance.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A%20Moment%20of%20Romance.mp4"
+    }
+  },
+  {
     "id_progetto": "ranma-1-2-sub-ita-2011",
     "tipo": "film",
     "titolo": "Ranma 1/2 sub ita (2011)",
     "descrizione": "Akane è determinata a proteggere la longevità del dojo Tendo. Tuttavia, un giorno suo padre Soun dichiara improvvisamente che il successore del dojo deve essere maschio. Questo esclude il partner predestinato di Akane, Ranma, il quale soffre di una maledizione che lo trasforma in una ragazza ogni volta che viene schizzato con acqua fredda. Nel tentativo di rimuovere la maledizione e ereditare il dojo, Ranma si mette alla ricerca di una sorgente termale segreta, ma incontra un misterioso nemico.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["Azione", "Commedia", "Romantico", "Soprannaturale"],
-    "attori": ["Natsuna", "Kaku Ken-To", "Aragaki Yui", "Namase Katsu-hisa", "Tanihara Sho-suke", "Hasegawa Kyo-ko"],
+    "generi": [
+      "Azione",
+      "Commedia",
+      "Romantico",
+      "Soprannaturale"
+    ],
+    "attori": [
+      "Natsuna",
+      "Kaku Ken-To",
+      "Aragaki Yui",
+      "Namase Katsu-hisa",
+      "Tanihara Sho-suke",
+      "Hasegawa Kyo-ko"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/11/ranma.jpg",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Ranma%201-2%20Live%20Action.mp4"
     }
   },
- {
+  {
     "id_progetto": "film-corea-2-oclock-date-pretty-crazy-2025",
     "tipo": "film",
     "titolo": "2 o’clock Date – Pretty Crazy sub ita (2025)",
     "descrizione": "Jung Seon-Ji è un'affascinante aspirante pasticcera con un segreto di cui nemmeno lei è a conoscenza: è sotto una maledizione che la trasforma in una specie di diavolessa ingestibile ogni notte. La Seon-Ji diurna non ha alcun ricordo della Seon-Ji notturna e del comportamento sgarbato di quest'ultima. Una notte d'estate, la Seon-Ji notturna si scontra in modo spettacolare con il suo imbarazzato vicino disoccupato, Gil Gu. Cogliendo l'occasione, la famiglia di Seon-Ji assume Gil Gu per lavorare il turno di notte e sorvegliarla. Mentre si innamora perdutamente della Seon-Ji diurna e affronta i loro sconcertanti appuntamenti notturni, Gil Gu si impegna a svelare la maledizione e aiutare entrambe le versioni della ragazza a trovare il proprio futuro.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["Commedia Romantica", "Drammatico", "Fantasia", "Live Action"],
-    "attori": ["Lim Yoon-Ah", "Ahn Bo-Hyun", "Sung Dong-Il", "Joo Hyun-Young", "Go Geon-Han", "Shin Hyun-Soo"],
+    "generi": [
+      "Commedia Romantica",
+      "Drammatico",
+      "Fantasia",
+      "Live Action"
+    ],
+    "attori": [
+      "Lim Yoon-Ah",
+      "Ahn Bo-Hyun",
+      "Sung Dong-Il",
+      "Joo Hyun-Young",
+      "Go Geon-Han",
+      "Shin Hyun-Soo"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/11/nORzJ2_4f.jpg",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pretty%20Crazy.mp4"
     }
   },
- {
+  {
     "id_progetto": "film-corea-omniscient-2025",
     "tipo": "film",
     "titolo": "Omniscient Reader: The Prophecy sub Ita (2025)",
     "descrizione": "Kim Dok-ja è un ordinario impiegato di ufficio con un’unica ossessione: la web novel fantasy “Tre modi per sopravvivere in un mondo in rovina”. Per oltre dieci anni è stato l’unico lettore ad aver raggiunto la fine del lungo racconto. La sua vita banale prende una svolta quando il mondo inizia a trasformarsi rispecchiando esattamente gli scenari e i personaggi della web novel.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Avventura", "Azione", "Fantasy", "Live Action"],
-    "attori": ["Ahn Hyo-seop", "Chae Soo-bin", "Jisoo", "Lee Min-ho", "Nana", "Shin Seung-ho"],
+    "generi": [
+      "14+",
+      "Avventura",
+      "Azione",
+      "Fantasy",
+      "Live Action"
+    ],
+    "attori": [
+      "Ahn Hyo-seop",
+      "Chae Soo-bin",
+      "Jisoo",
+      "Lee Min-ho",
+      "Nana",
+      "Shin Seung-ho"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/11/NdDEeo_3f.jpg",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Omniscient%20Reader.mp4"
     }
   },
- {
+  {
     "id_progetto": "film-corea-badguy-001",
     "tipo": "film",
     "titolo": "Bad Guy sub Ita (2001)",
     "descrizione": "Han-ki, un violento pappone, si innamora di Sun-hwa, una studentessa universitaria che rifiuta le sue avances. Per vendetta, la incastra, costringendola a lavorare in un bordello, ma continua a osservarla segretamente, sviluppando un amore complesso e ossessivo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Erotico", "Psicologico", "Romantico"],
-    "attori": ["Cho Jae-hyun", "Jo Min-ki", "Kim Jung-gyun", "Seo Won"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Erotico",
+      "Psicologico",
+      "Romantico"
+    ],
+    "attori": [
+      "Cho Jae-hyun",
+      "Jo Min-ki",
+      "Kim Jung-gyun",
+      "Seo Won"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/09/Xdrwxf.jpg",
     "video_data": {
       "is_serie": false,
@@ -66,8 +142,18 @@
     "descrizione": "Un uomo sfortunato la cui vita cambia quando accetta di fingersi il tutore di Eun-hye, una bambina sordocieca. Inizialmente mosso solo dal guadagno, scopre un legame profondo con la bambina, che lo costringe a rivalutare la sua vita e a trovare un nuovo scopo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Drammatico", "Vita"],
-    "attori": ["Jin Goo", "Jung Seo-yeon", "Kang Shin-il", "Jang Yoon-jung"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Jin Goo",
+      "Jung Seo-yeon",
+      "Kang Shin-il",
+      "Jang Yoon-jung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/09/Youre-So-Precious-to-Me.jpg",
     "video_data": {
       "is_serie": false,
@@ -81,8 +167,18 @@
     "descrizione": "Quattro adolescenti senza casa rubano per sopravvivere. Quando uno di loro finisce nelle grinfie di un crudele gestore di bar per adulti, il gruppo rischia tutto per salvarla, scontrandosi con la brutalità del mondo criminale.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Crimine", "Drammatico"],
-    "attori": ["Choi Min-ho", "Don Lee (Ma Dong-seok)", "Kim Jae-young", "Jung Yoo-jin"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Crimine",
+      "Drammatico"
+    ],
+    "attori": [
+      "Choi Min-ho",
+      "Don Lee (Ma Dong-seok)",
+      "Kim Jae-young",
+      "Jung Yoo-jin"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/09/veAypf.jpg",
     "video_data": {
       "is_serie": false,
@@ -96,23 +192,48 @@
     "descrizione": "Eun Ju e Seong Hyeon, due persone che vivono in epoche diverse (1999 e 1997), comunicano attraverso una misteriosa cassetta delle lettere, che funge da portale temporale. Le loro previsioni e scambi li portano a un contatto unico tra due diversi momenti nel tempo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Fantasy", "Romantico"],
-    "attori": ["Choi Yoon-young", "Jo Seung-yun", "Jun Ji-hyun", "Kim Moo-saeng", "Lee In-chul", "Lee Jung-jae"],
+    "generi": [
+      "14+",
+      "Fantasy",
+      "Romantico"
+    ],
+    "attori": [
+      "Choi Yoon-young",
+      "Jo Seung-yun",
+      "Jun Ji-hyun",
+      "Kim Moo-saeng",
+      "Lee In-chul",
+      "Lee Jung-jae"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/dnFnGiVMDYNcV5sF9cjl1XeZFWc.webp",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Il%20Mare%20-%20Siworae.mp4"
     }
   },
-{
+  {
     "id_progetto": "film-giappone-parasyte2-001",
     "tipo": "film",
     "titolo": "Parasyte: Parte 2 sub ita (2015)",
     "descrizione": "Continuano i tentativi di Shinichi di convivere con Migi mentre combattono altri parassiti che hanno preso il controllo di esseri umani. Il confronto finale con i parassiti è imminente, con il destino dell'umanità nelle mani di Shinichi e del suo parassita 'ospite' a metà, Migi.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Fantascienza", "Horror", "Live Action", "Psicologico"],
-    "attori": ["Abe Sadawo", "Fukatsu Eri", "Hashimoto Ai", "Kunimura Jun", "Sometani Shota", "Yo Kimiko"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Fantascienza",
+      "Horror",
+      "Live Action",
+      "Psicologico"
+    ],
+    "attori": [
+      "Abe Sadawo",
+      "Fukatsu Eri",
+      "Hashimoto Ai",
+      "Kunimura Jun",
+      "Sometani Shota",
+      "Yo Kimiko"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/JjKvXf.jpg",
     "video_data": {
       "is_serie": false,
@@ -126,8 +247,22 @@
     "descrizione": "Dei parassiti alieni invadono la Terra e prendono il controllo del cervello umano. Lo studente Shinichi Izumi è l'unico il cui parassita, Migi, non riesce a raggiungere il cervello, stabilendosi nella sua mano destra. I due devono imparare a coesistere per affrontare gli altri parassiti che vedono gli umani solo come cibo.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Fantascienza", "Horror", "Live Action", "Psicologico"],
-    "attori": ["Abe Sadawo", "Fukatsu Eri", "Hashimoto Ai", "Kunimura Jun", "Sometani Shota", "Yo Kimiko"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Fantascienza",
+      "Horror",
+      "Live Action",
+      "Psicologico"
+    ],
+    "attori": [
+      "Abe Sadawo",
+      "Fukatsu Eri",
+      "Hashimoto Ai",
+      "Kunimura Jun",
+      "Sometani Shota",
+      "Yo Kimiko"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/parasyte-kiseiju.jpg",
     "video_data": {
       "is_serie": false,
@@ -141,8 +276,23 @@
     "descrizione": "Una commedia romantica che segue quattro coppie che affrontano la paura e l'ansia prima del matrimonio. Ognuna deve superare ostacoli come dubbi, infedeltà, differenze culturali e sfide familiari prima di poter dire il fatidico 'sì'.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico", "Vita"],
-    "attori": ["Go Jun-hee", "Guzal Tursunova", "Joo Ji-hoon", "Kim Hyo-jin", "Lee Yeon-hee", "Lee Hee-jun", "Ok Taec-yeon", "Song Gi-yun", "Mina Fujii"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Go Jun-hee",
+      "Guzal Tursunova",
+      "Joo Ji-hoon",
+      "Kim Hyo-jin",
+      "Lee Yeon-hee",
+      "Lee Hee-jun",
+      "Ok Taec-yeon",
+      "Song Gi-yun",
+      "Mina Fujii"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/vXe2gf.jpg",
     "video_data": {
       "is_serie": false,
@@ -156,8 +306,19 @@
     "descrizione": "Due studenti ribelli, Taek-il e Sang-pil, cercano di sfuggire alla noia e alla pressione della scuola. Taek-il fugge per lavorare in un ristorante cinese, mentre Sang-pil cerca di guadagnare rapidamente denaro. Entrambi imparano il vero significato della vita e della crescita attraverso le loro esperienze.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Commedia", "Vita"],
-    "attori": ["Jung Hae-in", "Kim Gyeong-deok", "Ma Dong-seok", "Park Jung-min", "Yum Jung-ah"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Commedia",
+      "Vita"
+    ],
+    "attori": [
+      "Jung Hae-in",
+      "Kim Gyeong-deok",
+      "Ma Dong-seok",
+      "Park Jung-min",
+      "Yum Jung-ah"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/start-up-2.jpg",
     "video_data": {
       "is_serie": false,
@@ -171,8 +332,21 @@
     "descrizione": "Il secondo capitolo segue i tre Guardiani dell'Aldilà che guidano il loro 49° e ultimo soggetto, un uomo con amnesia, attraverso i sette processi infernali. Nel frattempo, il Dio della Casa rivela i segreti millenari dei Guardiani, sbloccando i loro ricordi perduti.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Drammatico", "Fantasy", "Mistero"],
-    "attori": ["Don Lee (Ma Dong-seok)", "Ha Jung-woo", "Joo Ji-hoon", "Kim Hyang-gi", "Kim Myung-gon", "Kim Dong-wook"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Drammatico",
+      "Fantasy",
+      "Mistero"
+    ],
+    "attori": [
+      "Don Lee (Ma Dong-seok)",
+      "Ha Jung-woo",
+      "Joo Ji-hoon",
+      "Kim Hyang-gi",
+      "Kim Myung-gon",
+      "Kim Dong-wook"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-2.jpg",
     "video_data": {
       "is_serie": false,
@@ -186,8 +360,18 @@
     "descrizione": "Doo-young, un promettente judoka, perde la vista. Suo fratello maggiore Doo-shik, un truffatore in libertà condizionata, sfrutta la situazione per uscire di prigione e vivere con lui. Nonostante il loro rapporto teso, i fratelli devono imparare a convivere e sostenersi a vicenda.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Drammatico", "Vita"],
-    "attori": ["Jo Jung-suk", "Kim Kang-hyun", "Do Kyung-soo (D.O)", "Park Shin-hye"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Jo Jung-suk",
+      "Kim Kang-hyun",
+      "Do Kyung-soo (D.O)",
+      "Park Shin-hye"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/E7Zx7f.jpg",
     "video_data": {
       "is_serie": false,
@@ -201,8 +385,21 @@
     "descrizione": "Dopo una morte eroica, il pompiere Kim Ja-hong viene scortato nell'Aldilà da tre Guardiani, che devono aiutarlo a superare sette processi in 49 giorni per la reincarnazione. Il suo destino dipende dalla dimostrazione di una vita di virtù.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Drammatico", "Fantasy", "Mistero"],
-    "attori": ["Ha Jung-woo", "Joo Ji-hoon", "Kim Hyang-gi", "Kim Dong-wook", "Lee Jung-jae", "Do Kyung-soo (D.O)"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Drammatico",
+      "Fantasy",
+      "Mistero"
+    ],
+    "attori": [
+      "Ha Jung-woo",
+      "Joo Ji-hoon",
+      "Kim Hyang-gi",
+      "Kim Dong-wook",
+      "Lee Jung-jae",
+      "Do Kyung-soo (D.O)"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Along-with-the-Gods-1-1.jpg",
     "video_data": {
       "is_serie": false,
@@ -216,8 +413,18 @@
     "descrizione": "Una commedia erotica che ruota attorno a uno scambio involontario di corpi tra due persone. Questo evento inaspettato li porta a vivere le rispettive vite in modo caotico e comico, costringendoli ad affrontare situazioni imbarazzanti e a rivalutare le loro esistenze.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Commedia", "Erotico", "Fantasy"],
-    "attori": ["Lee Yoo-chan", "Min Do-yoon", "Park Ye-ni", "Ryoo Je-seung"],
+    "generi": [
+      "18+",
+      "Commedia",
+      "Erotico",
+      "Fantasy"
+    ],
+    "attori": [
+      "Lee Yoo-chan",
+      "Min Do-yoon",
+      "Park Ye-ni",
+      "Ryoo Je-seung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Yadang-The-Snitch-2.jpg",
     "video_data": {
       "is_serie": false,
@@ -231,8 +438,16 @@
     "descrizione": "Un film romantico che esplora il legame tra un talentuoso studente di pianoforte e una misteriosa studentessa che suona una melodia segreta in una stanza d'allenamento proibita. La loro relazione si sviluppa tra musica e mistero, rivelando una storia nascosta.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Musicale", "Romantico", "Scolastico"],
-    "attori": ["Do Kyung-soo (D.O)", "Won Jin-a"],
+    "generi": [
+      "14+",
+      "Musicale",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Do Kyung-soo (D.O)",
+      "Won Jin-a"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Secret-Untold-Melody.jpg",
     "video_data": {
       "is_serie": false,
@@ -246,8 +461,19 @@
     "descrizione": "Cinque persone con poteri speciali, ottenuti dopo un misterioso trapianto di organi, si uniscono per affrontare un uomo che sta cercando di rubare i loro poteri. Dovranno imparare a lavorare insieme per difendersi e capire l'origine dei loro doni.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Commedia", "Fantasy"],
-    "attori": ["Go Kyung-pyo", "Jo Bok-rae", "Kim Hee-sun", "Yoo Hae-jin", "Lee Gyeong-young"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Commedia",
+      "Fantasy"
+    ],
+    "attori": [
+      "Go Kyung-pyo",
+      "Jo Bok-rae",
+      "Kim Hee-sun",
+      "Yoo Hae-jin",
+      "Lee Gyeong-young"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Hi-Five.jpg",
     "video_data": {
       "is_serie": false,
@@ -261,8 +487,17 @@
     "descrizione": "Una studentessa sorda scopre un mondo di suoni e musica grazie a un misterioso ragazzo che la aiuta a sentire. Il film è una storia toccante sul superamento delle barriere comunicative e sul potere curativo dell'amore e della musica.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico", "Scolastico"],
-    "attori": ["Hong Kyung", "Roh Yoon-seo", "Choi Hyun-jin"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Hong Kyung",
+      "Roh Yoon-seo",
+      "Choi Hyun-jin"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Hear-Me-Our-Summer.jpg",
     "video_data": {
       "is_serie": false,
@@ -276,8 +511,16 @@
     "descrizione": "Un thriller fantasy che segue una scrittrice che si ritrova intrappolata in un incubo da fiaba. Mentre cerca una via d'uscita, scopre i segreti oscuri e le verità nascoste dietro le sue stesse storie.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Fantasy", "Mistero", "Thriller"],
-    "attori": ["Kim Hye-yoon", "Lee Joon-hyuk"],
+    "generi": [
+      "18+",
+      "Fantasy",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Kim Hye-yoon",
+      "Lee Joon-hyuk"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Forbidden-Fairytaler.jpg",
     "video_data": {
       "is_serie": false,
@@ -291,8 +534,19 @@
     "descrizione": "Ambientato durante la dinastia Goryeo, il film esplora un complesso triangolo amoroso tra un re senza eredi, la sua regina e il capo delle guardie reali. Per assicurare un successore, il re ordina ai due di concepire un figlio, scatenando un turbinio di passione e tragedia.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Erotico", "LGBTQ+", "Storico"],
-    "attori": ["Joo Jin-mo", "Jo In-sung", "Song Ji-hyo", "Shim Ji-ho"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Erotico",
+      "LGBTQ+",
+      "Storico"
+    ],
+    "attori": [
+      "Joo Jin-mo",
+      "Jo In-sung",
+      "Song Ji-hyo",
+      "Shim Ji-ho"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/url.webp",
     "video_data": {
       "is_serie": false,
@@ -306,8 +560,18 @@
     "descrizione": "Uno stimato professore universitario viene trasferito in campagna e inizia una relazione passionale con una giovane donna. Dopo un tragico evento che lo riporta in città, la donna torna nella sua vita anni dopo per vendicarsi di essere stata abbandonata e tradita.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Erotico", "Mistero", "Thriller"],
-    "attori": ["Jung Woo-sung", "Lee Som", "Park So-young"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Erotico",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Jung Woo-sung",
+      "Lee Som",
+      "Park So-young"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Scarlet-Innocence.jpg",
     "video_data": {
       "is_serie": false,
@@ -321,8 +585,15 @@
     "descrizione": "Young-seok, uno studente universitario, incontra Josee, una giovane donna che vive in modo singolare, circondata da libri. Inizia una tenera relazione tra i due, dove Young-seok aiuta Josee a confrontarsi con il mondo esterno, imparando entrambi il significato dell'amore e della libertà.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico"],
-    "attori": ["Han Ji-min", "Nam Joo-hyuk"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico"
+    ],
+    "attori": [
+      "Han Ji-min",
+      "Nam Joo-hyuk"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Josee.jpg",
     "video_data": {
       "is_serie": false,
@@ -336,8 +607,21 @@
     "descrizione": "Una serie di storie interconnesse che si svolgono in un lussuoso hotel durante il periodo di Capodanno. Vari personaggi, tra cui un manager d'albergo, un pianista, un DJ e un portiere, affrontano le loro sfide emotive e le loro speranze mentre il nuovo anno si avvicina.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico", "Vita"],
-    "attori": ["Han Ji-min", "Kim Young-kwang", "Lee Kwang-soo", "Lee Dong-wook", "Kang Ha-neul", "Won Jin-a", "Yoon-A (Im Yoon-ah)"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Han Ji-min",
+      "Kim Young-kwang",
+      "Lee Kwang-soo",
+      "Lee Dong-wook",
+      "Kang Ha-neul",
+      "Won Jin-a",
+      "Yoon-A (Im Yoon-ah)"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Year-End-Medley-1.jpg",
     "video_data": {
       "is_serie": false,
@@ -351,8 +635,17 @@
     "descrizione": "Ji-hye scopre le lettere d'amore tra sua madre e il suo primo amore, rivivendo la storia romantica e struggente del passato. Parallelamente, si innamora di un compagno di studi, creando un parallelo emotivo tra le due generazioni.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico", "Scolastico"],
-    "attori": ["Cho Seung-woo", "Jo In-sung", "Son Ye-jin"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Cho Seung-woo",
+      "Jo In-sung",
+      "Son Ye-jin"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Classic.jpg",
     "video_data": {
       "is_serie": false,
@@ -366,8 +659,16 @@
     "descrizione": "Una donna che ha rinunciato ai suoi sogni apre un negozio. Lì, incontra tre donne con lo stesso nome, 'Woo-joo', che rappresentano il suo passato, presente e futuro. Questo incontro mistico la costringe a confrontarsi con le sue scelte di vita e a trovare la sua strada.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Fantasy", "Vita"],
-    "attori": ["Kim Bora", "Kyung Soo-jin", "Shin Hye-sun"],
+    "generi": [
+      "14+",
+      "Fantasy",
+      "Vita"
+    ],
+    "attori": [
+      "Kim Bora",
+      "Kyung Soo-jin",
+      "Shin Hye-sun"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Woojoos-Christmas.jpg",
     "video_data": {
       "is_serie": false,
@@ -381,8 +682,20 @@
     "descrizione": "Un ragazzo gay, Jung-woo, e la sua coinquilina, Mi-ae, condividono un appartamento e le loro vite amorose fallimentari. Il film è una commedia-drammatica onesta e toccante sulla gioventù, l'amicizia, la sessualità e la ricerca dell'amore nella metropoli.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Commedia", "Drammatico", "LGBTQ+", "Romantico", "Vita"],
-    "attori": ["Choi Min-ho", "Kim Young-kwang", "Lee Sang-yi", "Lee Mi-sook"],
+    "generi": [
+      "18+",
+      "Commedia",
+      "Drammatico",
+      "LGBTQ+",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Choi Min-ho",
+      "Kim Young-kwang",
+      "Lee Sang-yi",
+      "Lee Mi-sook"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Love-in-the-Big-City.jpg",
     "video_data": {
       "is_serie": false,
@@ -396,8 +709,16 @@
     "descrizione": "Un ricco e viziato erede può ricevere la sua eredità solo se si diploma in una scuola superiore di campagna e dimostra di amare qualcuno. Lì incontra una ragazza umile e malata terminale, imparando il vero valore dell'amore e del sacrificio.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico", "Scolastico"],
-    "attori": ["Hyun Bin", "Lee Yeon-hee"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Hyun Bin",
+      "Lee Yeon-hee"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/A-Millionaires-First-Love.jpg",
     "video_data": {
       "is_serie": false,
@@ -411,8 +732,20 @@
     "descrizione": "Basato su una storia vera, il film racconta la lotta di una famiglia per superare il trauma dopo che la loro giovane figlia viene brutalmente aggredita. La comunità si unisce per sostenere la bambina nel suo difficile percorso di recupero fisico ed emotivo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Crimine", "Drammatico", "Famiglia", "Vita"],
-    "attori": ["Lee Re", "Lee Jung-eun", "Kim Hae-sook", "Sol Kyung-gu", "Uhm Ji-won"],
+    "generi": [
+      "18+",
+      "Crimine",
+      "Drammatico",
+      "Famiglia",
+      "Vita"
+    ],
+    "attori": [
+      "Lee Re",
+      "Lee Jung-eun",
+      "Kim Hae-sook",
+      "Sol Kyung-gu",
+      "Uhm Ji-won"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Hope.jpg",
     "video_data": {
       "is_serie": false,
@@ -426,8 +759,17 @@
     "descrizione": "Una coppia sull'orlo del divorzio subisce un incidente d'auto che provoca l'amnesia di entrambi. Non ricordando nulla della loro relazione, si innamorano di nuovo, ma le loro rispettive famiglie cercano di impedire il riavvicinamento per evitare un secondo matrimonio fallimentare.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico"],
-    "attori": ["Kang Ha-neul", "Jung So-min", "Yoon Kyung-ho", "Hwang Se-in"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico"
+    ],
+    "attori": [
+      "Kang Ha-neul",
+      "Jung So-min",
+      "Yoon Kyung-ho",
+      "Hwang Se-in"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Love-Reset.jpg",
     "video_data": {
       "is_serie": false,
@@ -441,8 +783,18 @@
     "descrizione": "In-soo, un ragazzo con la capacità di vedere i fantasmi, si trasferisce in una nuova scuola e fa amicizia con un fantasma femminile amnesico. Insieme, cercano di risolvere il mistero dietro l'identità del fantasma e l'oscura storia che si cela nella scuola.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Horror", "Mistero", "Romantico", "Scolastico"],
-    "attori": ["Kang Ha-neul", "Kim So-eun", "Kim Jung-tae"],
+    "generi": [
+      "14+",
+      "Horror",
+      "Mistero",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Kang Ha-neul",
+      "Kim So-eun",
+      "Kim Jung-tae"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/The-Girls-Ghost-Story.jpg",
     "video_data": {
       "is_serie": false,
@@ -456,8 +808,18 @@
     "descrizione": "Un famoso attore di metodo si ritrova coinvolto in una relazione intensa con un idolo, suo partner teatrale. Mentre i due si immergono nel loro ruolo di amanti per una pièce teatrale, il confine tra finzione e realtà inizia a svanire, portando a una storia d'amore controversa.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "LGBTQ+", "Romantico", "Vita"],
-    "attori": ["Park Sung-woong", "Oh Seung-hoon", "Yoon Seung-ah"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "LGBTQ+",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Park Sung-woong",
+      "Oh Seung-hoon",
+      "Yoon Seung-ah"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Method.jpg",
     "video_data": {
       "is_serie": false,
@@ -471,8 +833,17 @@
     "descrizione": "È un film commedia e drammatico sudcoreano, diretto da Kim Han-gyul. Il film è un remake del film svedese del 2012 “Cockpit”. La trama segue Jeong U, un pilota di successo che si ritrova improvvisamente senza lavoro. Inaspettatamente, riesce a ottenere un nuovo impiego assumendo una nuova identità, portando a una serie di situazioni comiche e a una riflessione sul valore del lavoro e della persona.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Remake"],
-    "attori": ["Jo Jung-suk", "Lee Joo-myung", "Han Sun-hwa", "Shin Seung-ho"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Remake"
+    ],
+    "attori": [
+      "Jo Jung-suk",
+      "Lee Joo-myung",
+      "Han Sun-hwa",
+      "Shin Seung-ho"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/pilot-1.jpg",
     "video_data": {
       "is_serie": false,
@@ -486,8 +857,17 @@
     "descrizione": "Basato sulle testimonianze delle 'comfort women' coreane (schiave sessuali) durante l'occupazione giapponese, il film racconta la storia di due ragazze rapite e costrette alla schiavitù sessuale, e il loro doloroso ritorno a casa molti anni dopo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Guerra", "Storico"],
-    "attori": ["Kang Ha-na", "Choi Ri", "Seo Mi-ji"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Guerra",
+      "Storico"
+    ],
+    "attori": [
+      "Kang Ha-na",
+      "Choi Ri",
+      "Seo Mi-ji"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Spirits-Homecoming.jpg",
     "video_data": {
       "is_serie": false,
@@ -501,8 +881,17 @@
     "descrizione": "Jong-woo, un riparatore di auto, si ritrova per errore sulla scena di un omicidio e diventa il principale sospettato, ricercato sia dalla polizia che da misteriosi aggressori. Inizia così una disperata corsa per la sopravvivenza e per provare la sua innocenza.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Crimine", "Thriller"],
-    "attori": ["Shin Ha-kyun", "Lee Je-hoon", "Jo Sung-ha"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Crimine",
+      "Thriller"
+    ],
+    "attori": [
+      "Shin Ha-kyun",
+      "Lee Je-hoon",
+      "Jo Sung-ha"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Running-Man.jpg",
     "video_data": {
       "is_serie": false,
@@ -516,8 +905,18 @@
     "descrizione": "Due giovani nuotatori, un ex campione promettente e un talento emergente, si ritrovano a competere in un collegio sportivo. La loro rivalità in piscina si intreccia con i loro sogni e la loro amicizia, con l'obiettivo di qualificarsi per le Olimpiadi.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Scolastico", "Sportivo", "Vita"],
-    "attori": ["Seo In-guk", "Lee Jong-suk", "Kwon Yu-ri"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Scolastico",
+      "Sportivo",
+      "Vita"
+    ],
+    "attori": [
+      "Seo In-guk",
+      "Lee Jong-suk",
+      "Kwon Yu-ri"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/No-Breathing.jpg",
     "video_data": {
       "is_serie": false,
@@ -531,8 +930,18 @@
     "descrizione": "Ambientato negli anni '80 in una scuola superiore di campagna, il film segue una serie di triangoli amorosi e rivalità tra studenti. Una storia di bande, il bullo della scuola, un playboy e la ragazza che lo ama in segreto, con toni di commedia e romanticismo giovanile.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico", "Scolastico"],
-    "attori": ["Park Bo-young", "Lee Jong-suk", "Kim Young-kwang", "Lee Se-young"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Park Bo-young",
+      "Lee Jong-suk",
+      "Kim Young-kwang",
+      "Lee Se-young"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Hot-Young-Bloods.jpg",
     "video_data": {
       "is_serie": false,
@@ -546,8 +955,20 @@
     "descrizione": "Attraverso un servizio di intelligenza artificiale chiamato 'Wonderland', le persone possono ricreare i loro cari defunti o assenti. Il film esplora le storie di diversi personaggi che usano questo servizio per affrontare il lutto o comunicare con chi hanno perso.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Fantasy", "Romantico", "Sci-Fi"],
-    "attori": ["Park Bo-gum", "Gong Yoo", "Bae Suzy", "Jung Yu-mi", "Choi Woo-shik", "Tang Wei"],
+    "generi": [
+      "14+",
+      "Fantasy",
+      "Romantico",
+      "Sci-Fi"
+    ],
+    "attori": [
+      "Park Bo-gum",
+      "Gong Yoo",
+      "Bae Suzy",
+      "Jung Yu-mi",
+      "Choi Woo-shik",
+      "Tang Wei"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Wonderland.jpg",
     "video_data": {
       "is_serie": false,
@@ -561,8 +982,18 @@
     "descrizione": "Un'élite spia nordcoreana, addestrata a essere un 'fiore', viene inviata in Corea del Sud dove deve fingere di essere uno stupido del villaggio. Mentre aspetta gli ordini, si integra con la gente del posto, ma la sua missione prende una svolta inaspettata.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Commedia", "Thriller"],
-    "attori": ["Kim Soo-hyun", "Park Ki-woong", "Lee Hyun-woo", "Son Hyun-joo"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Commedia",
+      "Thriller"
+    ],
+    "attori": [
+      "Kim Soo-hyun",
+      "Park Ki-woong",
+      "Lee Hyun-woo",
+      "Son Hyun-joo"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Secretly-Greatly.jpg",
     "video_data": {
       "is_serie": false,
@@ -576,8 +1007,18 @@
     "descrizione": "Una ricca famiglia coreana che vive a Los Angeles ingaggia una coppia di sciamani e un geomante per riesumare la tomba del loro antenato, credendo che una maledizione ancestrale stia causando sventure. Quello che trovano, tuttavia, scatena forze oscure e pericolose.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Mistero", "Occulto", "Thriller"],
-    "attori": ["Choi Min-sik", "Kim Go-eun", "Yoo Hae-jin", "Lee Do-hyun"],
+    "generi": [
+      "14+",
+      "Mistero",
+      "Occulto",
+      "Thriller"
+    ],
+    "attori": [
+      "Choi Min-sik",
+      "Kim Go-eun",
+      "Yoo Hae-jin",
+      "Lee Do-hyun"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Exhuma.jpg",
     "video_data": {
       "is_serie": false,
@@ -591,8 +1032,18 @@
     "descrizione": "Young-ho, un popolare influencer che ama la vita da single, collabora con la sua ex fidanzata, Hyun-jin, un'editor, per scrivere un libro sulla vita da single. Lavorando insieme, devono affrontare i loro sentimenti passati e decidere se la solitudine è davvero la loro felicità.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico", "Vita"],
-    "attori": ["Lee Dong-wook", "Im Soo-jung", "Esom", "Jang Hyun-sung"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Lee Dong-wook",
+      "Im Soo-jung",
+      "Esom",
+      "Jang Hyun-sung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Single-in-Seoul.jpg",
     "video_data": {
       "is_serie": false,
@@ -606,8 +1057,17 @@
     "descrizione": "Un uomo si risveglia in un corpo sconosciuto senza memoria di chi sia. Ogni 12 ore, si risveglia in un corpo diverso. Perseguitato da una misteriosa organizzazione e alla ricerca della sua vera identità, deve risolvere il puzzle di sé stesso prima di perdersi per sempre.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Fantasy", "Thriller"],
-    "attori": ["Yoon Kye-sang", "Park Yong-woo", "Lim Ji-yeon"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Fantasy",
+      "Thriller"
+    ],
+    "attori": [
+      "Yoon Kye-sang",
+      "Park Yong-woo",
+      "Lim Ji-yeon"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Spiritwalker.jpg",
     "video_data": {
       "is_serie": false,
@@ -621,8 +1081,18 @@
     "descrizione": "Un serial killer nordcoreano, figlio di un alto funzionario, è ricercato da un detective coreano, un agente segreto nordcoreano e un agente dell'FBI. L'uomo è protetto da un'immunità diplomatica, scatenando una caccia internazionale e un conflitto morale sulla giustizia.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Crimine", "Thriller"],
-    "attori": ["Jang Dong-gun", "Kim Myung-min", "Park Hee-soon", "Lee Jong-suk"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Crimine",
+      "Thriller"
+    ],
+    "attori": [
+      "Jang Dong-gun",
+      "Kim Myung-min",
+      "Park Hee-soon",
+      "Lee Jong-suk"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/VIP.jpg",
     "video_data": {
       "is_serie": false,
@@ -636,8 +1106,17 @@
     "descrizione": "Un boss della mafia e un poliziotto si alleano per dare la caccia a un serial killer. Il gangster, l'unica vittima sopravvissuta, vuole vendetta, mentre il poliziotto vuole arrestare l'assassino. La loro strana alleanza li porta a una caccia brutale e adrenalinica.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Crimine", "Thriller"],
-    "attori": ["Don Lee (Ma Dong-seok)", "Kim Moo-yeol", "Kim Sung-kyu"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Crimine",
+      "Thriller"
+    ],
+    "attori": [
+      "Don Lee (Ma Dong-seok)",
+      "Kim Moo-yeol",
+      "Kim Sung-kyu"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Gangster-the-Cop-and-the-Devil.jpg",
     "video_data": {
       "is_serie": false,
@@ -651,8 +1130,19 @@
     "descrizione": "Basato su una storia vera, un ex giocatore di basket si ritrova ad allenare una squadra di liceo in crisi. Nonostante abbiano solo sei giocatori, li guida attraverso sfide e sconfitte, portandoli inaspettatamente in finale del campionato nazionale.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Scolastico", "Sportivo", "Vita"],
-    "attori": ["Ahn Jae-hong", "Lee Shin-young", "Jung Jin-woon", "Kim Taek"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Scolastico",
+      "Sportivo",
+      "Vita"
+    ],
+    "attori": [
+      "Ahn Jae-hong",
+      "Lee Shin-young",
+      "Jung Jin-woon",
+      "Kim Taek"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Rebound.jpg",
     "video_data": {
       "is_serie": false,
@@ -666,8 +1156,17 @@
     "descrizione": "Ambientato durante la storica Rivolta di Gwangju del 1980, il film segue la vita di residenti ordinari che si ritrovano a lottare per la democrazia contro il brutale intervento militare. Una toccante storia di coraggio e sacrificio in nome della libertà.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Storico"],
-    "attori": ["Kim Sang-kyung", "Ahn Sung-ki", "Lee Yo-won", "Lee Joon-gi"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Storico"
+    ],
+    "attori": [
+      "Kim Sang-kyung",
+      "Ahn Sung-ki",
+      "Lee Yo-won",
+      "Lee Joon-gi"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/May-18.jpg",
     "video_data": {
       "is_serie": false,
@@ -681,8 +1180,19 @@
     "descrizione": "Dopo un devastante terremoto che distrugge Seoul, l'unico edificio rimasto in piedi è un condominio. I sopravvissuti si radunano lì, ma la loro coesistenza degenera in una lotta per la sopravvivenza e il controllo, rivelando la natura umana in una distopia urbana.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Drammatico", "Sci-Fi", "Thriller"],
-    "attori": ["Lee Byung-hun", "Park Seo-joon", "Park Bo-young", "Kim Sun-young"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Drammatico",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "attori": [
+      "Lee Byung-hun",
+      "Park Seo-joon",
+      "Park Bo-young",
+      "Kim Sun-young"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Concrete-Utopia.jpg",
     "video_data": {
       "is_serie": false,
@@ -696,8 +1206,18 @@
     "descrizione": "Il film segue la vita di tre amici ventenni con personalità diverse: uno sognatore senza meta, un donnaiolo e uno studente diligente che lotta per il successo. La storia racconta le loro esperienze, gli amori e le sfide mentre entrano nell'età adulta.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico", "Vita"],
-    "attori": ["Kim Woo-bin", "Lee Joon-ho", "Kang Ha-neul", "Jung So-min"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Kim Woo-bin",
+      "Lee Joon-ho",
+      "Kang Ha-neul",
+      "Jung So-min"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Twenty.jpg",
     "video_data": {
       "is_serie": false,
@@ -711,8 +1231,17 @@
     "descrizione": "Una famiglia in bancarotta cerca di sfruttare commercialmente uno zombie. Il loro piano è di far mordere l'insolito zombie ai loro vicini per guadagnare denaro vendendo un 'vaccino', ma la situazione sfugge presto al controllo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Horror"],
-    "attori": ["Jung Jae-young", "Kim Nam-gil", "Uhm Ji-won", "Lee Soo-kyung"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Horror"
+    ],
+    "attori": [
+      "Jung Jae-young",
+      "Kim Nam-gil",
+      "Uhm Ji-won",
+      "Lee Soo-kyung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Odd-Family-Zombie-on-Sale.jpg",
     "video_data": {
       "is_serie": false,
@@ -726,8 +1255,18 @@
     "descrizione": "Un pugile filippino-coreano si reca in Corea del Sud per trovare suo padre. Viene presto inseguito da un misterioso e brutale 'Childe' e da diversi gruppi che vogliono tutti la sua testa. Il film è una caccia all'uomo adrenalinica piena di azione.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Mistero", "Thriller"],
-    "attori": ["Kim Seon-ho", "Kang Tae-joo", "Kim Kang-woo", "Go Ara"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Kim Seon-ho",
+      "Kang Tae-joo",
+      "Kim Kang-woo",
+      "Go Ara"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Childe.jpg",
     "video_data": {
       "is_serie": false,
@@ -741,8 +1280,18 @@
     "descrizione": "Kim Ji-young, una donna di 30 anni, lascia il lavoro per crescere la figlia, ma presto inizia a manifestare strani sintomi, parlando con le voci di altre donne. Il film è un dramma sociale che riflette sulle esperienze e le sfide delle donne nella società coreana contemporanea.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Famiglia", "Sociale", "Vita"],
-    "attori": ["Jung Yu-mi", "Gong Yoo", "Kim Mi-kyung"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Famiglia",
+      "Sociale",
+      "Vita"
+    ],
+    "attori": [
+      "Jung Yu-mi",
+      "Gong Yoo",
+      "Kim Mi-kyung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Kim-Ji-young-Born-1982.jpg",
     "video_data": {
       "is_serie": false,
@@ -756,8 +1305,16 @@
     "descrizione": "Una studentessa distrugge per sbaglio la Lexus di un ricco e arrogante liceale. Non potendo pagare il danno, è costretta a firmare un 'contratto di schiavitù' di 100 giorni. Nonostante le buffe e umilianti sfide, tra i due nasce inaspettatamente l'amore.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico", "Scolastico"],
-    "attori": ["Ha Ji-won", "Kim Jae-won"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Ha Ji-won",
+      "Kim Jae-won"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/100-Days-with-Mr.-Arrogant.jpg",
     "video_data": {
       "is_serie": false,
@@ -771,8 +1328,16 @@
     "descrizione": "Tae-in, un uomo muto che lavora per un'organizzazione criminale pulendo le scene del crimine, si ritrova a dover badare a una bambina rapita. Il legame inaspettato tra i due li spinge a scelte estreme per la sopravvivenza in un mondo brutale.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Crimine", "Drammatico", "Thriller"],
-    "attori": ["Yoo Ah-in", "Yoo Jae-myung"],
+    "generi": [
+      "18+",
+      "Crimine",
+      "Drammatico",
+      "Thriller"
+    ],
+    "attori": [
+      "Yoo Ah-in",
+      "Yoo Jae-myung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Voice-of-Silence.jpg",
     "video_data": {
       "is_serie": false,
@@ -786,8 +1351,20 @@
     "descrizione": "Jang Tae-young, un gangster proprietario di un casinò che soffre di disturbo dissociativo dell'identità, è ossessionato dal sogno di costruire un enorme hotel. Per 'guarire' la sua seconda personalità, consulta un terapeuta e si sottopone a una droga, ma i confini tra sé e l'altro si sfumano drammaticamente.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Crimine", "Erotico", "Psicologico", "Thriller"],
-    "attori": ["Kim Soo-hyun", "Sung Dong-il", "Lee Sung-min", "Sulli"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Crimine",
+      "Erotico",
+      "Psicologico",
+      "Thriller"
+    ],
+    "attori": [
+      "Kim Soo-hyun",
+      "Sung Dong-il",
+      "Lee Sung-min",
+      "Sulli"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Real.jpg",
     "video_data": {
       "is_serie": false,
@@ -801,8 +1378,17 @@
     "descrizione": "Durante la dinastia Joseon, il principe ereditario Lee Chung torna in patria per affrontare un'epidemia di 'demoni notturni' (zombie). Deve guidare la sua gente contro le creature e contrastare il ministro corrotto che sfrutta il caos per rovesciare il regno.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Horror", "Storico"],
-    "attori": ["Hyun Bin", "Jang Dong-gun", "Jo Woo-jin"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Horror",
+      "Storico"
+    ],
+    "attori": [
+      "Hyun Bin",
+      "Jang Dong-gun",
+      "Jo Woo-jin"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Rampant.jpg",
     "video_data": {
       "is_serie": false,
@@ -816,8 +1402,16 @@
     "descrizione": "Dopo aver tradito i suoi compagni per il potere, Deok-gi diventa un potente dittatore militare. Anni dopo, la figlia della donna che ha tradito torna per vendicarsi. Il film è un epico wuxia di vendetta e spade che esplora il destino e il tradimento.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Storico"],
-    "attori": ["Lee Byung-hun", "Jeon Do-yeon", "Kim Go-eun"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Storico"
+    ],
+    "attori": [
+      "Lee Byung-hun",
+      "Jeon Do-yeon",
+      "Kim Go-eun"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Memories-Of-The-Sword.jpg",
     "video_data": {
       "is_serie": false,
@@ -831,8 +1425,16 @@
     "descrizione": "Un ex pugile solitario incontra una donna non vedente ottimista. La loro relazione si sviluppa in una storia d'amore struggente. Per pagare un'operazione che possa ridarle la vista, l'uomo torna al suo pericoloso passato, mettendo a rischio il loro futuro insieme.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico"],
-    "attori": ["So Ji-sub", "Han Hyo-joo", "Yoon Jong-hwa"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico"
+    ],
+    "attori": [
+      "So Ji-sub",
+      "Han Hyo-joo",
+      "Yoon Jong-hwa"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Always.jpg",
     "video_data": {
       "is_serie": false,
@@ -846,8 +1448,16 @@
     "descrizione": "Una rivisitazione della storia popolare coreana di Chunhyang, in cui il servitore Bang-ja si innamora della bellissima Chun-hyang, che è destinata al figlio di un nobile. Una storia di amore proibito e intrighi sociali, che sfida le norme dell'epoca Joseon.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Erotico", "Storico"],
-    "attori": ["Kim Joo-hyuk", "Ryu Seung-bum", "Jo Yeo-jeong"],
+    "generi": [
+      "18+",
+      "Erotico",
+      "Storico"
+    ],
+    "attori": [
+      "Kim Joo-hyuk",
+      "Ryu Seung-bum",
+      "Jo Yeo-jeong"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Servant.jpg",
     "video_data": {
       "is_serie": false,
@@ -861,8 +1471,17 @@
     "descrizione": "Due attori di strada (clown), Gan-woo e Jang-saeng, vengono arrestati e portati alla corte del tirannico Re Yeon-san. I due riescono a farsi strada grazie alla loro satira e alla loro arte, ma la crescente gelosia del re li mette in pericolo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "LGBTQ+", "Storico"],
-    "attori": ["Kam Woo-sung", "Lee Joon-gi", "Jung Jin-young"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "LGBTQ+",
+      "Storico"
+    ],
+    "attori": [
+      "Kam Woo-sung",
+      "Lee Joon-gi",
+      "Jung Jin-young"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-King-and-the-Clown.jpg",
     "video_data": {
       "is_serie": false,
@@ -876,8 +1495,18 @@
     "descrizione": "Ambientato durante i primi anni della dinastia Joseon, il film narra la storia di un comandante militare che sacrifica tutto per proteggere la sua amante, che è in realtà una gisaeng con un piano di vendetta. Un epico dramma di potere, lussuria e tradimento a corte.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Erotico", "Storico", "Thriller"],
-    "attori": ["Shin Ha-kyun", "Jang Hyuk", "Kang Han-na"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Erotico",
+      "Storico",
+      "Thriller"
+    ],
+    "attori": [
+      "Shin Ha-kyun",
+      "Jang Hyuk",
+      "Kang Han-na"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Empire-of-Lust.jpg",
     "video_data": {
       "is_serie": false,
@@ -891,8 +1520,18 @@
     "descrizione": "Basato sulla vera battaglia navale di Yeonpyeong del 2002, il film racconta la storia dei coraggiosi marinai coreani a bordo della motovedetta 357. Un dramma bellico che celebra il loro sacrificio per la difesa del confine marittimo con la Corea del Nord.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Drammatico", "Guerra", "Storico"],
-    "attori": ["Kim Mu-yeol", "Jin Goo", "Lee Hyun-woo"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Drammatico",
+      "Guerra",
+      "Storico"
+    ],
+    "attori": [
+      "Kim Mu-yeol",
+      "Jin Goo",
+      "Lee Hyun-woo"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Northern-Limit-Line.jpg",
     "video_data": {
       "is_serie": false,
@@ -906,8 +1545,17 @@
     "descrizione": "Dopo l'omicidio brutale di una studentessa, un gruppo di sette 'ombre' inizia a cacciare i presunti responsabili. Il film è un thriller politico e violento che critica la corruzione e la violenza dello stato, esplorando il confine tra giustizia e vendetta.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Azione", "Mistero", "Thriller"],
-    "attori": ["Ma Dong-seok", "Kim Young-min", "Lee Yi-kyung"],
+    "generi": [
+      "18+",
+      "Azione",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Ma Dong-seok",
+      "Kim Young-min",
+      "Lee Yi-kyung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/One-on-One.jpg",
     "video_data": {
       "is_serie": false,
@@ -921,8 +1569,16 @@
     "descrizione": "Anna, una donna che ha ottenuto il rilascio condizionale per un breve periodo, incontra Hoon, un uomo che si mantiene come gigolò, durante un viaggio a Seattle. Tra i due, estranei e con vite difficili, nasce una breve e intensa storia d'amore in un'atmosfera malinconica.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico", "Vita"],
-    "attori": ["Tang Wei", "Hyun Bin"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Tang Wei",
+      "Hyun Bin"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Late-Autumn.jpg",
     "video_data": {
       "is_serie": false,
@@ -936,8 +1592,18 @@
     "descrizione": "Yong-hoo, un campione di arti marziali che ha perso la fede, sviluppa una misteriosa ferita nel palmo della mano. Si allea con un prete esorcista per combattere un potente demone che semina il caos nel mondo, scoprendo un nuovo scopo per la sua vita.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Horror", "Occulto", "Thriller"],
-    "attori": ["Park Seo-joon", "Ahn Sung-ki", "Woo Do-hwan"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Horror",
+      "Occulto",
+      "Thriller"
+    ],
+    "attori": [
+      "Park Seo-joon",
+      "Ahn Sung-ki",
+      "Woo Do-hwan"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Divine-Fury.jpg",
     "video_data": {
       "is_serie": false,
@@ -951,8 +1617,17 @@
     "descrizione": "Jong-su, un aspirante scrittore, rincontra la sua amica d'infanzia, Hae-mi. Quando lei torna da un viaggio con il misterioso e ricco Ben, un triangolo emotivo si sviluppa, portando Jong-su a sospettare che Ben nasconda un oscuro segreto.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Mistero", "Thriller"],
-    "attori": ["Yoo Ah-in", "Jeon Jong-seo", "Steven Yeun"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Yoo Ah-in",
+      "Jeon Jong-seo",
+      "Steven Yeun"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Burning.jpg",
     "video_data": {
       "is_serie": false,
@@ -966,8 +1641,16 @@
     "descrizione": "Due studenti di un'accademia di polizia, con personalità opposte, assistono al rapimento di una ragazza. Delusi dalla lentezza delle procedure legali, decidono di condurre personalmente le indagini per salvare la vittima, usando le loro abilità di novizi.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Commedia", "Mistero"],
-    "attori": ["Park Seo-joon", "Kang Ha-neul"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Commedia",
+      "Mistero"
+    ],
+    "attori": [
+      "Park Seo-joon",
+      "Kang Ha-neul"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Midnight-Runners.jpg",
     "video_data": {
       "is_serie": false,
@@ -981,8 +1664,16 @@
     "descrizione": "Sang-min, una donna sposata che vive in Finlandia, incontra Ki-hong, un uomo sposato, durante un viaggio. I due intraprendono una relazione appassionata e segreta, ma devono affrontare le conseguenze delle loro scelte una volta tornati in Corea.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Erotico", "Romantico"],
-    "attori": ["Gong Yoo", "Jeon Do-yeon"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Erotico",
+      "Romantico"
+    ],
+    "attori": [
+      "Gong Yoo",
+      "Jeon Do-yeon"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/A-Man-and-a-Woman.jpg",
     "video_data": {
       "is_serie": false,
@@ -996,8 +1687,17 @@
     "descrizione": "Yoon-jung, nel tentativo di sedurre il suo ragazzo, chiama per sbaglio il telefono di Hyun-seung, un uomo che sta attraversando una crisi relazionale. Dopo l'imbarazzante errore, i due iniziano un'amicizia intima basata su conversazioni erotiche e consigli amorosi.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Commedia", "Erotico", "Romantico"],
-    "attori": ["Ji Sung", "Kim Ah-joong", "Shin So-yul"],
+    "generi": [
+      "18+",
+      "Commedia",
+      "Erotico",
+      "Romantico"
+    ],
+    "attori": [
+      "Ji Sung",
+      "Kim Ah-joong",
+      "Shin So-yul"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/My-PS-Partner.jpg",
     "video_data": {
       "is_serie": false,
@@ -1011,8 +1711,16 @@
     "descrizione": "Woo-yeon riceve un invito di matrimonio dalla sua cotta del liceo, Seung-hee. Il film ripercorre la loro decennale storia di amore non corrisposto e di 'quasi-relazioni', esplorando il destino e il timing che li ha sempre separati.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Romantico", "Scolastico"],
-    "attori": ["Park Bo-young", "Kim Young-kwang"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Park Bo-young",
+      "Kim Young-kwang"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/On-Your-Wedding-Day.jpg",
     "video_data": {
       "is_serie": false,
@@ -1026,8 +1734,16 @@
     "descrizione": "Un banchiere riceve una telefonata anonima che lo avverte che una bomba esploderà nella sua auto se si alza. Intrappolato con i suoi figli, deve seguire le istruzioni del ricattatore mentre cerca di sfuggire alla polizia, che lo crede un terrorista.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Thriller"],
-    "attori": ["Jo Woo-jin", "Lee Jae-in", "Ji Chang-wook"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Thriller"
+    ],
+    "attori": [
+      "Jo Woo-jin",
+      "Lee Jae-in",
+      "Ji Chang-wook"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Hard-Hit.jpg",
     "video_data": {
       "is_serie": false,
@@ -1041,8 +1757,17 @@
     "descrizione": "Un insegnante d'arte si trasferisce in una scuola per bambini sordi e scopre un terribile segreto: gli studenti sono vittime di abusi sessuali da parte degli insegnanti e del personale. Basato su eventi reali, il film racconta la sua battaglia per portare i colpevoli in tribunale.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Drammatico", "Sociale", "Thriller"],
-    "attori": ["Gong Yoo", "Jung Yu-mi", "Kim Hyun-soo"],
+    "generi": [
+      "18+",
+      "Drammatico",
+      "Sociale",
+      "Thriller"
+    ],
+    "attori": [
+      "Gong Yoo",
+      "Jung Yu-mi",
+      "Kim Hyun-soo"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Silenced.jpg",
     "video_data": {
       "is_serie": false,
@@ -1056,8 +1781,19 @@
     "descrizione": "Un uomo proveniente da una ricca famiglia apre una pasticceria con un talentuoso pasticcere gay che lo aveva amato al liceo. Circondato da colleghi e dolci, l'uomo deve fare i conti con un trauma infantile e il passato che torna a bussare alla porta.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Culinario", "LGBTQ+", "Mistero"],
-    "attori": ["Joo Ji-hoon", "Kim Jae-wook", "Yoo Ah-in", "Choi Ji-ho"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Culinario",
+      "LGBTQ+",
+      "Mistero"
+    ],
+    "attori": [
+      "Joo Ji-hoon",
+      "Kim Jae-wook",
+      "Yoo Ah-in",
+      "Choi Ji-ho"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Antique-Bakery.jpg",
     "video_data": {
       "is_serie": false,
@@ -1071,8 +1807,16 @@
     "descrizione": "Ji Dong-chul, un ex agente speciale nordcoreano, è in fuga in Corea del Sud dopo essere stato tradito dal suo paese e incastrato per l'omicidio del suo ex capo. È braccato e cerca disperatamente di scoprire la verità sulla morte di sua moglie e sua figlia.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Thriller"],
-    "attori": ["Gong Yoo", "Park Hee-soon", "Jo Sung-ha"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Thriller"
+    ],
+    "attori": [
+      "Gong Yoo",
+      "Park Hee-soon",
+      "Jo Sung-ha"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Suspect.jpg",
     "video_data": {
       "is_serie": false,
@@ -1086,8 +1830,18 @@
     "descrizione": "Un aspirante fumettista deve completare il fumetto d'addio di un suo amico malato terminale. Con l'aiuto di due amici, intraprende un viaggio per dare un senso agli ultimi giorni del loro amico e onorare la sua ultima volontà.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Commedia", "Drammatico", "Vita"],
-    "attori": ["Ryu Deok-hwan", "Kim Dong-young", "Kim Bo-ra", "Ahn Jae-hong"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Ryu Deok-hwan",
+      "Kim Dong-young",
+      "Kim Bo-ra",
+      "Ahn Jae-hong"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/The-Last-Ride.jpg",
     "video_data": {
       "is_serie": false,
@@ -1101,8 +1855,17 @@
     "descrizione": "Heo-saek, un affascinante e talentuoso 'gigolò' della dinastia Joseon, è costretto a cambiare vita dopo l'incontro con una nobile in cerca di un partner. Il film è una commedia storica sull'amore, il desiderio e il potere delle donne nell'epoca Joseon.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["18+", "Commedia", "Erotico", "Storico"],
-    "attori": ["Lee Joon-ho", "Jung So-min", "Choi Gwi-hwa"],
+    "generi": [
+      "18+",
+      "Commedia",
+      "Erotico",
+      "Storico"
+    ],
+    "attori": [
+      "Lee Joon-ho",
+      "Jung So-min",
+      "Choi Gwi-hwa"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Homme-Fatale.jpg",
     "video_data": {
       "is_serie": false,
@@ -1116,8 +1879,17 @@
     "descrizione": "Ki-heon, un ex agente dei servizi segreti, viene incaricato di scortare Seobok, il primo clone umano creato geneticamente, che possiede il segreto dell'immortalità. Dovrà proteggerlo da forze che vogliono impossessarsi di Seobok per i propri scopi.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Sci-Fi", "Thriller"],
-    "attori": ["Gong Yoo", "Park Bo-gum", "Jo Woo-jin"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "attori": [
+      "Gong Yoo",
+      "Park Bo-gum",
+      "Jo Woo-jin"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/Seobok.jpg",
     "video_data": {
       "is_serie": false,
@@ -1131,8 +1903,16 @@
     "descrizione": "Una donna, affetta da una malattia incurabile, si innamora di un uomo che soffre di perdita di memoria a breve termine. La loro relazione è un toccante tentativo di creare ricordi significativi, nonostante lui dimentichi tutto il giorno dopo.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Drammatico", "Romantico", "Vita"],
-    "attori": ["Kim Dong-jun", "Kim Jae-kyung"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico",
+      "Vita"
+    ],
+    "attori": [
+      "Kim Dong-jun",
+      "Kim Jae-kyung"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/08/A-Way-Station.jpg",
     "video_data": {
       "is_serie": false,
@@ -1146,23 +1926,46 @@
     "descrizione": "Un ingegnere di perforazione 'Pindol' viene reclutato per un ambizioso, ma pericoloso, furto di petrolio. Lui e la sua squadra devono navigare in un labirinto sotterraneo di oleodotti della Corea del Sud, affrontando rischi enormi per un guadagno illecito.",
     "macro_categoria": "film",
     "sub_categoria": "Corea",
-    "generi": ["14+", "Azione", "Crimine", "Thriller"],
-    "attori": ["Seo In-guk", "Lee Soo-hyuk", "Eum Moon-suk", "Yoo Seung-mok"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Crimine",
+      "Thriller"
+    ],
+    "attori": [
+      "Seo In-guk",
+      "Lee Soo-hyuk",
+      "Eum Moon-suk",
+      "Yoo Seung-mok"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/pipeline2.png",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Pipeline-2021.mp4"
     }
   },
- {
+  {
     "id_progetto": "film-giappone-takagisan-003",
     "tipo": "film",
     "titolo": "Karakai Jozu no Takagi-san sub ita (2024)",
     "descrizione": "Nishikata viene costantemente preso in giro dalla sua compagna di banco, Takagi-san, che trova sempre nuovi modi per metterlo in imbarazzo. Nonostante i suoi tentativi di vendetta, Nishikata non riesce mai a batterla nel gioco delle prese in giro. Questo film ne segue la crescita e la relazione.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Live Action", "Romantico", "Scolastico", "Vita"],
-    "attori": ["Akira Kanatani", "Ayumi Tsubaki", "Eiji Akaso", "Fumika Hara", "Rie Miyazawa", "Yui Hatano"],
+    "generi": [
+      "14+",
+      "Live Action",
+      "Romantico",
+      "Scolastico",
+      "Vita"
+    ],
+    "attori": [
+      "Akira Kanatani",
+      "Ayumi Tsubaki",
+      "Eiji Akaso",
+      "Fumika Hara",
+      "Rie Miyazawa",
+      "Yui Hatano"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Karakai-Jozu-no-Takagi-san-3.png",
     "video_data": {
       "is_serie": false,
@@ -1176,8 +1979,17 @@
     "descrizione": "Una studentessa delle superiori, stanca della vita moderna e dei problemi familiari, desidera fuggire dal mondo. Si ritrova misteriosamente catapultata indietro nel tempo, nel 1945, durante la guerra, dove incontra un aviatore kamikaze. Nonostante l'epoca buia, la ragazza scopre il vero significato della vita e dell'amore.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Fantasy", "Guerra", "Romantico", "Storico"],
-    "attori": ["Fukuhara Haruka", "Mizukami Koshi"],
+    "generi": [
+      "14+",
+      "Fantasy",
+      "Guerra",
+      "Romantico",
+      "Storico"
+    ],
+    "attori": [
+      "Fukuhara Haruka",
+      "Mizukami Koshi"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Ano-Hana-ga-3.png",
     "video_data": {
       "is_serie": false,
@@ -1191,8 +2003,19 @@
     "descrizione": "Tsunagi, un giovane cresciuto sull'isola di Amami Oshima, torna a casa dopo aver lasciato il college a Tokyo. Lì ritrova i suoi vecchi amici del club di danza Eisa, che si preparano per un festival. Il film racconta le loro difficoltà nel bilanciare le tradizioni isolane con i sogni individuali e l'inevitabile crescita.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Musicale", "Vita"],
-    "attori": ["Aoi Shiori", "Fukumoto Rikako", "Iizuka Riona", "Kaito", "Nakashima Tomoko", "Shuri"],
+    "generi": [
+      "14+",
+      "Musicale",
+      "Vita"
+    ],
+    "attori": [
+      "Aoi Shiori",
+      "Fukumoto Rikako",
+      "Iizuka Riona",
+      "Kaito",
+      "Nakashima Tomoko",
+      "Shuri"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Nagisa-ni-Saku-Hana-3.png",
     "video_data": {
       "is_serie": false,
@@ -1206,8 +2029,20 @@
     "descrizione": "Yuki, una studentessa introversa, lavora part-time in una libreria. Qui conosce Ichinoi, un'anziana signora di 75 anni, che, per caso, scopre e si innamora perdutamente dei manga BL. Le due, unite dalla passione per i fumetti 'boy's love', sviluppano una profonda amicizia intergenerazionale.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Vita", "Yuri"],
-    "attori": ["Ashida Mana", "Miyake Kenta", "Miyuki Tsuchiya", "Takiuchi Kumi", "Tani Kanon", "Yaguchi Kyoko"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Vita",
+      "Yuri"
+    ],
+    "attori": [
+      "Ashida Mana",
+      "Miyake Kenta",
+      "Miyuki Tsuchiya",
+      "Takiuchi Kumi",
+      "Tani Kanon",
+      "Yaguchi Kyoko"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/BL-Metamorphosis-3.png",
     "video_data": {
       "is_serie": false,
@@ -1221,8 +2056,19 @@
     "descrizione": "Toru, uno studente che finge una relazione con la popolare Maori, scopre che lei soffre di amnesia anterograda, che le impedisce di ricordare gli eventi del giorno precedente. Per proteggerla, Toru accetta la regola di non innamorarsi di lei, ma il loro legame si approfondisce, creando una storia d'amore destinata a 'scomparire' ogni giorno.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Romantico", "Scolastico"],
-    "attori": ["Fukumoto Riko", "Kamisato Yuto", "Kawata Yui", "Michieda Shunsuke", "Matsumoto Honoka", "Yoshikawa Ai"],
+    "generi": [
+      "14+",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Fukumoto Riko",
+      "Kamisato Yuto",
+      "Kawata Yui",
+      "Michieda Shunsuke",
+      "Matsumoto Honoka",
+      "Yoshikawa Ai"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Even-if-This-Love-3.png",
     "video_data": {
       "is_serie": false,
@@ -1236,8 +2082,21 @@
     "descrizione": "Il vecchio e malato Ichiro Inuyashiki e il giovane liceale Hiro Shishigami vengono colpiti da un'esplosione aliena e trasformati in cyborg con poteri incredibili. Ichiro decide di usare i suoi poteri per aiutare gli altri, mentre Hiro li usa per scopi egoistici e distruttivi, trasformandosi in una minaccia per l'umanità.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Fantascienza", "Live Action", "Psicologico"],
-    "attori": ["Ayaka Miyoshi", "Fumi Nikaido", "Kanata Hongo", "Noritake Kinashi", "Takeru Satoh", "Yusuke Iseya"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Fantascienza",
+      "Live Action",
+      "Psicologico"
+    ],
+    "attori": [
+      "Ayaka Miyoshi",
+      "Fumi Nikaido",
+      "Kanata Hongo",
+      "Noritake Kinashi",
+      "Takeru Satoh",
+      "Yusuke Iseya"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Inuyashiki-2.png",
     "video_data": {
       "is_serie": false,
@@ -1251,8 +2110,20 @@
     "descrizione": "Fujishiro, uno psichiatra fidanzato con Yayoi, un giorno si ritrova ad affrontare la scomparsa improvvisa della sua fidanzata. Mentre cerca indizi, riceve una serie di lettere dal suo primo amore, Haru, che lo portano a riflettere sul significato dell'amore, del matrimonio e del perché la sua relazione attuale si sia deteriorata.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Drammatico", "Mistero", "Romantico"],
-    "attori": ["Isomura Hayato", "Kawahara Yukie", "Nagasawa Masami", "Sato Takeru", "Shikako", "Tomo Watarabe"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Mistero",
+      "Romantico"
+    ],
+    "attori": [
+      "Isomura Hayato",
+      "Kawahara Yukie",
+      "Nagasawa Masami",
+      "Sato Takeru",
+      "Shikako",
+      "Tomo Watarabe"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Shigatsu-ni-Nareba-Kanojo-wa.png",
     "video_data": {
       "is_serie": false,
@@ -1266,8 +2137,21 @@
     "descrizione": "Kei Nagai scopre di essere un 'Ajin', un immortale, dopo essere stato investito. Perseguitato dal governo e da altri Ajin estremisti, Kei deve scegliere se fuggire da solo o unirsi al terrorista Sato, che vuole usare i suoi poteri per vendicarsi dell'umanità. Il film è un live action basato sul popolare manga e anime.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Fantascienza", "Live Action", "Mistero"],
-    "attori": ["Ayano Gou", "Hama Minami", "Miyano Mamoru", "Satoh Takeru", "Tamayama Tetsuji", "Yudai Chiba"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Fantascienza",
+      "Live Action",
+      "Mistero"
+    ],
+    "attori": [
+      "Ayano Gou",
+      "Hama Minami",
+      "Miyano Mamoru",
+      "Satoh Takeru",
+      "Tamayama Tetsuji",
+      "Yudai Chiba"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Ajin-Demi-Human-2.png",
     "video_data": {
       "is_serie": false,
@@ -1281,8 +2165,20 @@
     "descrizione": "Ganta, uno studente affetto da insonnia, trova rifugio nell'osservatorio della scuola, dove incontra Isaki, anch'essa insonne. I due formano un'alleanza per creare un 'club di astronomia' fittizio, usando l'osservatorio come santuario notturno, e sviluppano un profondo legame condividendo le loro notti insonni.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Romantico", "Scolastico", "Vita"],
-    "attori": ["Ikeda Elaiza", "Matsuda Ruka", "Moriguchi Yoko", "Nanao", "Ode Nanako", "Shiroiwa Ruki"],
+    "generi": [
+      "14+",
+      "Romantico",
+      "Scolastico",
+      "Vita"
+    ],
+    "attori": [
+      "Ikeda Elaiza",
+      "Matsuda Ruka",
+      "Moriguchi Yoko",
+      "Nanao",
+      "Ode Nanako",
+      "Shiroiwa Ruki"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Insomniacs-After-School-3.png",
     "video_data": {
       "is_serie": false,
@@ -1296,8 +2192,21 @@
     "descrizione": "Tsunematsu, un ragazzo attraente ma estremamente popolare tra le ragazze della scuola, è convinto di essere un 'playboy' anche se non ha mai avuto una vera fidanzata. Quando si innamora di una compagna di classe tranquilla e noncurante, scopre di non essere pronto per l'amore vero e si impegna a conquistarla.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Araki Yuko", "Hayami Akari", "Kawazu Asuka", "Kitano Kii", "Sano Kento", "Taishi Nakagawa"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Araki Yuko",
+      "Hayami Akari",
+      "Kawazu Asuka",
+      "Kitano Kii",
+      "Sano Kento",
+      "Taishi Nakagawa"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/lock.png",
     "video_data": {
       "is_serie": false,
@@ -1311,8 +2220,22 @@
     "descrizione": "Seconda parte del live action. Takemichi deve affrontare la 'Bloody Halloween' per impedire l'omicidio di Chifuyu e salvare il futuro. La battaglia decisiva tra Toman e Valhalla costringe Takemichi a un pericoloso scontro per manipolare gli eventi del passato e cambiare il destino della Tokyo Manji.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Drammatico", "Live Action", "Scolastico", "Sovrannaturale"],
-    "attori": ["Emoto Tokio", "Kadowaki Tsubasa", "Kitamura Takumi", "Kiyano Asami", "Maeda Gouki", "Sano Kento"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Drammatico",
+      "Live Action",
+      "Scolastico",
+      "Sovrannaturale"
+    ],
+    "attori": [
+      "Emoto Tokio",
+      "Kadowaki Tsubasa",
+      "Kitamura Takumi",
+      "Kiyano Asami",
+      "Maeda Gouki",
+      "Sano Kento"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Tokyo-Revengers-3-3.png",
     "video_data": {
       "is_serie": false,
@@ -1326,8 +2249,22 @@
     "descrizione": "Prima parte del live action. Takemichi torna nel passato per svelare l'enigma della 'Bloody Halloween', un evento che coinvolge il fondatore della Tokyo Manji Gang e che è cruciale per salvare la sua fidanzata Hina nel futuro. Deve infiltrarsi nella gang e fermare la catastrofe.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Drammatico", "Live Action", "Scolastico", "Sovrannaturale"],
-    "attori": ["Emoto Tokio", "Kadowaki Tsubasa", "Kitamura Takumi", "Kiyano Asami", "Maeda Gouki", "Sano Kento"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Drammatico",
+      "Live Action",
+      "Scolastico",
+      "Sovrannaturale"
+    ],
+    "attori": [
+      "Emoto Tokio",
+      "Kadowaki Tsubasa",
+      "Kitamura Takumi",
+      "Kiyano Asami",
+      "Maeda Gouki",
+      "Sano Kento"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Tokyo-Revengers-2-3.png",
     "video_data": {
       "is_serie": false,
@@ -1341,8 +2278,19 @@
     "descrizione": "Aoyama, un ragazzo che ha perso la famiglia, ha il cuore spezzato e non ha obiettivi nella vita. Inizia a lavorare part-time presso una mostra d'arte Sumi-e (pittura a inchiostro). Qui incontra l'artista e scopre l'antica arte, che lo aiuta a trovare la bellezza nel mondo e a superare il suo dolore.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Drammatico", "Vita"],
-    "attori": ["Harada Taijo", "Hengame", "Kiyohara Kaya", "Kohinata Fumiyo", "Miura Tomokazu", "Yokohama Ryusei"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Harada Taijo",
+      "Hengame",
+      "Kiyohara Kaya",
+      "Kohinata Fumiyo",
+      "Miura Tomokazu",
+      "Yokohama Ryusei"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Sen-wa-Boku-o-Egaku.png",
     "video_data": {
       "is_serie": false,
@@ -1356,8 +2304,21 @@
     "descrizione": "Yori e Iku sono fratelli gemelli, molto legati. Yori, il fratello, si innamora profondamente di Iku. Questo amore proibito li porta a vivere una relazione turbolenta, mentre cercano di nasconderla dalla famiglia e dalla società, affrontando le conseguenze morali e sociali dell'incesto.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Drammatico", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Hidekazu Mashima", "Hideyuki Tanaka", "Kenta Kiritani", "Nana Eikura", "Yuko Asano", "Yuta Kanai"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Hidekazu Mashima",
+      "Hideyuki Tanaka",
+      "Kenta Kiritani",
+      "Nana Eikura",
+      "Yuko Asano",
+      "Yuta Kanai"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Boku-wa-Imouto-ni-Koi-wo-Suru-4.jpg.png",
     "video_data": {
       "is_serie": false,
@@ -1371,8 +2332,21 @@
     "descrizione": "Erika, per adattarsi alle compagne di classe, finge di avere un fidanzato. Messa alle strette, fotografa un ragazzo incontrato per strada, Kyouya, e lo spaccia per il suo ragazzo. Kyouya accetta di assecondarla a patto che lei diventi la sua 'cagna' personale, dando inizio a un rapporto sadico e divertente che nasconde un amore inatteso.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Hitoshi Kono", "Kento Yamazaki", "Maki Tamaru", "Nanami Sakuraba", "Ryo Yoshizawa", "Shono Hayama"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Hitoshi Kono",
+      "Kento Yamazaki",
+      "Maki Tamaru",
+      "Nanami Sakuraba",
+      "Ryo Yoshizawa",
+      "Shono Hayama"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Wolf-Girl-and-Black-Prince-3.png",
     "video_data": {
       "is_serie": false,
@@ -1386,8 +2360,19 @@
     "descrizione": "Miyo Saimori, maltrattata dalla matrigna e senza poteri sovrannaturali, è costretta a sposare il capitano Kiyoka Kudou, noto per essere spietato. Miyo si prepara al peggio, ma scopre che Kiyoka è in realtà un uomo gentile, e la loro unione per convenienza si trasforma in un legame d'amore e di forza.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Fantasy", "Live Action", "Romantico", "Storico"],
-    "attori": ["Imada Mio", "Oikawa Mitsuhiro", "Ryusei Onishi", "Takeuchi Ryoma"],
+    "generi": [
+      "14+",
+      "Fantasy",
+      "Live Action",
+      "Romantico",
+      "Storico"
+    ],
+    "attori": [
+      "Imada Mio",
+      "Oikawa Mitsuhiro",
+      "Ryusei Onishi",
+      "Takeuchi Ryoma"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/my-happy-marriage-3.png",
     "video_data": {
       "is_serie": false,
@@ -1401,8 +2386,21 @@
     "descrizione": "Tsugumi, una giovane impiegata, incontra il suo primo amore del liceo, Itsuki, un architetto di successo. Tuttavia, Itsuki è paralizzato in seguito a un incidente. Nonostante l'opposizione della famiglia e le difficoltà, Tsugumi è determinata a superare gli ostacoli e a dimostrare che l'amore può fiorire anche in un 'mondo imperfetto'.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Drammatico", "Disabilità", "Live Action", "Romantico"],
-    "attori": ["Eriko Sato", "Junichirô Kuranuki", "Kentarô Ito", "Miyazaki Yoshiko", "Sugiuchi Ryusuke", "Takanori Iwata"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Disabilità",
+      "Live Action",
+      "Romantico"
+    ],
+    "attori": [
+      "Eriko Sato",
+      "Junichirô Kuranuki",
+      "Kentarô Ito",
+      "Miyazaki Yoshiko",
+      "Sugiuchi Ryusuke",
+      "Takanori Iwata"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Perfect-World-film-3.png",
     "video_data": {
       "is_serie": false,
@@ -1416,8 +2414,20 @@
     "descrizione": "Conclusione della serie. Makino e Tsukasa sono finalmente fidanzati e pronti a sposarsi, ma la ricchissima madre di Tsukasa regala a Makino un diadema di inestimabile valore come pegno. Il diadema viene rubato durante un viaggio e i due devono recuperarlo, intraprendendo un'avventura romantica e comica in tutto il mondo.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Romantico", "Scolastico"],
-    "attori": ["Abe Ryoji", "Ikeno Medaka", "Inoue Mao", "Kato Natsuki", "Matsumoto Jun", "Oguri Shun"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Abe Ryoji",
+      "Ikeno Medaka",
+      "Inoue Mao",
+      "Kato Natsuki",
+      "Matsumoto Jun",
+      "Oguri Shun"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Hana-Yori-Dango-Final-3.png",
     "video_data": {
       "is_serie": false,
@@ -1431,8 +2441,22 @@
     "descrizione": "Takemichi Hanagaki, un perdente senza prospettive, scopre che la sua ex fidanzata del liceo, Hina, è stata uccisa da una gang. Ottiene il potere di viaggiare nel tempo e torna indietro di 12 anni. Il suo obiettivo è infiltrarsi nella Tokyo Manji Gang e cambiare il passato per salvare Hina nel presente.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Azione", "Drammatico", "Live Action", "Scolastico", "Sovrannaturale"],
-    "attori": ["Hiroya Shimizu", "Imada Mio", "Kitamura Takumi", "Maeda Gouki", "Sano Kento", "Yoshikawa Ai"],
+    "generi": [
+      "14+",
+      "Azione",
+      "Drammatico",
+      "Live Action",
+      "Scolastico",
+      "Sovrannaturale"
+    ],
+    "attori": [
+      "Hiroya Shimizu",
+      "Imada Mio",
+      "Kitamura Takumi",
+      "Maeda Gouki",
+      "Sano Kento",
+      "Yoshikawa Ai"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Tokyo-Revengers-1-3.png",
     "video_data": {
       "is_serie": false,
@@ -1446,8 +2470,21 @@
     "descrizione": "Setoka, una studentessa popolare ma sfortunata in amore (ha ricevuto 12 rifiuti di fila), scopre di avere improvvisamente molti pretendenti. Il suo iperprotettivo fratello maggiore, Haruka, interviene per 'proteggerla', ma il suo comportamento nasconde un segreto e sentimenti inattesi verso la sorella.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Chiba Yudai", "Katayose Ryota", "Kondo Koji", "Kurozaki Reina", "Ozawa Hajime", "Tsuchiya Tao"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Chiba Yudai",
+      "Katayose Ryota",
+      "Kondo Koji",
+      "Kurozaki Reina",
+      "Ozawa Hajime",
+      "Tsuchiya Tao"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/my-brother-love-me-too-much-3.png",
     "video_data": {
       "is_serie": false,
@@ -1461,8 +2498,21 @@
     "descrizione": "Nao, una ragazza timida, ha paura del suo compagno di classe, Taiga, noto per il suo aspetto da 'delinquente' e i suoi capelli rossi. Un giorno, Taiga si dichiara a Nao dicendole 'Ti prenderò', e anche se lei è terrorizzata, accetta. Man mano che lo conosce, scopre che Taiga è un ragazzo sorprendentemente gentile e premuroso.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Gaku Sano", "Hirano Sho", "Nana Asakawa", "Rena Takeda", "Ryusei Yokohama", "Yuna Taira"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Gaku Sano",
+      "Hirano Sho",
+      "Nana Asakawa",
+      "Rena Takeda",
+      "Ryusei Yokohama",
+      "Yuna Taira"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/honey-2.jpg",
     "video_data": {
       "is_serie": false,
@@ -1476,8 +2526,20 @@
     "descrizione": "Miki, una studentessa liceale, scopre che i suoi genitori divorzieranno e si risposeranno con i genitori di un altro ragazzo. I due nuclei familiari decidono di vivere insieme. Miki è costretta a condividere la casa con Yuu, il suo 'fratellastro' bello ma misterioso, con cui sviluppa una complessa relazione amorosa.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Akari", "Marmalade Boy", "Matsuura Ginji", "Miho Nakayama", "Ryo Yoshizawa", "Sakurai Hinako"],
+    "generi": [
+      "14+",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Akari",
+      "Marmalade Boy",
+      "Matsuura Ginji",
+      "Miho Nakayama",
+      "Ryo Yoshizawa",
+      "Sakurai Hinako"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/marmalade-boy-2.png",
     "video_data": {
       "is_serie": false,
@@ -1491,8 +2553,20 @@
     "descrizione": "Umi, una ragazza liceale tormentata, trova per caso un vecchio cellulare rotto. Inaspettatamente, il telefono riceve messaggi da una ragazza di un anno prima che sta subendo bullismo. Inizia una corrispondenza misteriosa tra le due epoche, che spinge Umi ad affrontare i problemi della ragazza del passato e forse anche i suoi.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Drammatico", "Live Action", "Mistero", "Scolastico"],
-    "attori": ["Atsushi Shiramata", "Haruna Kijima", "Hiroki Iijima", "Minami Hamabe", "Yuki Matsushita"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Live Action",
+      "Mistero",
+      "Scolastico"
+    ],
+    "attori": [
+      "Atsushi Shiramata",
+      "Haruna Kijima",
+      "Hiroki Iijima",
+      "Minami Hamabe",
+      "Yuki Matsushita"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/No-call-no-life-2.png",
     "video_data": {
       "is_serie": false,
@@ -1506,8 +2580,20 @@
     "descrizione": "Min, una studentessa coreana appena trasferita in Giappone, incontra Kaji, un ragazzo giapponese che vive di poesia. Nonostante la barriera linguistica e culturale, i due sviluppano un legame profondo e puro. Tuttavia, un incidente inaspettato minaccia di separarli, mettendo a dura prova il loro primo amore.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Romantico", "Scolastico", "Vita"],
-    "attori": ["Aoi Yu", "Ayaka Komatsu", "Koide Keisuke", "Lee Joon-gi", "Miyazaki Aoi", "Tomo Watarabe"],
+    "generi": [
+      "14+",
+      "Romantico",
+      "Scolastico",
+      "Vita"
+    ],
+    "attori": [
+      "Aoi Yu",
+      "Ayaka Komatsu",
+      "Koide Keisuke",
+      "Lee Joon-gi",
+      "Miyazaki Aoi",
+      "Tomo Watarabe"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Virgin-Snow-2.png",
     "video_data": {
       "is_serie": false,
@@ -1521,8 +2607,21 @@
     "descrizione": "Daikichi, un trentenne single, torna a casa per il funerale di suo nonno e scopre che il defunto aveva una figlia illegittima di sei anni, Rin. Mentre il resto della famiglia la ignora, Daikichi, impulsivamente, decide di adottarla e crescerla, affrontando le sfide della genitorialità inaspettata.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Drammatico", "Famiglia", "Live Action", "Vita"],
-    "attori": ["Atsushi Iida", "Karina", "Matsuura Masako", "Rena Tanaka", "Satoshi Tsumabuki", "Yumi Aso"],
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Famiglia",
+      "Live Action",
+      "Vita"
+    ],
+    "attori": [
+      "Atsushi Iida",
+      "Karina",
+      "Matsuura Masako",
+      "Rena Tanaka",
+      "Satoshi Tsumabuki",
+      "Yumi Aso"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/bunny-drop.png",
     "video_data": {
       "is_serie": false,
@@ -1536,8 +2635,20 @@
     "descrizione": "Hasegawa Kodaka, a causa del suo aspetto minaccioso e dei capelli biondi, viene spesso scambiato per un delinquente e non riesce a farsi amici. Insieme alla sua compagna di classe solitaria, Yozora, fonda il 'Club dei Vicini', un club per persone senza amici che vogliono imparare a farne, attraverso attività bizzarre.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Live Action", "Scolastico"],
-    "attori": ["Aoi Shiori", "Fukumoto Rikako", "Iizuka Riona", "Kaito", "Nakashima Tomoko", "Shuri"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Live Action",
+      "Scolastico"
+    ],
+    "attori": [
+      "Aoi Shiori",
+      "Fukumoto Rikako",
+      "Iizuka Riona",
+      "Kaito",
+      "Nakashima Tomoko",
+      "Shuri"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/haganai.png",
     "video_data": {
       "is_serie": false,
@@ -1551,15 +2662,28 @@
     "descrizione": "Yu decide di cambiare la sua vita dopo aver ammesso il suo amore per 'Il Principe Bianco', Shirakawa. Ma dopo un incidente, si ritrova a vivere nella stessa casa con 'Il Demone Nero', Haruto Kurosaki, che la tratta con prepotenza. Nonostante Kurosaki sia crudele, Yu si ritrova combattuta tra i due ragazzi.",
     "macro_categoria": "film",
     "sub_categoria": "Giappone",
-    "generi": ["14+", "Commedia", "Live Action", "Romantico", "Scolastico"],
-    "attori": ["Chiba Yudai", "Komatsu Nana", "Nakajima Kento", "Saito Nanaka", "Takatsuki Sara", "Terashima Shiro"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Live Action",
+      "Romantico",
+      "Scolastico"
+    ],
+    "attori": [
+      "Chiba Yudai",
+      "Komatsu Nana",
+      "Nakajima Kento",
+      "Saito Nanaka",
+      "Takatsuki Sara",
+      "Terashima Shiro"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Kurosaki-kun-no-Iinari-ni-Nante-Naranai-2.png",
     "video_data": {
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/The%20Black%20Devil%20and%20the%20White%20Prince.mp4"
     }
   },
-{
+  {
     "id_progetto": "film-cina-bigworld-001",
     "tipo": "film",
     "titolo": "Big World sub ita (2024)",
@@ -1881,67 +3005,110 @@
       "is_serie": false,
       "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/The.Northeastern.Bro.in.mp4"
     }
-  },  
- {
-  "id_progetto": "film-thailandia-lasercandy-004",
-  "tipo": "film",
-  "titolo": "Laser Candy sub ita (2022)",
-  "descrizione": "Conosciuto anche come 'AI Love You', è un film commedia romantico e di fantascienza thailandese con elementi drammatici. La trama è ambientata nel prossimo futuro e segue un'intelligenza artificiale che gestisce un edificio, alimentata dalle emozioni umane che percepisce. Quando, a causa di un malfunzionamento del software, l'IA sviluppa sentimenti profondi per Lana, una ragazza umana, decide di trasferire la propria coscienza nel corpo di un uomo reale per conquistarla, imparando ad amare nel mondo reale.",
-  "macro_categoria": "film",
-  "sub_categoria": "Thailandia",
-  "generi": ["14+", "Commedia", "Romantico", "Sci-Fi"],
-  "attori": ["David Asavanond", "Mario Maurer", "Michael S. New", "Pimchanok Leuwisetpaiboon", "Sahajak Boonthanakit"],
-  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/AI-love-you-3.png",
-  "video_data": {
-    "is_serie": false,
-    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/AI%20Love%20You%20-%20thailand.mp4"
-  }
-},
-{
-  "id_progetto": "film-hongkong-ex-005",
-  "tipo": "film",
-  "titolo": "Ex sub ita (2010)",
-  "descrizione": "È un film commedia romantico e drammatico di Hong Kong diretto da Heiward Mak. La trama segue Zhou Yi, una giovane donna che, dopo una rottura turbolenta all'aeroporto, si ritrova a dover ospitare temporaneamente a casa del suo ex-fidanzato, Ping, che convive con la sua attuale compagna. Questa inaspettata convivenza riaccende vecchie fiamme e porta a un complesso triangolo amoroso, esplorando le dinamiche delle relazioni passate e presenti attraverso situazioni comiche, malintesi e connessioni inaspettate.",
-  "macro_categoria": "film",
-  "sub_categoria": "Hong Kong",
-  "generi": ["14+", "Romantico"],
-  "attori": ["Derek Tsang", "Gillian Chung", "Jacky Heung", "Lawrence Chou", "Michelle Wai", "William Chan"],
-  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/ex-3.png",
-  "video_data": {
-    "is_serie": false,
-    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Ex%20-%20hong%20kong.mp4"
-  }
-},
-{
-  "id_progetto": "film-taiwan-fallinloveatfirstkiss-006",
-  "tipo": "film",
-  "titolo": "Fall in Love at First Kiss sub ita (2019)",
-  "descrizione": "Un film taiwanese di genere commedia romantica che segue la storia di Yuan Xiang Qin, una ragazza vivace ma non particolarmente brillante a scuola, che si innamora perdutamente di Jiang Zhi Shu, il ragazzo più intelligente e popolare della scuola. Dopo un terremoto che distrugge la sua casa, Xiang Qin e suo padre vanno a vivere con un vecchio amico, che si rivela essere il padre di Zhi Shu. Costretti a convivere sotto lo stesso tetto, inizia una convivenza piena di momenti imbarazzanti, situazioni comiche e la determinata ricerca di Xiang Qin di conquistare il cuore del freddo e distaccato Zhi Shu.",
-  "macro_categoria": "film",
-  "sub_categoria": "Taiwan",
-  "generi": ["14+", "Commedia", "Romantico", "Scuola"],
-  "attori": ["Darren Wang", "Jelly Lin", "Kang Ren Wu", "Wang Zheng Zhi"],
-  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/fall-in-love-at-first-kiss-3.png",
-  "video_data": {
-    "is_serie": false,
-    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4"
-  }
-},
-{
-  "id_progetto": "film-taiwan-sayyesagain-007",
-  "tipo": "film",
-  "titolo": "Say Yes Again sub ita (2022)",
-  "descrizione": "È un film taiwanese di genere commedia romantica e fantastica con elementi sci-fi legati ai viaggi nel tempo. La storia segue Luke, un giovane innamorato che, dopo una proposta di matrimonio fallita accolta con un secco 'Scusa' dalla sua amata Cai, si ritrova intrappolato in un loop temporale. Luke è costretto a rivivere incessantemente lo stesso giorno della sua fallita proposta, e dovrà sfruttare le sue 'infinite' possibilità per capire cosa è andato storto, analizzare le differenze caratteriali e imparare a comunicare per conquistare il cuore di Cai.",
-  "macro_categoria": "film",
-  "sub_categoria": "Taiwan",
-  "generi": ["14+", "Commedia", "Drammatico", "Romantico", "Soprannaturale"],
-  "attori": ["Fang Wen Lin", "Guo Shu Yao", "Hou Yan Xi", "Kent Tsai", "Molly Chiang"],
-  "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Say-Yes-Again-3.png",
-  "video_data": {
-    "is_serie": false,
-    "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20yes%20again%20-%20taiwan.mp4"
-  }
-},
+  },
+  {
+    "id_progetto": "film-thailandia-lasercandy-004",
+    "tipo": "film",
+    "titolo": "Laser Candy sub ita (2022)",
+    "descrizione": "Conosciuto anche come 'AI Love You', è un film commedia romantico e di fantascienza thailandese con elementi drammatici. La trama è ambientata nel prossimo futuro e segue un'intelligenza artificiale che gestisce un edificio, alimentata dalle emozioni umane che percepisce. Quando, a causa di un malfunzionamento del software, l'IA sviluppa sentimenti profondi per Lana, una ragazza umana, decide di trasferire la propria coscienza nel corpo di un uomo reale per conquistarla, imparando ad amare nel mondo reale.",
+    "macro_categoria": "film",
+    "sub_categoria": "Thailandia",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Sci-Fi"
+    ],
+    "attori": [
+      "David Asavanond",
+      "Mario Maurer",
+      "Michael S. New",
+      "Pimchanok Leuwisetpaiboon",
+      "Sahajak Boonthanakit"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/AI-love-you-3.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/THAILANDIA/AI%20Love%20You%20-%20thailand.mp4"
+    }
+  },
+  {
+    "id_progetto": "film-hongkong-ex-005",
+    "tipo": "film",
+    "titolo": "Ex sub ita (2010)",
+    "descrizione": "È un film commedia romantico e drammatico di Hong Kong diretto da Heiward Mak. La trama segue Zhou Yi, una giovane donna che, dopo una rottura turbolenta all'aeroporto, si ritrova a dover ospitare temporaneamente a casa del suo ex-fidanzato, Ping, che convive con la sua attuale compagna. Questa inaspettata convivenza riaccende vecchie fiamme e porta a un complesso triangolo amoroso, esplorando le dinamiche delle relazioni passate e presenti attraverso situazioni comiche, malintesi e connessioni inaspettate.",
+    "macro_categoria": "film",
+    "sub_categoria": "Hong Kong",
+    "generi": [
+      "14+",
+      "Romantico"
+    ],
+    "attori": [
+      "Derek Tsang",
+      "Gillian Chung",
+      "Jacky Heung",
+      "Lawrence Chou",
+      "Michelle Wai",
+      "William Chan"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/ex-3.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/HONG%20KONG/Ex%20-%20hong%20kong.mp4"
+    }
+  },
+  {
+    "id_progetto": "film-taiwan-fallinloveatfirstkiss-006",
+    "tipo": "film",
+    "titolo": "Fall in Love at First Kiss sub ita (2019)",
+    "descrizione": "Un film taiwanese di genere commedia romantica che segue la storia di Yuan Xiang Qin, una ragazza vivace ma non particolarmente brillante a scuola, che si innamora perdutamente di Jiang Zhi Shu, il ragazzo più intelligente e popolare della scuola. Dopo un terremoto che distrugge la sua casa, Xiang Qin e suo padre vanno a vivere con un vecchio amico, che si rivela essere il padre di Zhi Shu. Costretti a convivere sotto lo stesso tetto, inizia una convivenza piena di momenti imbarazzanti, situazioni comiche e la determinata ricerca di Xiang Qin di conquistare il cuore del freddo e distaccato Zhi Shu.",
+    "macro_categoria": "film",
+    "sub_categoria": "Taiwan",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Romantico",
+      "Scuola"
+    ],
+    "attori": [
+      "Darren Wang",
+      "Jelly Lin",
+      "Kang Ren Wu",
+      "Wang Zheng Zhi"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/fall-in-love-at-first-kiss-3.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/Fall%20in%20Love%20at%20First%20Kiss%202019.mp4"
+    }
+  },
+  {
+    "id_progetto": "film-taiwan-sayyesagain-007",
+    "tipo": "film",
+    "titolo": "Say Yes Again sub ita (2022)",
+    "descrizione": "È un film taiwanese di genere commedia romantica e fantastica con elementi sci-fi legati ai viaggi nel tempo. La storia segue Luke, un giovane innamorato che, dopo una proposta di matrimonio fallita accolta con un secco 'Scusa' dalla sua amata Cai, si ritrova intrappolato in un loop temporale. Luke è costretto a rivivere incessantemente lo stesso giorno della sua fallita proposta, e dovrà sfruttare le sue 'infinite' possibilità per capire cosa è andato storto, analizzare le differenze caratteriali e imparare a comunicare per conquistare il cuore di Cai.",
+    "macro_categoria": "film",
+    "sub_categoria": "Taiwan",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Drammatico",
+      "Romantico",
+      "Soprannaturale"
+    ],
+    "attori": [
+      "Fang Wen Lin",
+      "Guo Shu Yao",
+      "Hou Yan Xi",
+      "Kent Tsai",
+      "Molly Chiang"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Say-Yes-Again-3.png",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Say%20yes%20again%20-%20taiwan.mp4"
+    }
+  },
   {
     "id_progetto": "drama-corea-twelve-012",
     "tipo": "serie",
@@ -2208,8 +3375,8 @@
           "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/The%20Scandal%20of%20Chun%20Hwa/The.Scandal.of.Chun.Hwa.12.mp4"
         }
       ]
-     }
-    },
+    }
+  },
   {
     "id_progetto": "drama-corea-prideandprejudice-016",
     "tipo": "serie",
@@ -2538,7 +3705,7 @@
       ]
     }
   },
- {
+  {
     "id_progetto": "drama-corea-dramaworld-001",
     "tipo": "serie",
     "titolo": "Dramaworld sub ita (2016)",
@@ -3401,7 +4568,7 @@
       ]
     }
   },
- {
+  {
     "id_progetto": "drama-corea-pachinko-011",
     "tipo": "serie",
     "titolo": "Pachinko la moglie coreana sub ita (2022)",
@@ -3830,7 +4997,7 @@
       ]
     }
   },
-{
+  {
     "id_progetto": "drama-giappone-kahogonawakadanna-001",
     "tipo": "serie",
     "titolo": "Kahogona Wakadanna-sama no Amayakashi Kon sub ita (2024)",
@@ -4057,7 +5224,7 @@
       ]
     }
   },
-{
+  {
     "id_progetto": "drama-cina-afamiliarstranger-001",
     "tipo": "serie",
     "titolo": "A Familiar Stranger sub ita (2022)",
@@ -4114,15 +5281,24 @@
       ]
     }
   },
- {
+  {
     "id_progetto": "altro-cortometraggio-basuke-001",
     "tipo": "film",
     "titolo": "Basuke Shōnen no Himitsu sub ita (2018)",
     "descrizione": "Un cortometraggio che segue un giovane giocatore di basket, noto per il suo incredibile talento, ma che nasconde un segreto che potrebbe mettere a repentaglio la sua carriera e le sue amicizie. La storia esplora temi di ambizione e verità personale nello sport scolastico.",
     "macro_categoria": "altro",
     "sub_categoria": "CORTOMETRAGGI",
-    "generi": ["14+", "Cortometraggio", "Scolastico", "Sportivo", "Vita"],
-    "attori": ["Eito Suda", "Yuri Sanada"],
+    "generi": [
+      "14+",
+      "Cortometraggio",
+      "Scolastico",
+      "Sportivo",
+      "Vita"
+    ],
+    "attori": [
+      "Eito Suda",
+      "Yuri Sanada"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/Basketball-Boys-Secret.png",
     "video_data": {
       "is_serie": false,
@@ -4136,8 +5312,17 @@
     "descrizione": "Un thriller psicologico breve in cui un gruppo di giovani riceve un misterioso invito a una festa in una villa isolata. Quello che inizia come un gioco si trasforma rapidamente in una lotta per la sopravvivenza quando si rendono conto che sono intrappolati in un incubo.",
     "macro_categoria": "altro",
     "sub_categoria": "CORTOMETRAGGI",
-    "generi": ["14+", "Cortometraggio", "Mistero", "Thriller"],
-    "attori": ["Hao Han", "Lin Yi", "Zhou Yan"],
+    "generi": [
+      "14+",
+      "Cortometraggio",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Hao Han",
+      "Lin Yi",
+      "Zhou Yan"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/07/invitation-3.png",
     "video_data": {
       "is_serie": false,
@@ -4151,8 +5336,16 @@
     "descrizione": "Il cortometraggio si concentra su Yu Mitsui, un giovane non vedente che vive la sua quotidianità interagendo con le persone che lo circondano. La storia si sviluppa attorno a un semplice ma significativo incontro tra Yu e una giovane influencer.",
     "macro_categoria": "altro",
     "sub_categoria": "CORTOMETRAGGI",
-    "generi": ["14+", "Cortometraggio", "Drammatico", "Vita"],
-    "attori": ["Ayame Honda", "Ken Sato"],
+    "generi": [
+      "14+",
+      "Cortometraggio",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Ayame Honda",
+      "Ken Sato"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/blind-mind.png",
     "video_data": {
       "is_serie": false,
@@ -4166,8 +5359,18 @@
     "descrizione": "Questo teaser promozionale, basato sul famoso web novel coreano, mostra Kayena Hill, una 'cattiva' intrappolata nel suo destino. Conoscendo gli eventi futuri, decide di agire per la propria libertà, smettendo di essere una semplice marionetta nelle mani degli altri.",
     "macro_categoria": "altro",
     "sub_categoria": "TEASER TRAILER",
-    "generi": ["14+", "Fantasy", "Promozionale", "Romance", "Webtoon"],
-    "attori": ["Han Soo Hee", "Cha Eun Woo", "Lee Soo Hyuk"],
+    "generi": [
+      "14+",
+      "Fantasy",
+      "Promozionale",
+      "Romance",
+      "Webtoon"
+    ],
+    "attori": [
+      "Han Soo Hee",
+      "Cha Eun Woo",
+      "Lee Soo Hyuk"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/the-villainess-is-a-marionette-3.png",
     "video_data": {
       "is_serie": false,
@@ -4181,13 +5384,22 @@
     "descrizione": "Una mini-serie web (o pubblicità) composta da 4 episodi che esplora la nascita di un inaspettato romance in un ambiente d'ufficio. La storia è leggera e incentrata sulle interazioni quotidiane e sui cliché delle relazioni sul posto di lavoro.",
     "macro_categoria": "altro",
     "sub_categoria": "PUBBLICITÀ",
-    "generi": ["14+", "Commedia", "Mini Drama", "Romantico"],
-    "attori": ["Kim Seul-gi", "Song Hoon"],
+    "generi": [
+      "14+",
+      "Commedia",
+      "Mini Drama",
+      "Romantico"
+    ],
+    "attori": [
+      "Kim Seul-gi",
+      "Song Hoon"
+    ],
     "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/05/Office-Romance-Recipe-3.png",
     "video_data": {
       "is_serie": true,
       "episodi": [
-        {"titolo_episodio": "Episodio 1",
+        {
+          "titolo_episodio": "Episodio 1",
           "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/office%20romance%20recipe/Office%20Romance%20Recipe%20Ep.01%20_The%20Magic%20Book_.mp4"
         },
         {
@@ -4512,7 +5724,8 @@
     "video_data": {
       "is_serie": true,
       "episodi": [
-        {"titolo_episodio": "Episodio 1",
+        {
+          "titolo_episodio": "Episodio 1",
           "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/office%20romance%20recipe/Office%20Romance%20Recipe%20Ep.01%20_The%20Magic%20Book_.mp4"
         },
         {
@@ -4721,6 +5934,3 @@
     }
   }
 ]
-
-
-
