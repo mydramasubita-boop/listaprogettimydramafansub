@@ -1,5 +1,40 @@
 [
   {
+    "id_progetto": "mini-corea-director-maengs-malicious-commenter-001",
+    "tipo": "serie",
+    "titolo": "Director Maeng’s Malicious Commenter sub ita (2025)",
+    "descrizione": "È un drama sportivo sudcoreano in due episodi. La trama segue Maeng Gong, un allenatore di basket professionista la cui carriera è a rischio a causa dei pessimi risultati della sua squadra. Per salvare il suo posto e risollevare le sorti del team, si ritrova costretto a collaborare con il suo più accanito “hater” online, che si rivela essere uno studente liceale con una conoscenza tattica del basket fuori dal comune.",
+    "macro_categoria": "mini-e-web-drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Sportivo"
+    ],
+    "attori": [
+      "Kang Hee-Goo",
+      "Kim Taek",
+      "Kwon Joo-Seok",
+      "Oh Hyun-Joong",
+      "Park Soo-Oh",
+      "Park Sung-woong"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2025/12/Ahead-Coachs-Turnover.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 01",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Director%20Maeng/AHeadCoachsTurnover01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 02",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/Director%20Maeng/AHeadCoachsTurnover02.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "altro-cortometraggi-the-effect-of-one-night-on-parting--001",
     "tipo": "film",
     "titolo": "The Effect of One Night on Parting sub ita (2021)",
