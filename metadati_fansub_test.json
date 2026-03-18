@@ -1,5 +1,31 @@
 [
   {
+    "id_progetto": "film-taiwan-la-mia-famiglia-a-taipei-sub-ita-20-001",
+    "tipo": "film",
+    "titolo": "La Mia Famiglia a Taipei sub ita (2025)",
+    "descrizione": "È un film drammatico taiwanese scritto e diretto da Shih-Ching Tsou e co-prodotto da Sean Baker. La trama segue Shu-fen, una madre single che torna a Taipei con le sue due figlie per aprire un banco di noodle in un affollato mercato notturno. Mentre la famiglia lotta per adattarsi alla nuova vita e far quadrare i conti, la figlia minore di cinque anni, I-Jing, inizia a credere di avere la “mano del diavolo” a causa delle superstizioni del nonno sul suo essere mancina.",
+    "macro_categoria": "film",
+    "sub_categoria": "Taiwan",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Vita"
+    ],
+    "attori": [
+      "Chao Xin-Yan",
+      "Chen Akio",
+      "Huang Brando",
+      "Ma Shih-Yuan",
+      "Tsai Janel",
+      "Ye Nina"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/01/la-mia-famiglia-a-taipei-left-handed-girl_ken7.1200.webp",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/TAIWAN/Left-Handed%20Girl%202025.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-no-other-choice-sub-ita-2025-001",
     "tipo": "film",
     "titolo": "No Other Choice sub ita (2025)",
