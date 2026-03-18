@@ -1,5 +1,31 @@
 [
   {
+    "id_progetto": "film-giappone-crying-out-love-in-the-center-of-th-001",
+    "tipo": "film",
+    "titolo": "Crying Out Love, in the Center of the World sub ita (2004)",
+    "descrizione": "È un film drammatico giapponese diretto da Isao Yukisada e basato sull’omonimo romanzo. La trama segue Sakutaro, un uomo che, alla vigilia del suo matrimonio, torna nella sua città natale e viene travolto dai ricordi del suo primo amore liceale, Aki. Attraverso il ritrovamento di vecchie audiocassette, rivive la loro storia d’amore interrotta tragicamente dalla malattia di lei, cercando finalmente una chiusura per il suo dolore.",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Drammatico",
+      "Live Action",
+      "Romantico"
+    ],
+    "attori": [
+      "Moriyama Mirai",
+      "Nagasawa Masa-Mi",
+      "Osawa Taka-O",
+      "Shibasaki Ko",
+      "Takahashi Is-Sei",
+      "Yamazaki Tsutu-Mu"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/01/Crying.Out_.Love_.in_.the_.Center.of_.the_.World_.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/Crying.Out.Love.in.the.Center.of.the.World.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-the-first-ride-sub-ita-2025-001",
     "tipo": "film",
     "titolo": "The First Ride sub ita (2025)",
