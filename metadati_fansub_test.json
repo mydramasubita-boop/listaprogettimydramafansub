@@ -1,5 +1,34 @@
 [
   {
+    "id_progetto": "film-giappone-a-girl-and-her-guard-dog-sub-ita-20-001",
+    "tipo": "film",
+    "titolo": "A Girl and Her Guard Dog sub ita (2025)",
+    "descrizione": "Ojo to Banken-kun è un film romantico d’azione giapponese basato sull’omonimo manga di Hatsuharu. La trama segue Isaku Senagaki, la nipote di un boss della yakuza che desidera solo una vita scolastica normale e un amore ordinario. Tuttavia, il giovane membro del clan Keiya Uto, determinato a proteggerla, mente sulla sua età e si iscrive segretamente nello stesso liceo di Isaku per farle da “cane da guardia”, complicando ogni suo tentativo di socializzare.",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Azione",
+      "Live Action",
+      "Scolastico",
+      "Romantico"
+    ],
+    "attori": [
+      "Fukumoto Riko",
+      "Iida Ki-Suke",
+      "Jesse",
+      "Sakurai Kai-To",
+      "Sasaki Nozo-Mi",
+      "Sugimoto Tet-Ta"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/01/JBblbl_4f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/A%20Girl%20%26%20Her%20Guard%20Dog.mp4"
+    }
+  },
+  {
     "id_progetto": "mini-corea-director-maengs-malicious-commenter-001",
     "tipo": "serie",
     "titolo": "Director Maeng’s Malicious Commenter sub ita (2025)",
