@@ -1,5 +1,35 @@
 [
   {
+    "id_progetto": "film-giappone-xxxholic-sub-ita-2022-001",
+    "tipo": "film",
+    "titolo": "xxxHOLiC sub ita (2022)",
+    "descrizione": "È un film fantasy soprannaturale giapponese diretto da Mika Ninagawa e basato sull’omonimo celebre manga delle CLAMP. La trama ruota attorno a Kimihiro Watanuki, uno studente liceale tormentato dalla capacità di vedere spiriti e mostri che gli altri non percepiscono. Un giorno, attratto da una forza misteriosa, entra in un negozio magico gestito da Yuko Ichihara, una strega che esaudisce desideri in cambio di un prezzo adeguato. Watanuki chiede di non vedere più gli spiriti, ma per pagare il debito dovrà iniziare a lavorare come assistente nel negozio di Yuko.",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "Drammatico",
+      "Live Action",
+      "Soprannaturale",
+      "14+",
+      "Fantasy",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "DAOKO",
+      "Kamiki Ryunosuke",
+      "Matsumura Hokuto",
+      "Motola Serena",
+      "Shibasaki Ko",
+      "Tamashiro Tina"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/02/E1r2Q_4f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/XxxHolic.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-my-daughter-is-a-zombie-sub-ita-202-001",
     "tipo": "film",
     "titolo": "My Daughter Is a Zombie sub ita (2025)",
