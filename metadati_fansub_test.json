@@ -1,5 +1,32 @@
 [
   {
+    "id_progetto": "film-corea-my-daughter-is-a-zombie-sub-ita-202-001",
+    "tipo": "film",
+    "titolo": "My Daughter Is a Zombie sub ita (2025)",
+    "descrizione": "È una commedia drammatica sudcoreana diretta da Pil Gam-sung e basata sull’omonimo webtoon di Lee Yoon-chang. La trama segue Lee Jung-hwan, un padre devoto che, durante un’improvvisa epidemia zombie, scopre che sua figlia Soo-a è stata infettata. Rifiutandosi di abbandonarla, la porta segretamente nel villaggio rurale di sua madre per proteggerla dal mondo esterno e tentare, con metodi non convenzionali, di rieducarla alla vita umana.",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Drammatico",
+      "Commedia",
+      "Live Action",
+      "Soprannaturale",
+      "Vita"
+    ],
+    "attori": [
+      "Cho Yeo-jung",
+      "Choi Yu-Ri",
+      "Jo Jung-suk",
+      "Lee Jung-Eun",
+      "Yoon Kyung-ho"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/02/5vXxyL_3f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/My%20daughter%20is%20a%20zombie.mp4"
+    }
+  },
+  {
     "id_progetto": "film-giappone-crying-out-love-in-the-center-of-th-001",
     "tipo": "film",
     "titolo": "Crying Out Love, in the Center of the World sub ita (2004)",
