@@ -1,5 +1,33 @@
 [
   {
+    "id_progetto": "film-corea-the-first-ride-sub-ita-2025-001",
+    "tipo": "film",
+    "titolo": "The First Ride sub ita (2025)",
+    "descrizione": "Titolo originale: 퍼스트 라이드 È un film commedia d’avventura sudcoreano diretto da Nam Dae-joong. La trama segue un gruppo di cinque amici d’infanzia — Tae-jung, Do-jin, Yeon-min, Geum-bok e Ok-shim — che, dopo ventiquattro anni di promesse e rinvii, riescono finalmente a organizzare il loro primo viaggio insieme all’estero. Quella che doveva essere una vacanza da sogno in Thailandia si trasforma rapidamente in una serie di eventi caotici, bizzarri e imprevedibili che metteranno alla prova il loro legame.",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Drammatico",
+      "Vita",
+      "Avventura",
+      "Amicizia",
+      "Commedia"
+    ],
+    "attori": [
+      "Cha Eun-woo",
+      "Han Sun-hwa",
+      "Kang Ha-neul",
+      "Kang Young-Seok",
+      "Kim Young-kwang",
+      "Ko Kyu-pil"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/01/g0LgPP_4f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The-First-Ride.mp4"
+    }
+  },
+  {
     "id_progetto": "film-taiwan-la-mia-famiglia-a-taipei-sub-ita-20-001",
     "tipo": "film",
     "titolo": "La Mia Famiglia a Taipei sub ita (2025)",
