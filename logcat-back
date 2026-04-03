@@ -1,0 +1,545 @@
+--------- beginning of main
+04-03 22:45:11.239   529   552 I EthernetTracker: interfaceLinkStateChanged, iface: wlan0, up: true
+04-03 22:45:11.422   814   814 I NEODelegate:AutomaticCecScanner: Retrying scan of address: 4 (1/10)
+04-03 22:45:11.422   814   814 I NEODelegate:RobustCecScanner: Scanning CEC devices at source: 4
+04-03 22:45:11.422   814   814 I OZ-DCSCEC:HdmiCecAgent: Starting scan of sources: [4]
+--------- beginning of system
+04-03 22:45:11.424   529   870 E AmazonHdmiService: No handle to TV client
+04-03 22:45:11.424   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x83, size:0, body[0]=0x0
+04-03 22:45:11.501   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x83, mResult:0
+04-03 22:45:11.605   814   814 I NEODelegate:AutomaticCecScanner: Retrying scan of address: 5 (1/10)
+04-03 22:45:11.605   814   814 I NEODelegate:RobustCecScanner: Scanning CEC devices at source: 5
+04-03 22:45:11.605   814   814 W NEODelegate:RobustCecScanner: Cec scan failed custom scan in progress
+04-03 22:45:11.650   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:11.652   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x0F; Opcode: 0x84; Params: 0x10:0x00:0x04
+04-03 22:45:11.652   814   814 I NEODelegate:AutomaticCecScanner: Received message <132> from address: 4
+04-03 22:45:11.652   814   814 I NEODelegate:AutomaticCecScanner: Dropping scan. Address 4 is in cooldown.
+04-03 22:45:11.653   529   870 E AmazonHdmiService: No handle to TV client
+04-03 22:45:11.654   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x8c, size:0, body[0]=0x0
+04-03 22:45:11.656   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 233ms] Processing expected scan response: Source: 0x04; Destination: 0x0F; Opcode: 0x84; Params: 0x10:0x00:0x04
+04-03 22:45:11.781   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x8c, mResult:0
+04-03 22:45:11.782   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x46, size:0, body[0]=0x0
+04-03 22:45:11.946  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=0, tx_ok=1568452, tx_failed=718973, cca_idle_pct=97
+04-03 22:45:11.946  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=8, ss=2, bw=2
+04-03 22:45:11.946  1310  1310 I main.wifi_score: rate correction orig per/mcs/bw 42/8/2, new per/mcs/bw 12/7/2
+04-03 22:45:12.161   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x46, mResult:0
+04-03 22:45:12.162   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x9f, size:0, body[0]=0x0
+04-03 22:45:12.361   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x9f, mResult:0
+04-03 22:45:11.654   529   870 I chatty  : uid=1000(system) Binder:529_20 identical 1 line
+04-03 22:45:11.655   529   870 E AmazonHdmiService: No handle to TV client
+04-03 22:45:12.364   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:12.365   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x0F; Opcode: 0x87; Params: 0x00:0x00:0xF0
+04-03 22:45:12.366   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 713ms] Processing expected scan response: Source: 0x04; Destination: 0x0F; Opcode: 0x87; Params: 0x00:0x00:0xF0
+04-03 22:45:12.664   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:12.665   529   529 W HDMI    : [1]:Unhandled cec command:<Set Osd Name> 48:47:42:44:2D:54:68:65:61:74:65:72
+04-03 22:45:12.666   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x0, size:2, body[0]=0x47
+04-03 22:45:12.666   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x08; Opcode: 0x47; Params: 0x42:0x44:0x2D:0x54:0x68:0x65:0x61:0x74:0x65:0x72
+04-03 22:45:12.668   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 1014ms] Processing expected scan response: Source: 0x04; Destination: 0x08; Opcode: 0x47; Params: 0x42:0x44:0x2D:0x54:0x68:0x65:0x61:0x74:0x65:0x72
+04-03 22:45:12.871   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x0, mResult:0
+04-03 22:45:12.873   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:12.873   529   529 W HDMI    : [1]:Unhandled cec command:<Cec Version> 48:9E:05
+04-03 22:45:12.874   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x08; Opcode: 0x9E; Params: 0x05
+04-03 22:45:12.875   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 1221ms] Processing expected scan response: Source: 0x04; Destination: 0x08; Opcode: 0x9E; Params: 0x05
+04-03 22:45:12.875   814   814 I NEODelegate:RobustCecScanner: Scanning CEC devices at source: 4
+04-03 22:45:12.875   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x0, size:2, body[0]=0x9e
+04-03 22:45:12.875   814   814 I OZ-DCSCEC:HdmiCecAgent: Starting scan of sources: [4]
+04-03 22:45:12.876   529   870 E AmazonHdmiService: No handle to TV client
+04-03 22:45:13.011   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x0, mResult:0
+04-03 22:45:13.012   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x83, size:0, body[0]=0x0
+04-03 22:45:13.091   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x83, mResult:0
+04-03 22:45:13.233   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:13.235   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x0F; Opcode: 0x84; Params: 0x10:0x00:0x04
+04-03 22:45:13.235   814   814 I NEODelegate:AutomaticCecScanner: Received message <132> from address: 4
+04-03 22:45:13.235   814   814 I NEODelegate:AutomaticCecScanner: Dropping scan. Address 4 is in cooldown.
+04-03 22:45:13.236   529   870 E AmazonHdmiService: No handle to TV client
+04-03 22:45:13.237   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x8c, size:0, body[0]=0x0
+04-03 22:45:13.239   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 363ms] Processing expected scan response: Source: 0x04; Destination: 0x0F; Opcode: 0x84; Params: 0x10:0x00:0x04
+04-03 22:45:13.371   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x8c, mResult:0
+04-03 22:45:13.372   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x46, size:0, body[0]=0x0
+04-03 22:45:13.751   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x46, mResult:0
+04-03 22:45:13.752   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x9f, size:0, body[0]=0x0
+04-03 22:45:13.951   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x9f, mResult:0
+04-03 22:45:13.237   529   870 I chatty  : uid=1000(system) Binder:529_20 identical 1 line
+04-03 22:45:13.238   529   870 E AmazonHdmiService: No handle to TV client
+04-03 22:45:13.953   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:13.955   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x0F; Opcode: 0x87; Params: 0x00:0x00:0xF0
+04-03 22:45:13.955   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 720ms] Processing expected scan response: Source: 0x04; Destination: 0x0F; Opcode: 0x87; Params: 0x00:0x00:0xF0
+04-03 22:45:14.257   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x08; Opcode: 0x47; Params: 0x42:0x44:0x2D:0x54:0x68:0x65:0x61:0x74:0x65:0x72
+04-03 22:45:14.258   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 1021ms] Processing expected scan response: Source: 0x04; Destination: 0x08; Opcode: 0x47; Params: 0x42:0x44:0x2D:0x54:0x68:0x65:0x61:0x74:0x65:0x72
+04-03 22:45:14.258   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x0, size:2, body[0]=0x47
+04-03 22:45:14.471   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x0, mResult:0
+04-03 22:45:14.474   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:4, opcode: 0x0, size:2, body[0]=0x9e
+04-03 22:45:14.475   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x04; Destination: 0x08; Opcode: 0x9E; Params: 0x05
+04-03 22:45:14.475   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 1238ms] Processing expected scan response: Source: 0x04; Destination: 0x08; Opcode: 0x9E; Params: 0x05
+04-03 22:45:14.475   814   814 I NEODelegate:RobustCecScanner: Discovered 1 CEC device at address: [4]
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: CEC scan completed. Found 1 devices: [
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: ===========>
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: Logical address: 4
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: Physical address: 1.0.0.0
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: Type: DEVICE_PLAYBACK
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: CEC Vendor id: 240
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: OSD: BD-Theater
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: CEC version: CEC_VERSION_1_4
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: Timestamp: 1775249114475
+04-03 22:45:14.476   814   814 I NEODelegate:CecService: <===========]
+04-03 22:45:14.611   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x0, mResult:0
+04-03 22:45:15.123  1613  1636 I om.amazon.tcom: Background concurrent copying GC freed 257(66KB) AllocSpace objects, 0(0B) LOS objects, 9% free, 4MB/5MB, paused 381us total 100.294ms
+04-03 22:45:15.155   319 17570 I Node    : dolby-audio-meter, AdapterPcmOut adapter audio meter: channel 0; audio level: 0.000
+04-03 22:45:15.155   319 17570 I Node    : dolby-audio-meter, AdapterPcmOut adapter audio meter: channel 1; audio level: 0.000
+04-03 22:45:17.033  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=-61, tx_ok=1568452, tx_failed=718973, cca_idle_pct=96
+04-03 22:45:17.033  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=7, ss=2, bw=2
+04-03 22:45:17.484   529   552 I EthernetTracker: interfaceLinkStateChanged, iface: wlan0, up: true
+04-03 22:45:18.931   319 17570 I Node    : dolby-audio-meter, AdapterPcmSystem adapter audio meter: channel 0; audio level: 0.000
+04-03 22:45:18.931   319 17570 I Node    : dolby-audio-meter, AdapterPcmSystem adapter audio meter: channel 1; audio level: 0.000
+04-03 22:45:18.931   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 0; audio level: 0.000
+04-03 22:45:18.931   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 1; audio level: 0.000
+04-03 22:45:18.931   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 2; audio level: 0.000
+04-03 22:45:18.931   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 3; audio level: 0.000
+04-03 22:45:18.931   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 4; audio level: 0.000
+04-03 22:45:18.931   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 5; audio level: 0.000
+04-03 22:45:18.951   814   814 I NEODelegate:AutomaticCecScanner: Retrying scan of address: 0 (1/10)
+04-03 22:45:18.951   814   814 I NEODelegate:RobustCecScanner: Scanning CEC devices at source: 0
+04-03 22:45:18.951   814   814 I OZ-DCSCEC:HdmiCecAgent: Starting scan of sources: [0]
+04-03 22:45:14.255   529   529 I chatty  : uid=1000 system_server identical 1 line
+04-03 22:45:14.473   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:18.952   529 18573 E AmazonHdmiService: No handle to TV client
+04-03 22:45:18.953   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:0, opcode: 0x83, size:0, body[0]=0x0
+04-03 22:45:19.031   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x83, mResult:0
+04-03 22:45:19.193   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:19.195   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x00; Destination: 0x0F; Opcode: 0x84; Params: 0x00:0x00:0x00
+04-03 22:45:19.195   814   814 I NEODelegate:AutomaticCecScanner: Received message <132> from address: 0
+04-03 22:45:19.195   814   814 I NEODelegate:AutomaticCecScanner: Dropping scan. Address 0 is in cooldown.
+04-03 22:45:19.196   529 18573 E AmazonHdmiService: No handle to TV client
+04-03 22:45:19.197   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:0, opcode: 0x8c, size:0, body[0]=0x0
+04-03 22:45:19.198   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 247ms] Processing expected scan response: Source: 0x00; Destination: 0x0F; Opcode: 0x84; Params: 0x00:0x00:0x00
+04-03 22:45:19.271   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x8c, mResult:0
+04-03 22:45:19.272   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:0, opcode: 0x46, size:0, body[0]=0x0
+04-03 22:45:19.351   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x46, mResult:0
+04-03 22:45:19.352   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:0, opcode: 0x9f, size:0, body[0]=0x0
+04-03 22:45:19.431   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x9f, mResult:0
+04-03 22:45:19.197   529 18573 I chatty  : uid=1000(system) Binder:529_1F identical 1 line
+04-03 22:45:19.198   529 18573 E AmazonHdmiService: No handle to TV client
+04-03 22:45:19.533   529   529 I AmzHdmiServiceCallback: power status is 0
+04-03 22:45:19.534   529   529 W HDMI    : [2]:Unhandled cec command:<Cec Version> 08:9E:05
+04-03 22:45:19.534   314   314 I hdmi_cec: [HWCEC] send_message init:8, dest:0, opcode: 0x0, size:2, body[0]=0x9e
+04-03 22:45:19.535   814   839 I OZ-DCSCEC:HdmiCecAgent: Received message: Source: 0x00; Destination: 0x08; Opcode: 0x9E; Params: 0x05
+04-03 22:45:19.536   814   814 I OZ-DCSCEC:HdmiCecAgent: [elapsed: 338ms] Processing expected scan response: Source: 0x00; Destination: 0x08; Opcode: 0x9E; Params: 0x05
+04-03 22:45:19.671   314   314 I hdmi_cec: [HWCEC] send_message end, opcode: 0x0, mResult:0
+04-03 22:45:19.954  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=-61, tx_ok=1568455, tx_failed=718976, cca_idle_pct=96
+04-03 22:45:19.954  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=7, ss=2, bw=2
+04-03 22:45:19.954  1310  1310 I main.wifi_score: rate correction orig per/mcs/bw 50/7/2, new per/mcs/bw 20/6/2
+04-03 22:45:20.081   529   545 E PerfEvent: The String value is null, invalid
+04-03 22:45:20.090   529 18573 I ActivityManager: START u0 {flg=0x10000000 cmp=com.mydramalife.tv/.MainActivity} from uid 2000
+04-03 22:45:20.100   529 18573 I AmazonProfileService: shouldAbortActivityStart() Package: xxx activity: xxx
+04-03 22:45:20.107   529 18573 I AmazonProfileService: shouldAbortActivityStart() not aborted
+04-03 22:45:20.111   529 18573 I FTVDeepLinkHandler: Application is started by shell.
+04-03 22:45:20.326  2616 26760 I whad    : DeviceVisibilityManager:handleHeartbeat:seq=20132,xmit=230840917643028,recv=3649814361792987,uniqueId=XX00R2,highNetworkLatency=1
+04-03 22:45:20.327  2616 26771 I whad    : DeviceVisibilityManager:handleHeartbeat:seq=20130,xmit=0,recv=3649814362592757,uniqueId=XX01MX,highNetworkLatency=1
+04-03 22:45:23.712   529   552 I EthernetTracker: interfaceLinkStateChanged, iface: wlan0, up: true
+04-03 22:45:23.961  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=0, tx_ok=1568491, tx_failed=718996, cca_idle_pct=96
+04-03 22:45:23.961  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=7, ss=2, bw=2
+04-03 22:45:23.961  1310  1310 I main.wifi_score: rate correction orig per/mcs/bw 35/7/2, new per/mcs/bw 5/6/2
+04-03 22:45:25.160   319 17570 I Node    : dolby-audio-meter, AdapterPcmOut adapter audio meter: channel 0; audio level: 0.000
+04-03 22:45:25.161   319 17570 I Node    : dolby-audio-meter, AdapterPcmOut adapter audio meter: channel 1; audio level: 0.000
+04-03 22:45:25.202   814   814 I OZ-DCSCEC:HdmiCecAgent: Killing monitor after 6006ms : From address:0x00 Rsp opcode: 0x87 Req opcode: 0x8C
+04-03 22:45:25.202   814   814 I OZ-DCSCEC:HdmiCecAgent: Killing monitor after 6006ms : From address:0x00 Rsp opcode: 0x47 Req opcode: 0x46
+04-03 22:45:25.202   814   814 W NEODelegate:RobustCecScanner: Cec scan failed Time out in waiting response
+04-03 22:45:27.942  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=0, tx_ok=1568491, tx_failed=718996, cca_idle_pct=96
+04-03 22:45:27.942  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=7, ss=2, bw=2
+04-03 22:45:27.942  1310  1310 I main.wifi_score: score (5m, 1h): 6, 6 (idx 3)
+04-03 22:45:27.942  1310  1310 I main.wifi_score: WAR Status: dbgTxRateCacheHitCnt=2024
+04-03 22:45:28.936   319 17570 I Node    : dolby-audio-meter, AdapterPcmSystem adapter audio meter: channel 0; audio level: 0.000
+04-03 22:45:28.937   319 17570 I Node    : dolby-audio-meter, AdapterPcmSystem adapter audio meter: channel 1; audio level: 0.000
+04-03 22:45:28.937   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 0; audio level: 0.000
+04-03 22:45:28.937   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 1; audio level: 0.000
+04-03 22:45:28.937   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 2; audio level: 0.000
+04-03 22:45:28.937   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 3; audio level: 0.000
+04-03 22:45:28.937   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 4; audio level: 0.000
+04-03 22:45:28.937   319 17570 I RendererNode: dolby-audio-meter, Renderer renderer audio meter: channel 5; audio level: 0.000
+04-03 22:45:30.333  2616 26772 I whad    : ControlPlaneManager:handleCommand:caller=Libevent,cmd=sendMessage,xmit=230850919,recv=3649824368,delta=3418973449,tss=XX01MX,senderId=XX00R2,tssStale=false
+04-03 22:45:30.334  2616 26772 I whad    : Fabric:onMessage:id=Stitch_90cedc42-a550-4b5c-8bdb-f95195461756, name=Stitch, sender=XX00R2
+04-03 22:45:30.334  2616 26778 I whad    : DeviceVisibilityManager:handleHeartbeat:seq=20131,xmit=0,recv=3649824369379811,uniqueId=XX01MX,highNetworkLatency=1
+04-03 22:45:30.335  2616 26777 I whad    : DeviceVisibilityManager:handleHeartbeat:seq=20133,xmit=230850920288577,recv=3649824369994580,uniqueId=XX00R2,highNetworkLatency=1
+04-03 22:45:30.648   529   552 I EthernetTracker: interfaceLinkStateChanged, iface: wlan0, up: true
+04-03 22:45:31.339 26784 26784 W app_process: Could not reserve sentinel fault page
+04-03 22:45:31.632 26784 26784 I app_process: The ClassLoaderContext is a special shared library.
+04-03 22:45:31.634 26784 26787 I app_process: Bumping SignalCatcher priority from 5 to 10
+04-03 22:45:31.884 26784 26784 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=1034077640, downTime=1034077640, deviceId=-1, source=0x101 }
+04-03 22:45:31.901   529   870 I AmazonProfileService: Event not filtered. KPM proceeds the key
+04-03 22:45:31.902   529   870 I KeyMapManagerUtil: Unknown remote sku id 0. Fetch remote sku id from system property
+04-03 22:45:31.903  1370 12846 E amzn_neo_service_api:..: handle_key_event_callback: Got empty key-event
+04-03 22:45:31.904  1370 12846 I com_amazon_devicecont..: Received Key name: BACK, code: 4, action: 0
+04-03 22:45:31.937 26784 26784 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=1034077640, downTime=1034077640, deviceId=-1, source=0x101 }
+04-03 22:45:31.938   529   870 I KeyMapManagerUtil: Unknown remote sku id 0. Fetch remote sku id from system property
+04-03 22:45:31.938  1370 12846 E amzn_neo_service_api:..: handle_key_event_callback: Got empty key-event
+04-03 22:45:31.938  1370 12846 I com_amazon_devicecont..: Received Key name: BACK, code: 4, action: 1
+04-03 22:45:31.942  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=-61, tx_ok=1568491, tx_failed=718996, cca_idle_pct=96
+04-03 22:45:31.942  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=7, ss=2, bw=2
+04-03 22:45:31.938   529   870 I AmazonProfileService: Event not filtered. KPM proceeds the key
+04-03 22:45:32.000   529 18573 W AmazonProfileService: Active profile for the package xxx not present for customer Id xxx
+04-03 22:45:32.017  2616 29133 I whad    : TimeSyncClient:clientThread:reason=skewOrDriftChange,server=XX01MX,time=1034077.741314,skewX=1032240.102190,skewY=-803225.166835,drift=0.405344,reportedDrift=0.405344,numExchanges=380948
+04-03 22:45:32.052   319   499 I AudioALSAHardware: +setParameters(): continuous_audio_mode=0
+04-03 22:45:32.052   319   499 W AudioALSAHardware: setParameters(), still have param.size() = 1, remain param = "continuous_audio_mode=0"
+04-03 22:45:32.052   319   499 I AudioALSAHardware: -setParameters(): continuous_audio_mode=0 
+04-03 22:45:32.053   330   330 I hash_map_utils: key: 'continuous_audio_mode' value: '0'
+04-03 22:45:32.054   330   330 I hash_map_utils: key: 'continuous_audio_mode' value: '0'
+04-03 22:45:32.055   529 26794 I PointerController: PointerController setInvisible true
+04-03 22:45:32.056   319   499 I DolbyAudioParameters: getParameters() return hdmi_output_channel_mode=0
+04-03 22:45:32.056   330 27442 I DolbyAudioParameters: getParameters() return hdmi_output_channel_mode=0
+04-03 22:45:32.057   330 27442 I hash_map_utils: key: 'hdmi_output_channel_mode' value: ''
+04-03 22:45:32.031   529 18573 W AmazonProfileService: Active profile for the package xxx not present for customer Id xxx
+04-03 22:45:32.061   529   699 W AmazonProfileService: Active profile for the package xxx not present for customer Id xxx
+04-03 22:45:32.085  1591  1591 I CSM-ProactiveReporter: Context with namespace VisualFocusManager allowlisted? true. Cloud-configured allowlist available? true. Allowlisted by cloud: true, device override: false, arcus: false
+04-03 22:45:32.085  1591  1591 I ContextChangeObserver: Context namespace (VisualFocusManager) name (VisualFocusState) passed proactive check. Will schedule ChangeReport.
+04-03 22:45:32.085  1591  1591 I CSM-ProactiveReporter: Scheduling new changeReport job for VisualFocusManager
+04-03 22:45:32.087  1591 26598 I CSM-ProactiveReporter: Uninterruptibly waiting for 400
+04-03 22:45:32.088  1591  1591 I UICM_Service_ForegroundAppMonitor_1.0.60752.0: current foreground app: com.amazon.venezia
+04-03 22:45:32.090 25398 25398 I AmazonAppstore.AppsGridActivity: YAC Warm Start flow Started.
+04-03 22:45:32.091  1591 26795 I Vizzini:AppCache: App not found in cache: com.amazon.venezia
+04-03 22:45:32.095 25398 25398 I com.amazon.cues.client.hintcontext.HintContextClient: HintContextService not available, ignoring setHintContext!
+04-03 22:45:32.096  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: Focus already acquired
+04-03 22:45:32.098  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: Media State Update: CODEC_STATE_DETECTION is INACTIVE
+04-03 22:45:32.102  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: Clearing audio content focus
+04-03 22:45:32.109 25398 25398 I AmazonAppstore.AuthenticationHelper: PFM APJ6JRA9NG5V4, COR IT
+04-03 22:45:32.110  1591  1591 I DeviceEvent: CSMSIM#alexa_focus_clear#0#LocalMediaPlayer#content
+04-03 22:45:32.112 25398 25568 I AmazonAppstore.AuthenticationHelper: PFM APJ6JRA9NG5V4, COR IT
+04-03 22:45:32.115 25398 25442 I AmazonAppstore.SystemAppUninstallHelper: returning uninstall supported apps from cache
+04-03 22:45:32.116 25398 25442 I AmazonAppstore.AppsGridAdapterController: Loading apps grid: system app menu provider took (1).
+04-03 22:45:32.118 25398 25440 I AmazonAppstore.AppsGridAdapterController: Loading apps grid: harmful apps list took (0)
+04-03 22:45:32.119 25398 25442 I AmazonAppstore.AppsGridAdapterController: Loading apps grid: app offload filter took (0)
+04-03 22:45:32.121 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: Start of bootstrapOrderIfNeeded
+04-03 22:45:32.126 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: V2 Library size from database - 19
+04-03 22:45:32.137   529 18573 I AmazonProfileService: Event is not filtered because it is not in filter key list.
+04-03 22:45:32.137   529 18573 I KeyMapManagerUtil: Unknown remote sku id 0. Fetch remote sku id from system property
+04-03 22:45:32.139  1591  1591 I AlexaFocusInFocusChannel: Releasing all system focus for com.amazon.vizzini with client 7f2c16b
+04-03 22:45:32.139  1591  1591 I AlexaFocusInFocusChannel: No system focus to release for com.amazon.vizzini with client 7f2c16b
+04-03 22:45:32.141   529   624 I AmzPhoneWindowManager: Event is injected by system, discarding it! latency:7
+04-03 22:45:32.146 25398 25437 I AmazonAppstore.SharedPrefs: AFTV.SharedPref.Read.Latency: 0
+04-03 22:45:32.146 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: yacConfigHelperLazy.get().isInitialBootstrapSyncComplete() - true
+04-03 22:45:32.146 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: OrderBootstrapper: Triggering bootstrapping if needed
+04-03 22:45:32.149 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: OrderBootstrapper: Profile Library size: 19
+04-03 22:45:32.153  1591  1591 I CSM-ProactiveReporter: Context with namespace AudioFocusManager allowlisted? true. Cloud-configured allowlist available? true. Allowlisted by cloud: true, device override: false, arcus: false
+04-03 22:45:32.153  1591  1591 I ContextChangeObserver: Context namespace (AudioFocusManager) name (AudioFocusState) passed proactive check. Will schedule ChangeReport.
+04-03 22:45:32.153  1591  1591 I CSM-ProactiveReporter: Updating existing changeReport job for AudioFocusManager
+04-03 22:45:32.155 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: OrderBootstrapper: Profile Library size: 19
+04-03 22:45:32.156 25398 25437 I AmazonAppstore.SharedPrefs: AFTV.SharedPref.Read.Latency: 0
+04-03 22:45:32.156 25398 25437 I AmazonAppstore.Library/OrderBootstrapper: No need to bootstrap.
+04-03 22:45:32.161 25398 25437 I AmazonAppstore.ProfileLibraryManagerClientImpl: getProfileLibraryItems invoked
+04-03 22:45:32.163 25398 25437 I AmazonAppstore.Library/LibraryContentProvider: getLibraryMetadata called, librarySize: 19, giveOnlyApps: false
+04-03 22:45:32.163 25398 25437 I AmazonAppstore.Library/LibraryContentProvider: getAppResults called, librarySize: 19
+04-03 22:45:32.163 25398 25437 I AmazonAppstore.Library/LibraryContentProvider: getAppResults: lockerApps=13, discoveryApps=1, sideloadedApps=3
+04-03 22:45:32.191 25398 25570 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-03 22:45:32.191 25398 25570 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+04-03 22:45:32.193 25398 25570 I OpenGLRenderer: Initialized EGL, version 1.4
+04-03 22:45:32.194 25398 25522 I DaggerAndroid: tryInjectingWithSubComponent : napkinUiComponent
+04-03 22:45:32.247  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: Focus changed. Reason: FOCUS_CLEARED
+04-03 22:45:32.249  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: MediaStatus inactive or no media state, using default inactive context
+04-03 22:45:32.250  1591  1591 I SPCH-Cont_AlexaContextClient: Adding device context namespace: LocalMediaPlayer, name: PlaybackState
+04-03 22:45:32.254  1591 26448 I SPCH-SIM_SimDeviceContextContract: Adding device context for Alexa.ApplicationStateReporter.ForegroundApplication, called by com.amazon.vizzini
+04-03 22:45:32.261  1591  3359 I CSM-ProactiveReporter: Context with namespace Alexa.ApplicationStateReporter allowlisted? true. Cloud-configured allowlist available? true. Allowlisted by cloud: false, device override: true, arcus: false
+04-03 22:45:32.262  1591  3359 I ContextChangeObserver: Context namespace (Alexa.ApplicationStateReporter) name (ForegroundApplication) passed proactive check. Will schedule ChangeReport.
+04-03 22:45:32.262  1591  3359 I CSM-ProactiveReporter: Updating existing changeReport job for Alexa.ApplicationStateReporter
+04-03 22:45:32.274 25398 25522 I DaggerAndroid: Injected successfully with subComponent: napkinUiComponent
+04-03 22:45:32.328 25398 25398 I AmazonAppstore.PackageManagerUtils: NameNotFoundException thrown while determining if com.amazon.firetv.youtube is offloaded
+04-03 22:45:32.336  1591  1591 I SPCH-SIM_SimDeviceContextContract: Adding device context for LocalMediaPlayer.PlaybackState, called by com.amazon.vizzini
+04-03 22:45:32.341  1591  3359 I PSR-DeviceArcusAllowlistManager: isContextAllowlistedForChangeReport: LocalMediaPlayer.PlaybackState isRAEntitled=false isAllowedByConfig=true res=false
+04-03 22:45:32.341  1591  3359 I CSM-ProactiveReporter: Context with namespace LocalMediaPlayer allowlisted? false. Cloud-configured allowlist available? true. Allowlisted by cloud: false, device override: false, arcus: false
+04-03 22:45:32.352  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: Either something changed or this is a heartbeat event, so we need to update the server: { focus changed: true, context changed: true, heartbeat: false }
+04-03 22:45:32.354  1591  2897 E SPCH-MinervaSchemaStorage: No schema was found for source LocalMediaPlayer
+04-03 22:45:32.354  1591  2897 E SPCH-MinervaSchemaRetriever: No schema was found for metric StateUpdate in source LocalMediaPlayer
+04-03 22:45:32.363  1591  3359 W ContextChangeObserver: Context namespace (LocalMediaPlayer) name (PlaybackState) failed proactive check - interface check (FAILED) device policy check (FAILED) change valid check (PASSED) hard update check (PASSED)
+04-03 22:45:32.364 25398 25398 I AmazonAppstore.PackageManagerUtils: NameNotFoundException thrown while determining if com.ted.android.tv is offloaded
+04-03 22:45:32.368 25398 25398 I AmazonAppstore.PackageManagerUtils: NameNotFoundException thrown while determining if com.vevo.tv is offloaded
+04-03 22:45:32.430 25398 25411 I .amazon.venezi: Background concurrent copying GC freed 21690(1614KB) AllocSpace objects, 4(80KB) LOS objects, 50% free, 4MB/9MB, paused 2.841ms total 273.419ms
+04-03 22:45:32.440 25398 25602 I com.amazon.venezia/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:32.481   529   870 W Process : Unable to open /proc/0/status
+04-03 22:45:32.503   529   548 I ActivityManager: Start proc 26799:com.amazon.ceviche/u0a49 for content provider com.amazon.ceviche/.TrackEventsContentProvider
+04-03 22:45:32.534  1591  3359 I SPCH-SIM_SimStateMachine: Got AlexaEvent in ReadyState
+04-03 22:45:32.546   529   554 I ActivityManager: Displayed com.amazon.venezia/.grid.AppsGridLauncherActivity: +553ms
+04-03 22:45:32.559  1591  3979 I SPCH-SIM_SIMSCLSession: sendEvent Alexa:ChangeReport
+04-03 22:45:32.560  1591  3979 I DeviceEvent: CSMSIM#alexa_event#1#Alexa#ChangeReport#true#false
+04-03 22:45:32.561  1591  3979 I SPCH-SIM_RequestDataMapperController: Adding to mapper, new size 100
+04-03 22:45:32.562  1591  3979 I SPCH-EventMetadata: getEndpoint isEndpointSet => false
+04-03 22:45:32.573 26799 26805 I .amazon.cevich: Bumping SignalCatcher priority from 5 to 10
+04-03 22:45:32.577 26799 26799 E .amazon.cevich: Not starting debugger since process cannot load the jdwp agent.
+04-03 22:45:32.609  1591  8890 I AVSClient: [aa] I HTTP2Transport:sendMessagesAndPings:this=0xa3be3e00,connectionId=2637993210-1-25,engineType=1:sendingMessageRequest,m_state=CONNECTED
+04-03 22:45:32.612  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: MetricName, MessageRequestEnqueue
+04-03 22:45:32.613  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE counter metric: CounterValue, 1.0
+04-03 22:45:32.620  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: MetricName, MessageRequestDequeue
+04-03 22:45:32.620  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: NameSpace, Alexa
+04-03 22:45:32.620  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: Name, ChangeReport
+04-03 22:45:32.620  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE duration metric: TimerValue, 15
+04-03 22:45:32.620  1591  3817 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE counter metric: CounterValue, 0.0
+04-03 22:45:32.624  1591  2897 E SPCH-MinervaSchemaStorage: No schema was found for source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:32.624  1591  2897 E SPCH-MinervaSchemaRetriever: No schema was found for metric CounterValue in source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:32.626  1591  2897 E SPCH-MinervaSchemaStorage: No schema was found for source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:32.626  1591  2897 E SPCH-MinervaSchemaRetriever: No schema was found for metric CounterValue in source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:32.639   922 26627 I com.amazon.imp/TokenJobQueue[0]: Begin executing task GetToken:com.amazon.vizzini/com.amazon.dcp.sso.token.oauth.amazon.access_token
+04-03 22:45:32.639   922 26627 I com.amazon.imp/TokenJobQueue[0]: Scheduled running concurrent job GetToken:com.amazon.vizzini/com.amazon.dcp.sso.token.oauth.amazon.access_token.
+04-03 22:45:32.653   529   727 I LaunchTimeProcessor: warm_app_warm_transition_launch_time of com.amazon.venezia is 515ms with activity = com.amazon.venezia/.grid.AppsGridLauncherActivity, app_version = 428599010, prev_activity = com.mydramalife.tv/.MainActivity, isChild = false, context = S1T0A1D0I0L1E0M9999R80
+04-03 22:45:32.658   529   727 I LaunchTimeProcessor: warm_activity_launch_time of com.amazon.venezia is 515ms with activity = com.amazon.venezia/.grid.AppsGridLauncherActivity, app_version = 428599010, prev_activity = com.mydramalife.tv/.MainActivity, isChild = false, context = S1T0A1D0I0L1E0M9999R80
+04-03 22:45:32.658   922 26628 I com.amazon.imp/MAPApplicationInformationQueryer[0]: Populate change for remote MAP info.
+04-03 22:45:32.658   922 26628 I com.amazon.imp/MAPApplicationInformationQueryer[0]: CacheContainsPartialResults? true
+04-03 22:45:32.670   922 26628 I com.amazon.imp/TokenJobQueue[0]: Finish executing task GetToken:com.amazon.vizzini/com.amazon.dcp.sso.token.oauth.amazon.access_token.
+04-03 22:45:32.705  1591  8890 I AVSClient: [aa] I MessageRequestHandler:create:context=0xa3be3e34,messageRequest=0xa4556f40,connectionId=2637993210-1-25
+04-03 22:45:32.746   529   554 W AmazonProfileService: Active profile for the package xxx not present for customer Id xxx
+04-03 22:45:32.775  1591  8888 W AVSClient: [ac] W MetricEventBuilder:addDataPointFailed:reason=invalidDataPoint
+04-03 22:45:32.828   386   386 W MediaCodecLoggerService: One client application died 0xbeb9c880
+04-03 22:45:32.828   386   386 W MediaCodecLoggerService: [unregisterClientbyBinder] client 0xbeb9c880
+04-03 22:45:32.828   386   386 W MediaCodecLoggerService: [unregisterClientbyBinder] found client from death app
+04-03 22:45:32.829   386   386 W MediaCodecLoggerService: [unregisterClientbyBinder] still clients:0 listener:1 remaining
+04-03 22:45:32.830   393   859 E OMXNodeInstance: !!! Observer died. Quickly, do something, ... anything...
+04-03 22:45:32.831   529 18573 I WindowManager: WIN DEATH: Window{46c8c1e u0 com.mydramalife.tv/com.mydramalife.tv.MainActivity}
+04-03 22:45:32.832   529  1715 I ActivityManager: Process com.mydramalife.tv (pid 25805) has died: cch  CRE 
+04-03 22:45:32.834   277   277 I Zygote  : Process 25805 exited due to signal 9 (Killed)
+04-03 22:45:32.836   529   549 W libprocessgroup: kill(-25805, 9) failed: No such process
+04-03 22:45:32.837   529   549 I libprocessgroup: Successfully killed process cgroup uid 10234 pid 25805 in 2ms
+04-03 22:45:32.840   393 26558 I PPFramework:  flushAllBufQ
+04-03 22:45:32.876   529   624 W InputDispatcher: channel '46c8c1e com.mydramalife.tv/com.mydramalife.tv.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+04-03 22:45:32.876   529   624 E InputDispatcher: channel '46c8c1e com.mydramalife.tv/com.mydramalife.tv.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+04-03 22:45:32.877   393 26557 I PPFramework:  SetParameter nParamIndex = 5
+04-03 22:45:32.877   393 26557 I PPFramework: SetParameter mMode TO 16
+04-03 22:45:32.877   393 26557 I PPFramework: PPFw not in running state, ignore flush event
+04-03 22:45:32.877   393 26557 I PPFramework:  SetParameter nParamIndex = 5
+04-03 22:45:32.877   393 26557 I PPFramework: SetParameter mMode TO 0
+04-03 22:45:32.879   529 18573 W InputDispatcher: Attempted to unregister already unregistered input channel '46c8c1e com.mydramalife.tv/com.mydramalife.tv.MainActivity (server)'
+04-03 22:45:32.879   393 26558 I PPFramework:  SetParameter nParamIndex = 9
+04-03 22:45:32.880   393 26558 I PPFramework: SetParameter PP_PARAM_SEEK: 0
+04-03 22:45:32.881   217   217 E lowmemorykiller: Error writing /proc/26450/oom_score_adj; errno=22
+04-03 22:45:32.881   393 26558 I PPFramework:  flushAllBufQ
+04-03 22:45:32.881   393 26557 I PPFramework:  SetParameter nParamIndex = 5
+04-03 22:45:32.881   393 26557 I PPFramework: SetParameter mMode TO 16
+04-03 22:45:32.881   393 26557 I PPFramework: PPFw not in running state, ignore flush event
+04-03 22:45:32.881   393 26557 I PPFramework:  SetParameter nParamIndex = 5
+04-03 22:45:32.882   393 26557 I PPFramework: SetParameter mMode TO 0
+04-03 22:45:32.882   393 26558 I PPFramework:  SetParameter nParamIndex = 9
+04-03 22:45:32.882   393 26558 I PPFramework: SetParameter PP_PARAM_SEEK: 0
+04-03 22:45:32.897   393 26558 I BWC     : gpu_bw_ultra_set: 1, enable
+04-03 22:45:32.897   393 26558 I BWC     : Profile_Change:[BWCPT_VIDEO_PLAYBACK]:OFF,current concurrency is 0x0,DDR=,EMI scenario=CON_SCE_VP OFF
+04-03 22:45:32.915   834   834 I Zygote  : Process 26450 exited cleanly (0)
+04-03 22:45:32.928 25398 25437 W ziparchive: Unable to open '/data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk': No such file or directory
+04-03 22:45:32.928 25398 25437 E .amazon.venezi: Failed to open APK '/data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk' I/O error
+04-03 22:45:32.931   529  1715 I ActivityManager: Killing 26450:com.amazon.webview.chromium:sandboxed_process1/u0a234i25 (adj 0): isolated not needed
+04-03 22:45:32.932   529   549 W libprocessgroup: Failed to open process cgroup uid 99025 pid 26450: No such file or directory
+04-03 22:45:32.932   529   549 E libprocessgroup: Error encountered killing process cgroup uid 99025 pid 26450: No such file or directory
+04-03 22:45:32.938   529   554 W ActivityManager: setHasOverlayUi called on unknown pid: 25805
+04-03 22:45:32.946 26799 26799 I .amazon.cevich: The ClassLoaderContext is a special shared library.
+04-03 22:45:32.956  1591  8888 I AVSClient: [ac] I MimeResponseSink:onReceiveResponseCode:this=0xa3bdc710,connectionId=2637993210-1-25,id=AVSEvent-11611,responseCode=200
+04-03 22:45:32.956  1591  8888 I AVSClient: [ac] I MimeResponseSink:receivedRequestId:this=0xa3bdc710,connectionId=2637993210-1-25,id=AVSEvent-11611,value=x-amzn-requestid\: d979f598-d073-43a8-b4b3-374543f2c259
+04-03 22:45:32.956  1591  8888 I AVSClient: [ac] I MimeResponseSink:receivedRequestId:this=0xa3bdc710,connectionId=2637993210-1-25,id=AVSEvent-11611,value=x-amzn-requestid\: 0adddefffefa7cab-000071f2-1fc026de-f8ed31af1d8df00b-64f8f2cc-981
+04-03 22:45:32.962  1591  8888 I SPCH-SCL_MessageObserverImpl: MessageRequestObserver.onSendCompleted [CSM_b0e74fbd-cc03-4277-b0d9-552e4660203a_1775249132533.0..CSM_b0e74fbd-cc03-4277-b0d9-552e4660203a_1775249132533]: SUCCESS
+04-03 22:45:32.962  1591  8888 I SPCH-SIM_EventResponseHandler: Finish. Invoking EventCallback for SUCCESS
+04-03 22:45:32.962  1591  1591 I CSM-ProactiveReporter: Got result SUCCESS
+04-03 22:45:32.963  1591 26598 I CSM-ProactiveReporter: Uninterruptibly waiting for 400
+04-03 22:45:32.963  1591  8888 W AVSClient: [ac] W LibcurlHTTP2Connection:streamFinished:this=0xa3bfb8e0,streamId=AVSEvent-11611,result=Failed writing received data to disk/application,CURLcode=23
+04-03 22:45:32.981 26799 26799 I .amazon.cevich: The ClassLoaderContext is a special shared library.
+04-03 22:45:32.988 26799 26799 I .amazon.cevich: The ClassLoaderContext is a special shared library.
+04-03 22:45:32.990 25398 25437 W ResourcesManager: failed to preload asset path '/data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk'
+04-03 22:45:32.990 25398 25437 W ResourcesManager: java.io.IOException: Failed to load asset path /data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.content.res.ApkAssets.nativeLoad(Native Method)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.content.res.ApkAssets.<init>(ApkAssets.java:116)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:76)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:357)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ResourcesManager.access$000(ResourcesManager.java:65)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:146)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ResourcesManager.createApkAssetsSupplierNotLocked(ResourcesManager.java:824)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ResourcesManager.getResources(ResourcesManager.java:975)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:1974)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1429)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ApplicationPackageManager.getText(ApplicationPackageManager.java:1686)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.content.pm.PackageItemInfo.loadUnsafeLabel(PackageItemInfo.java:209)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.content.pm.PackageItemInfo.loadLabel(PackageItemInfo.java:199)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.app.ApplicationPackageManager.getApplicationLabel(ApplicationPackageManager.java:1731)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at amazon.content.pm.AmazonPackageManagerImpl.getApplicationLabel(AmazonPackageManagerImpl.java:693)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at com.amazon.mas.client.apps.AppMetadataRetriever.readFromPackageManager(AppMetadataRetriever.java:49)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at com.amazon.mas.client.apps.AppMetadataRetriever.createAppMetadataFromAppInfo(AppMetadataRetriever.java:84)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at com.amazon.mas.client.apps.LibraryMetadataRetriever.getLibraryMetadata(LibraryMetadataRetriever.java:195)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at com.amazon.venezia.profiles.library.ProfileLibraryManagerClientImpl.getProfileLibraryItems(ProfileLibraryManagerClientImpl.java:21)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at com.amazon.venezia.profiles.AppstoreProfilesManager.getProfileLibraryItems(AppstoreProfilesManager.java:135)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at com.amazon.venezia.grid.AppsGridAdapterController$4.doInBackground(AppsGridAdapterController.java:99)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at android.os.AsyncTask$2.call(AsyncTask.java:333)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-03 22:45:32.990 25398 25437 W ResourcesManager: 	at java.lang.Thread.run(Thread.java:764)
+04-03 22:45:32.991 25398 25437 W ziparchive: Unable to open '/data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk': No such file or directory
+04-03 22:45:32.991 25398 25437 E .amazon.venezi: Failed to open APK '/data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk' I/O error
+04-03 22:45:32.992 25398 25437 E ResourcesManager: failed to add asset path '/data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk'
+04-03 22:45:32.992 25398 25437 E ResourcesManager: java.io.IOException: Failed to load asset path /data/app/com.netflix.ninja-VrPRNRlimoO_EleRWVjjMQ==/base.apk
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.content.res.ApkAssets.nativeLoad(Native Method)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.content.res.ApkAssets.<init>(ApkAssets.java:116)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:76)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:357)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager.access$000(ResourcesManager.java:65)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:146)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager.createAssetManager(ResourcesManager.java:430)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager.createResourcesImpl(ResourcesManager.java:561)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager.getOrCreateResources(ResourcesManager.java:905)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ResourcesManager.getResources(ResourcesManager.java:976)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:1974)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1429)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ApplicationPackageManager.getText(ApplicationPackageManager.java:1686)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.content.pm.PackageItemInfo.loadUnsafeLabel(PackageItemInfo.java:209)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.content.pm.PackageItemInfo.loadLabel(PackageItemInfo.java:199)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.app.ApplicationPackageManager.getApplicationLabel(ApplicationPackageManager.java:1731)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at amazon.content.pm.AmazonPackageManagerImpl.getApplicationLabel(AmazonPackageManagerImpl.java:693)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at com.amazon.mas.client.apps.AppMetadataRetriever.readFromPackageManager(AppMetadataRetriever.java:49)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at com.amazon.mas.client.apps.AppMetadataRetriever.createAppMetadataFromAppInfo(AppMetadataRetriever.java:84)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at com.amazon.mas.client.apps.LibraryMetadataRetriever.getLibraryMetadata(LibraryMetadataRetriever.java:195)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at com.amazon.venezia.profiles.library.ProfileLibraryManagerClientImpl.getProfileLibraryItems(ProfileLibraryManagerClientImpl.java:21)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at com.amazon.venezia.profiles.AppstoreProfilesManager.getProfileLibraryItems(AppstoreProfilesManager.java:135)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at com.amazon.venezia.grid.AppsGridAdapterController$4.doInBackground(AppsGridAdapterController.java:99)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at android.os.AsyncTask$2.call(AsyncTask.java:333)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-03 22:45:32.992 25398 25437 E ResourcesManager: 	at java.lang.Thread.run(Thread.java:764)
+04-03 22:45:32.992 25398 25437 W PackageManager: Failure retrieving resources for com.netflix.ninja
+04-03 22:45:32.994 26799 26799 I .amazon.cevich: The ClassLoaderContext is a special shared library.
+04-03 22:45:33.078   393   859 I PPFramework:  deinit
+04-03 22:45:33.078   393   859 I PPFramework: PPFw not in running state, ignore deinit 
+04-03 22:45:33.078   393 26557 I PPFramework:  - run pp=0xaf6d5800 thread
+04-03 22:45:33.078   393   859 I HwdiFilter: ~PP_HWDI_Filter this= 0xAF697A00
+04-03 22:45:33.172 26799 26799 I com.amazon.ceviche/MAPInit: Initializing MAP (130050002 / MAPAndroidLib-1.3.43308.0) for app com.amazon.ceviche. MAP release version: 20250711N
+04-03 22:45:33.205 26799 26799 I com.amazon.ceviche/MetricsHelper: FireOS Minerva metrics is supported
+04-03 22:45:33.208 26799 26799 I com.amazon.ceviche/MAPInit: Running MAPInit on main thread: true
+04-03 22:45:33.211 26799 26819 E com.amazon.ceviche/PlatformUtils: Could not initialize FidoAuthenticatorJSBridge because Fido client could not be initialized
+04-03 22:45:33.254 26799 26819 W MinervaServiceWrapper: record : MinervaService not yet bound. Buffered Metric Event String. Buffer Size: 1
+04-03 22:45:33.269 26799 26819 I com.amazon.ceviche/IsolatedModeSwitcher: App does not support client driven runtime isolation.
+04-03 22:45:33.269 26799 26813 I CevicheService: [Binder:26799_3][ProfileInfoFetcher] Fetching active profile
+04-03 22:45:33.269 26799 26819 I com.amazon.ceviche/FeatureSetCache: Caching feature IsolateApplication as false
+04-03 22:45:33.272 26799 26819 I com.amazon.ceviche/ClientToCentralTrustLogicImpl: Current package is: com.amazon.ceviche. Directly trust central package: com.amazon.imp, since it is system MAP library
+04-03 22:45:33.273 26799 26813 I CevicheService: [Binder:26799_3][MetricsModule] Initializing Minerva Metrics Reporter
+04-03 22:45:33.274 26799 26813 I CevicheService: [Binder:26799_3][ProfileInfoFetcher] Valid active profile returned from APM on first attempt, saving profile info.
+04-03 22:45:33.274 26799 26813 I CevicheService: [Binder:26799_3][ActiveProfileInfo] Setting profile with type 1
+04-03 22:45:33.281 26799 26813 I CevicheService: [Binder:26799_3][ProfileInitializer] programId = PCA_FIRE_TV
+04-03 22:45:33.285 26799 26822 W MinervaServiceWrapper: record : MinervaService not yet bound. Buffered Metric Event String. Buffer Size: 2
+04-03 22:45:33.285   529  1715 I AmazonProfileService: Registering callback
+04-03 22:45:33.286 26799 26799 I CevicheService: [main][CevicheServiceApplication] onCreate: Initialized Ceviche Service (CevicheService-1.0.4311.0)
+04-03 22:45:33.289 26799 26819 W MinervaServiceWrapper: record : MinervaService not yet bound. Buffered Metric Event String. Buffer Size: 3
+04-03 22:45:33.290 26799 26823 I com.amazon.ceviche/DataStorageFactoryImpl: Creating new DataStorageFactoryImpl
+04-03 22:45:33.290 26799 26823 I com.amazon.ceviche/MAPInitTasks: Get DataStorage instance for initialization
+04-03 22:45:33.290 26799 26823 I com.amazon.ceviche/DataStorageFactoryImpl: Initializing new DataStorage
+04-03 22:45:33.292 26799 26823 I com.amazon.ceviche/IsolatedModeSwitcher: App does not support client driven runtime isolation.
+04-03 22:45:33.293 26799 26822 W MinervaServiceWrapper: record : MinervaService not yet bound. Buffered Metric Event String. Buffer Size: 4
+04-03 22:45:33.294 26799 26823 I com.amazon.ceviche/DeviceAttributeCache: Setting device attribute CentralAPK to true
+04-03 22:45:33.297 26799 26822 W MinervaServiceWrapper: record : MinervaService not yet bound. Buffered Metric Event String. Buffer Size: 5
+04-03 22:45:33.301 26799 26822 W MinervaServiceWrapper: record : MinervaService not yet bound. Buffered Metric Event String. Buffer Size: 6
+04-03 22:45:33.304 26799 26823 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.304 26799 26823 I com.amazon.ceviche/DataStorageFactoryImpl: Creating and using new CentralAccountManagerDataStorage
+04-03 22:45:33.307 26799 26823 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.309 26799 26823 I com.amazon.ceviche/LocalKeyValueStore: Create DE shared preference, OS supports direct boot.
+04-03 22:45:33.313 26799 26823 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.313 26799 26823 I com.amazon.ceviche/LocalKeyValueStore: Create DE shared preference, OS supports direct boot.
+04-03 22:45:33.313 26799 26823 I com.amazon.ceviche/MAPInitTasks: Initialize DataStorage instance
+04-03 22:45:33.313 26799 26823 I com.amazon.ceviche/MAPInitTasks: Setup DataStorage instance
+04-03 22:45:33.314 26799 26823 I com.amazon.ceviche/ClientToCentralTrustLogicImpl: Current package is: com.amazon.ceviche. Directly trust central package: com.amazon.imp, since it is system MAP library
+04-03 22:45:33.318 26799 26823 I com.amazon.ceviche/IsolatedModeSwitcher: App does not support client driven runtime isolation.
+04-03 22:45:33.338 26799 26823 I com.amazon.ceviche/TrustedPackageManager: Trying to use default signature based package trust logic. This should be on 3P device
+04-03 22:45:33.338   529   675 W Process : Unable to open /proc/0/status
+04-03 22:45:33.338 26799 26823 I com.amazon.ceviche/TrustedPackageManager: Setting package trust logic as: signature based package trust logic
+04-03 22:45:33.339 26799 26823 W .amazon.cevich: Class com.amazon.identity.auth.device.framework.AmazonDeviceInfo failed lock verification and will run slower.
+04-03 22:45:33.340 26799 26823 W .amazon.cevich: Common causes for lock verification issues are non-optimized dex code
+04-03 22:45:33.340 26799 26823 W .amazon.cevich: and incorrect proguard optimizations.
+04-03 22:45:33.356 26799 26823 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.356 26799 26823 I com.amazon.ceviche/LocalKeyValueStore: Create DE shared preference, OS supports direct boot.
+04-03 22:45:33.364   529   548 I ActivityManager: Start proc 26831:com.android.proxyhandler/u0a132 for service com.fireos.arcus.proxy/.ArcusProxy
+04-03 22:45:33.366 26799 26823 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.391 25398 25437 W .amazon.venezi: Unknown chunk type '200'.
+04-03 22:45:33.401  1591 26598 I CSM-ProactiveReporter: Job is done
+04-03 22:45:33.405 26831 26831 E id.proxyhandle: Not starting debugger since process cannot load the jdwp agent.
+04-03 22:45:33.405 26831 26841 I id.proxyhandle: Bumping SignalCatcher priority from 5 to 10
+04-03 22:45:33.423 26799 26825 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.423 26799 26825 I com.amazon.ceviche/LocalKeyValueStore: Create DE shared preference, OS supports direct boot.
+04-03 22:45:33.423 26799 26825 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.438 26799 26823 I com.amazon.ceviche/ClientToCentralTrustLogicImpl: Current package is: com.amazon.ceviche. Directly trust central package: com.amazon.imp, since it is system MAP library
+04-03 22:45:33.440 26799 26823 I com.amazon.ceviche/ClientToCentralTrustLogicImpl: Current package is: com.amazon.ceviche. Directly trust central package: com.amazon.imp, since it is system MAP library
+04-03 22:45:33.442 26799 26823 I com.amazon.ceviche/MAPInitTasks: Start update legacy authportal domain in database if needed
+04-03 22:45:33.447 26799 26825 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.448 26799 26825 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.450 26831 26831 I id.proxyhandle: The ClassLoaderContext is a special shared library.
+04-03 22:45:33.457 26799 26851 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.458 26799 26851 I com.amazon.ceviche/LocalKeyValueStore: Create DE shared preference, OS supports direct boot.
+04-03 22:45:33.458 26799 26851 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.491 26799 26851 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.491 26799 26851 I com.amazon.ceviche/LocalKeyValueStore: Create DE shared preference, OS supports direct boot.
+04-03 22:45:33.491 26799 26851 I com.amazon.ceviche/ClientSideAmazonPlatformDependencyImpl: isAmazonDevice() in ClientSideAmazonPlatformDependencyImpl is called
+04-03 22:45:33.517 26799 26851 I Karma   : I am getting created
+04-03 22:45:33.519 26799 26851 I FTVRoutingUtils: Routing app is enabled.
+04-03 22:45:33.633 25398 25437 I AmazonAppstore.Library/LibraryContentProvider: Filtering out app because it is a non-2P system app.
+04-03 22:45:33.636 25398 25437 I AmazonAppstore.Library/LibraryContentProvider: getLibraryMetadata: retrieved 19 app results
+04-03 22:45:33.636 25398 25437 I AmazonAppstore.ChannelMetadataRetriever: getChannelsFromDatabase called
+04-03 22:45:33.643 25398 25437 I AmazonAppstore.ChannelMetadataRetriever: getChannelsFromDatabase: returning 0 channels
+04-03 22:45:33.643 25398 25437 I AmazonAppstore.Library/ShortcutMetadataRetriever: getShortcuts called
+04-03 22:45:33.645 25398 25437 I AmazonAppstore.Library/ShortcutMetadataRetriever: Appstore has the permission needed to launch a resolved activity.
+04-03 22:45:33.647 25398 25437 I AmazonAppstore.Library/ShortcutMetadataRetriever: Appstore has the permission needed to launch a resolved activity.
+04-03 22:45:33.647 25398 25437 I AmazonAppstore.CORPolicy: Forcing isFullExperience to true, as that is the only supported experience.
+04-03 22:45:33.647 25398 25437 I AmazonAppstore.Library/ShortcutMetadataRetriever: getShortcuts: returning 2 shortcuts
+04-03 22:45:33.647 25398 25437 I AmazonAppstore.SharedPrefs: AFTV.SharedPref.Read.Latency: 0
+04-03 22:45:33.648 25398 25437 I AmazonAppstore.TvServiceMetadataRetriever: getSelectedTvServices: returning 0 selected providers
+04-03 22:45:33.653 25398 25437 W AmazonAppstore.Library/LibraryInOrder: Failed to find channel (null), returning -1 for position.
+04-03 22:45:33.654 25398 25437 I chatty  : uid=10077(com.amazon.venezia) LONG-BGPool #1 identical 11 lines
+04-03 22:45:33.654 25398 25437 W AmazonAppstore.Library/LibraryInOrder: Failed to find channel (null), returning -1 for position.
+04-03 22:45:33.654 25398 25437 I AmazonAppstore.Library/LibraryContentProvider: getLibraryMetadata: channels=19, shortcuts=19, tvServices=19, tiles=19
+04-03 22:45:33.662 25398 25437 I AmazonAppstore.ProfileLibraryManagerClientImpl: getProfileLibraryItems returning library size: 18
+04-03 22:45:33.663 25398 25437 I AmazonAppstore.AppsGridAdapterController: Loading apps grid: apps manager took (1544), naatyam filter took (1)
+04-03 22:45:33.663 25398 25437 I AmazonAppstore.YACMinervaMetrics: Emitting Perf Metric with : GridLoad.AppManager Value : 1544ms
+04-03 22:45:33.664 25398 25437 I AmazonAppstore.CORPolicy: Forcing isFullExperience to true, as that is the only supported experience.
+04-03 22:45:33.665 25398 25437 I AmazonAppstore.YACMinervaMetrics: Emitting Perf Metric with : GridLoad.NaatyamFilter Value : 1ms
+04-03 22:45:33.666 25398 25437 I AmazonAppstore.CORPolicy: Forcing isFullExperience to true, as that is the only supported experience.
+04-03 22:45:33.668 25398 25437 I AmazonAppstore.YACMinervaMetrics: Emitting Perf Metric with : GridLoad.CreateGrid Value : 5ms
+04-03 22:45:33.669 25398 25437 I AmazonAppstore.CORPolicy: Forcing isFullExperience to true, as that is the only supported experience.
+04-03 22:45:33.674 25398 25398 I AmazonAppstore.PerfUtils: Emitting YAC.WarmStart Metric, timeTaken: 1585
+04-03 22:45:33.674 25398 25398 I AmazonAppstore.YACMinervaMetrics: Emitting Perf Metric with : GridFragment.OnGridUpdated Value : 0ms
+04-03 22:45:33.676 25398 25398 I AmazonAppstore.CORPolicy: Forcing isFullExperience to true, as that is the only supported experience.
+04-03 22:45:33.677 25398 25398 I AmazonAppstore.AppsGridAdapterController: Grid successfully updated!
+04-03 22:45:33.679   529  5796 I ActivityManager: Fully drawn com.amazon.venezia/.grid.AppsGridLauncherActivity: +1s701ms
+04-03 22:45:33.680   529   727 I LaunchTimeProcessor: warm_app_warm_transition_draw_time of com.amazon.venezia is 1648ms with activity = com.amazon.venezia/.grid.AppsGridLauncherActivity, app_version = 428599010, prev_activity = com.mydramalife.tv/.MainActivity, isChild = false, context = S1T0A1D0I0L0E0M900R80
+04-03 22:45:33.682 25398 26876 I AmazonAppstore.YACMinervaMetrics: Emitting Perf Metric with : GridLoad.PostExecute Value : 12ms
+04-03 22:45:33.683 25398 26876 I AmazonAppstore.CORPolicy: Forcing isFullExperience to true, as that is the only supported experience.
+04-03 22:45:33.683   529   727 I LaunchTimeProcessor: warm_activity_draw_time of com.amazon.venezia is 1648ms with activity = com.amazon.venezia/.grid.AppsGridLauncherActivity, app_version = 428599010, prev_activity = com.mydramalife.tv/.MainActivity, isChild = false, context = S1T0A1D0I0L0E0M900R80
+04-03 22:45:33.850 26799 26851 E System  : TRACE Starting certificate trust
+04-03 22:45:34.106 26799 26851 I CevicheService: [CevicheBatchPurgeTransport][HttpBatchTransporter] Response code: 200
+04-03 22:45:34.106 26799 26851 I CevicheService: [CevicheBatchPurgeTransport][HttpBatchTransporter] Response body: {}
+04-03 22:45:34.859  1591  1591 I DeviceEvent: CSMSIM#alexa_event_no_callback#0#LocalMediaPlayer#PlaybackState
+04-03 22:45:34.860  1591  3359 I SPCH-SIM_SimStateMachine: Got AlexaEvent in ReadyState
+04-03 22:45:34.861  1591  3979 I SPCH-SIM_SIMSCLSession: sendEvent LocalMediaPlayer:PlaybackState
+04-03 22:45:34.862  1591  3979 I DeviceEvent: CSMSIM#alexa_event#1#LocalMediaPlayer#PlaybackState#true#true
+04-03 22:45:34.862  1591  3979 I SPCH-SIM_RequestDataMapperController: Adding to mapper, new size 100
+04-03 22:45:34.875  1591  8890 I AVSClient: [aa] I HTTP2Transport:sendMessagesAndPings:this=0xa3be3e00,connectionId=2637993210-1-25,engineType=1:sendingMessageRequest,m_state=CONNECTED
+04-03 22:45:34.875  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: MetricName, MessageRequestEnqueue
+04-03 22:45:34.876  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE counter metric: CounterValue, 1.0
+04-03 22:45:34.876  1591  2897 E SPCH-MinervaSchemaStorage: No schema was found for source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:34.876  1591  2897 E SPCH-MinervaSchemaRetriever: No schema was found for metric CounterValue in source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:34.878   922 26627 I com.amazon.imp/TokenJobQueue[0]: Begin executing task GetToken:com.amazon.vizzini/com.amazon.dcp.sso.token.oauth.amazon.access_token
+04-03 22:45:34.878   922 26628 I com.amazon.imp/MAPApplicationInformationQueryer[0]: Populate change for remote MAP info.
+04-03 22:45:34.878   922 26627 I com.amazon.imp/TokenJobQueue[0]: Scheduled running concurrent job GetToken:com.amazon.vizzini/com.amazon.dcp.sso.token.oauth.amazon.access_token.
+04-03 22:45:34.878   922 26628 I com.amazon.imp/MAPApplicationInformationQueryer[0]: CacheContainsPartialResults? true
+04-03 22:45:34.878  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: MetricName, MessageRequestDequeue
+04-03 22:45:34.878  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: NameSpace, LocalMediaPlayer
+04-03 22:45:34.878  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE metadata: Name, PlaybackState
+04-03 22:45:34.878  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE duration metric: TimerValue, 0
+04-03 22:45:34.878  1591  3814 I AvsMetricRecorder: ACL_MESSAGE_REQUEST_QUEUE counter metric: CounterValue, 0.0
+04-03 22:45:34.880  1591  2897 E SPCH-MinervaSchemaStorage: No schema was found for source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:34.880  1591  2897 E SPCH-MinervaSchemaRetriever: No schema was found for metric CounterValue in source ACL_MESSAGE_REQUEST_QUEUE
+04-03 22:45:34.881   922 26628 I com.amazon.imp/TokenJobQueue[0]: Finish executing task GetToken:com.amazon.vizzini/com.amazon.dcp.sso.token.oauth.amazon.access_token.
+04-03 22:45:34.883  1591  8890 I AVSClient: [aa] I MessageRequestHandler:create:context=0xa3be3e34,messageRequest=0xa4557e40,connectionId=2637993210-1-25
+04-03 22:45:34.886  1591  8888 W AVSClient: [ac] W MetricEventBuilder:addDataPointFailed:reason=invalidDataPoint
+04-03 22:45:35.107  1591  8888 I AVSClient: [ac] I MimeResponseSink:onReceiveResponseCode:this=0xa3bdc710,connectionId=2637993210-1-25,id=AVSEvent-11613,responseCode=204
+04-03 22:45:35.107  1591  8888 I AVSClient: [ac] I MimeResponseSink:receivedRequestId:this=0xa3bdc710,connectionId=2637993210-1-25,id=AVSEvent-11613,value=x-amzn-requestid\: dbd9f675-987c-4bdf-a386-7228e2e9f4b7
+04-03 22:45:35.107  1591  8888 I AVSClient: [ac] I MimeResponseSink:receivedRequestId:this=0xa3bdc710,connectionId=2637993210-1-25,id=AVSEvent-11613,value=x-amzn-requestid\: 0adddefffefa7cab-000071f2-1fc026de-f8ed31af1d8df00b-64f8f2cc-983
+04-03 22:45:35.108  1591  8888 I SPCH-SCL_MessageObserverImpl: MessageRequestObserver.onSendCompleted [CSM_ba71740f-19cb-4c92-a2b0-1a19c2e8421d_1775249134860.0..CSM_ba71740f-19cb-4c92-a2b0-1a19c2e8421d_1775249134860]: SUCCESS_NO_CONTENT
+04-03 22:45:35.109  1591  8888 I SPCH-SIM_EventResponseHandler: Finish. Invoking EventCallback for SUCCESS_NO_CONTENT
+04-03 22:45:35.109  1591  3359 I SPCH-SIM_SimStateMachine: Got EndEventResponseEvent in ReadyState
+04-03 22:45:35.111  1591  3359 I SPCH-SIM_SIMState: Ignoring EndEventResponseEvent
+04-03 22:45:35.187   319 17570 I Node    : dolby-audio-meter, AdapterPcmOut adapter audio meter: channel 0; audio level: 0.000
+04-03 22:45:35.187   319 17570 I Node    : dolby-audio-meter, AdapterPcmOut adapter audio meter: channel 1; audio level: 0.000
+04-03 22:45:36.938   529   552 I EthernetTracker: interfaceLinkStateChanged, iface: wlan0, up: true
+04-03 22:45:37.032  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): is2g=0, is11ac=1, is11ax=0, chan_bw=80, nss=2, bcn_rssi=-61, data_rssi=-61, tx_ok=1568511, tx_failed=719007, cca_idle_pct=96
+04-03 22:45:37.032  1310  1310 I main.wifi_score: dump_wifi_score_ctxt(): last_tx_stats: sgi=0, pream=2, mcs=5, ss=2, bw=2
+04-03 22:45:37.032  1310  1310 I main.wifi_score: rate correction orig per/mcs/bw 35/5/2, new per/mcs/bw 5/4/2
+04-03 22:45:37.032  1310  1310 I main.wifi_score: cca_idle 96%, bcn_rssi -61, data_rssi -61, per 5% (ok=20, failed=11), AC MCS 4, BW 2 SS 2  350mbps, AMPDU length 64, dur 2544us UDP tput 284mbps.
+04-03 22:45:37.032  1310  1310 I main.wifi_score: Score 6, mcs 40 (phyrate cur/min/avg/max= 350/80/395/780 mbps), expected  UDP throughput cur/min/avg/max= 284/60/314/500 mbps.
+04-03 22:45:37.124  1591  1591 I SPCH-Cont_ExternalPlaybackStateManager: MediaStatus inactive or no media state, using default inactive context
+04-03 22:45:37.125  1591  1591 I SPCH-Cont_AlexaContextClient: Adding device context namespace: LocalMediaPlayer, name: PlaybackState
+04-03 22:45:37.126  1591  1591 I SPCH-SIM_SimDeviceContextContract: Adding device context for LocalMediaPlayer.PlaybackState, called by com.amazon.vizzini
