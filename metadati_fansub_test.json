@@ -1,5 +1,48 @@
 [
   {
+    "id_progetto": "film-corea-the-beauty-inside-sub-ita-2015-001",
+    "tipo": "film",
+    "titolo": "The Beauty Inside sub ita (2015)",
+    "descrizione": "È un film fantasy romantico sudcoreano diretto da Baek Jong-yeol e basato sull’omonima web serie americana del 2012. La trama ruota attorno a Kim Woo-jin, un uomo che ogni mattina si sveglia in un corpo diverso, cambiando età, genere e nazionalità. La sua vita solitaria cambia radicalmente quando incontra Hong Yi-soo, una commessa di un negozio di mobili, e se ne innamora, dovendo affrontare l'impossibile sfida di farsi riconoscere ogni giorno dalla donna che ama.",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Live Action",
+      "Romantico",
+      "Fantasy"
+    ],
+    "attori": [
+      "Han Hyo-Joo",
+      "Kim Dae-Myung",
+      "Do Ji-Han",
+      "Bae Sung-Woo",
+      "Park Shin-Hye",
+      "Lee Beom-Soo",
+      "Park Seo-Joon",
+      "Kim Sang-Ho",
+      "Chun Woo-Hee",
+      "Ueno Juri",
+      "Lee Jae-Joon",
+      "Kim Min-Jae",
+      "Lee Hyun-Woo",
+      "Cho Dal-Hwan",
+      "Lee Jin-Wook",
+      "Seo Kang-Joon",
+      "Kim Hee-Won",
+      "Lee Dong-Wook",
+      "Go Ah-Sung",
+      "Kim Joo-Hyuk",
+      "Yoo Yeon-Seok"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/05/the-beauty-inside-movie.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The%20Beauty%20Inside.mp4"
+    }
+  },
+  {
     "id_progetto": "film-giappone-xxxholic-sub-ita-2022-001",
     "tipo": "film",
     "titolo": "xxxHOLiC sub ita (2022)",
