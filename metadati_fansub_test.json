@@ -1,5 +1,31 @@
 [
   {
+    "id_progetto": "film-cina-upcoming-summer-sub-ita-2021-001",
+    "tipo": "film",
+    "titolo": "Upcoming Summer sub ita (2021)",
+    "descrizione": "È un film romantico cinese diretto da Leste Chen. La trama segue Chen Chen, una studentessa modello che fallisce l'esame di ammissione all'università, e Zheng Yu Xing, un giovane dallo spirito libero appassionato di musica elettronica. I due si incontrano a causa di una bugia raccontata da Chen Chen e, mentre cercano di gestire le aspettative dei genitori e i segreti del cuore, instaurano un legame profondo che li aiuterà ad affrontare le sfide dell'età adulta.",
+    "macro_categoria": "film",
+    "sub_categoria": "CINA",
+    "generi": [
+      "14+",
+      "Musica",
+      "Gioventù",
+      "Romantico"
+    ],
+    "attori": [
+      "Zhang Zi-Feng",
+      "Leo Wu",
+      "Hao Lei",
+      "Zu Feng",
+      "Liu Dan"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/05/upcoming-summer.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/CINA/upcoming%20summer.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-the-beauty-inside-sub-ita-2015-001",
     "tipo": "film",
     "titolo": "The Beauty Inside sub ita (2015)",
