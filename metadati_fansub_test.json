@@ -1,5 +1,31 @@
 [
   {
+    "id_progetto": "film-giappone-kokuho-sub-ita-2025-001",
+    "tipo": "film",
+    "titolo": "Kokuho sub ita (2025)",
+    "descrizione": "Nel Giappone del dopoguerra, Kikuo nasce in una famiglia yakuza. Dopo aver assistito all'omicidio del padre, viene accolto da un celebre attore di kabuki che ne intuisce il talento straordinario. Crescendo insieme al figlio del suo mentore, Shunsuke, tra rivalità accesa e legame indissolubile, Kikuo intraprende un viaggio lungo cinquant'anni verso il riconoscimento più alto: diventare un \"tesoro nazionale\"...",
+    "macro_categoria": "film",
+    "sub_categoria": "Giappone",
+    "generi": [
+      "14+",
+      "Storico",
+      "Drammatico",
+      "Live Action"
+    ],
+    "attori": [
+      "Yoshizawa Ryo",
+      "Yokohama Ryusei",
+      "Watanabe Ken",
+      "Terajima Shinobu",
+      "Takahata Mitsuki"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/06/81dkml_4f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/GIAPPONE/kokuho-2025.mp4"
+    }
+  },
+  {
     "id_progetto": "film-giappone-5-centimeters-per-second-sub-ita-20-001",
     "tipo": "film",
     "titolo": "5 Centimeters per Second sub ita (2025)",
