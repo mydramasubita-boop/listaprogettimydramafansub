@@ -1,5 +1,32 @@
 [
   {
+    "id_progetto": "film-corea-number-one-sub-ita-2026-001",
+    "tipo": "film",
+    "titolo": "Number One sub ita (2026)",
+    "descrizione": "Ha-min ha diciotto anni quando inizia a vedere un numero davanti agli occhi ogni volta che mangia un pasto cucinato da sua madre. Il numero scende di uno ad ogni boccone. Quando capisce che arrivare a zero significherà la morte di lei, la sua vita cambia per sempre: dovrà trovare un modo per proteggere sua madre... senza che lei lo sappia...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "Fantasy",
+      "Drammatico",
+      "Famiglia",
+      "Live Action"
+    ],
+    "attori": [
+      "Choi Woo Shik",
+      "Jang Hye Jin",
+      "Gong Seung Yeon",
+      "Kwon Da Ham",
+      "Yoo Jae Myung",
+      "Jang Yeon Woo"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/06/number_one_2026.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Number.One.2026.mp4"
+    }
+  },
+  {
     "id_progetto": "film-cina-under-the-hawthorn-tree-sub-ita-201-001",
     "tipo": "film",
     "titolo": "Under the Hawthorn Tree sub ita (2010)",
