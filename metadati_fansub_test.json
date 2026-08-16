@@ -1,5 +1,33 @@
 [
   {
+    "id_progetto": "film-corea-salmokji-whispering-water-sub-ita-2-001",
+    "tipo": "film",
+    "titolo": "Salmokji: Whispering Water sub ita (2026)",
+    "descrizione": "Un'immagine catturata da Street View mostra una figura misteriosa nei pressi di Salmokji, un remoto bacino idrico. È necessario effettuare un nuovo sopralluogo per gestire la situazione, ma un senso di terrore aleggia su quel luogo e nessuno vuole tornare. Su In si fa carico del compito al posto del suo collega senior, che è misteriosamente scomparso dopo esserci stato. Le riprese si trasformano presto in un incubo: i membri della troupe iniziano a vivere fenomeni inspiegabili, mentre qualcosa di oscuro emerge dalle profondità del bacino...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "14+",
+      "Horror",
+      "Live Action",
+      "Mistero",
+      "Thriller"
+    ],
+    "attori": [
+      "Kim Hye Yoon",
+      "Lee Jong Won",
+      "Kim Jun Han",
+      "Kim Young Sung",
+      "Oh Dong Min",
+      "Yoon Jae Chan"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/08/salmokji.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Salmokji.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-number-one-sub-ita-2026-001",
     "tipo": "film",
     "titolo": "Number One sub ita (2026)",
