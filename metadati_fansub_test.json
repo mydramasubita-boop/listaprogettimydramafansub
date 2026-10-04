@@ -1,5 +1,46 @@
 [
   {
+    "id_progetto": "mini-corea-httpsmydramaaltervistaorgmydramatv--001",
+    "tipo": "serie",
+    "titolo": "https://mydrama.altervista.org/mydramatv-app/",
+    "descrizione": "Byul è una mietitrice di anime il cui compito è guidare i defunti nell'aldilà. Quando incontra Woo Joo, il suo cantante preferito, destinato a morire presto, decide di fare di tutto per salvarlo. In questo viaggio che trascende spazio e tempo, scopre la luce nella propria anima e l'importanza dei legami tra le persone...",
+    "macro_categoria": "mini-e-web-drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Soprannaturale",
+      "Romantico",
+      "Musica"
+    ],
+    "attori": [
+      "Suho",
+      "Ji Woo",
+      "Park Se Mi",
+      "Shin Hyun Soo",
+      "Han Da Ra",
+      "Ko Kyu Pil"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/star-of-the-universe.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 01",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/the.universes.star/The.Universes.Star.E01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 02",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/the.universes.star/The.Universes.Star.E02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 03",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/the.universes.star/The.Universes.Star.E03.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "altro-cortometraggi-light-sub-ita-2021--001",
     "tipo": "film",
     "titolo": "Light sub ita (2021)",
