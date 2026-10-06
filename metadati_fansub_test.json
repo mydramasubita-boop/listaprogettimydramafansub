@@ -1,5 +1,41 @@
 [
   {
+    "id_progetto": "drama-corea-kidnap-game-sub-ita-2026-001",
+    "tipo": "serie",
+    "titolo": "kiDnap GAME sub ita (2026)",
+    "descrizione": "In sette città asiatiche diverse, sette persone vengono rapite simultaneamente. Le famiglie delle vittime ricevono una email con una sola domanda: \"Fin dove sei disposto ad arrivare per salvare chi ami?\" Ogni partecipante riceve istruzioni diverse e deve superare prove estreme per riportare in salvo il proprio caro. Un death game senza confini geografici, senza regole condivise e senza pietà...",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Azione",
+      "Crimine",
+      "Drammatico",
+      "Live Action",
+      "ONAIR",
+      "Thriller",
+      "Crime"
+    ],
+    "attori": [
+      "Sakaguchi Kentaro",
+      "Lee Joon Gi",
+      "Ko Chia Yen",
+      "Stanley Yau",
+      "Carrie Wong",
+      "Joel Torre"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/Poster-di-Kidnap-Game-su-parete-industriale.png",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 01",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/GIAPPONE/kidnap.game/kidnap.game.01.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "drama-corea-call-it-love-sub-ita-2023-001",
     "tipo": "serie",
     "titolo": "Call It Love sub ita (2023)",
