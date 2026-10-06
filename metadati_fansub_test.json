@@ -1,5 +1,96 @@
 [
   {
+    "id_progetto": "drama-corea-call-it-love-sub-ita-2023-001",
+    "tipo": "serie",
+    "titolo": "Call It Love sub ita (2023)",
+    "descrizione": "Dopo la morte del padre, Sim U Ju si ritrova cacciata di casa dalla sua amante. Decisa a vendicarsi, si avvicina con intenzioni calcolate a Han Dong Jin, il figlio dell'amante. Ma più lo conosce, più capisce che quello che prova è qualcosa che non aveva previsto. E anche lui, solo e chiuso nel suo mondo, non si aspettava di essere travolto così...",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Romantico"
+    ],
+    "attori": [
+      "Kim Young Kwang",
+      "Lee Sung Kyoung",
+      "Sung Jun",
+      "Ahn Hee Yeon",
+      "Kim Ye Won",
+      "Jeon Seok Ho"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/1wm5R5_4f.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/call.it.love/Call.It.Love.16.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "mini-corea-httpsmydramaaltervistaorgmydramatv--001",
     "tipo": "serie",
     "titolo": "https://mydrama.altervista.org/mydramatv-app/",
