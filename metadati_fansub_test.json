@@ -13,8 +13,7 @@
       "Drammatico",
       "Live Action",
       "ONAIR",
-      "Thriller",
-      "Crime"
+      "Thriller"
     ],
     "attori": [
       "Sakaguchi Kentaro",
@@ -178,7 +177,7 @@
       "18+",
       "Abusi",
       "BL",
-      "Crime",
+      "Crimine",
       "Romantico",
       "Violenza"
     ],
@@ -1087,7 +1086,7 @@
     "sub_categoria": "Corea",
     "generi": [
       "14+",
-      "Musicale",
+      "Musica",
       "Romantico",
       "Scolastico"
     ],
@@ -2631,7 +2630,8 @@
       "Fantasy",
       "Guerra",
       "Romantico",
-      "Storico"
+      "Storico",
+      "Viaggi nel Tempo"
     ],
     "attori": [
       "Fukuhara Haruka",
@@ -2652,7 +2652,7 @@
     "sub_categoria": "Giappone",
     "generi": [
       "14+",
-      "Musicale",
+      "Musica",
       "Vita"
     ],
     "attori": [
@@ -2680,7 +2680,7 @@
       "14+",
       "Commedia",
       "Vita",
-      "Yuri"
+      "BL"
     ],
     "attori": [
       "Ashida Mana",
@@ -2873,7 +2873,7 @@
       "Drammatico",
       "Live Action",
       "Scolastico",
-      "Sovrannaturale"
+      "Soprannaturale"
     ],
     "attori": [
       "Emoto Tokio",
@@ -2902,7 +2902,7 @@
       "Drammatico",
       "Live Action",
       "Scolastico",
-      "Sovrannaturale"
+      "Soprannaturale"
     ],
     "attori": [
       "Emoto Tokio",
@@ -3094,7 +3094,7 @@
       "Drammatico",
       "Live Action",
       "Scolastico",
-      "Sovrannaturale"
+      "Soprannaturale"
     ],
     "attori": [
       "Hiroya Shimizu",
@@ -3365,10 +3365,10 @@
     "sub_categoria": "CINA",
     "generi": [
       "14+",
-      "Crime",
-      "Drammatico",
-      "Scolastico",
-      "Thriller"
+      "Psicologico",
+      "Gioventù",
+      "Romantico",
+      "Drammatico"
     ],
     "attori": [
       "Zhou Dong Yu",
@@ -3715,7 +3715,7 @@
       "14+",
       "Commedia",
       "Romantico",
-      "Scuola"
+      "Scolastico"
     ],
     "attori": [
       "Darren Wang",
@@ -3823,8 +3823,7 @@
       "18+",
       "Fantascienza",
       "Thriller",
-      "Mistero",
-      "Distopico"
+      "Mistero"
     ],
     "attori": [
       "Lee Soo Hyuk",
@@ -3871,7 +3870,6 @@
     "sub_categoria": "COREA",
     "generi": [
       "14+",
-      "Giallo",
       "Horror",
       "Storico",
       "Thriller"
@@ -4290,6 +4288,7 @@
       "14+",
       "Affari",
       "Thriller",
+      "Politico",
       "Vendetta"
     ],
     "attori": [
@@ -4531,7 +4530,6 @@
     "generi": [
       "14+",
       "Fantascienza",
-      "Giallo",
       "Mistero",
       "Thriller"
     ],
@@ -4579,7 +4577,8 @@
     "sub_categoria": "COREA",
     "generi": [
       "14+",
-      "Crime",
+      "Crimine",
+      "Storia Vera",
       "Thriller"
     ],
     "attori": [
@@ -4652,7 +4651,7 @@
     "generi": [
       "14+",
       "Azione",
-      "Crime",
+      "Crimine",
       "Mistero",
       "Thriller"
     ],
@@ -4744,7 +4743,7 @@
       "Romantico",
       "Storico",
       "Thriller",
-      "Tragico"
+      "Drammatico"
     ],
     "attori": [
       "Jung Hae In",
@@ -5028,7 +5027,7 @@
       "Fantasy",
       "Romantico",
       "Storico",
-      "Tragico"
+      "Drammatico"
     ],
     "attori": [
       "Lee Joon Gi",
@@ -5324,7 +5323,7 @@
       "Mistero",
       "Romantico",
       "Thriller",
-      "Tragico"
+      "Drammatico"
     ],
     "attori": [
       "Seo In Guk",
@@ -5949,7 +5948,6 @@
     "sub_categoria": "CORTOMETRAGGI",
     "generi": [
       "14+",
-      "Cortometraggio",
       "Scolastico",
       "Sportivo",
       "Vita"
@@ -5973,7 +5971,6 @@
     "sub_categoria": "CORTOMETRAGGI",
     "generi": [
       "14+",
-      "Cortometraggio",
       "Mistero",
       "Thriller"
     ],
@@ -5997,7 +5994,6 @@
     "sub_categoria": "CORTOMETRAGGI",
     "generi": [
       "14+",
-      "Cortometraggio",
       "Drammatico",
       "Vita"
     ],
@@ -6021,9 +6017,7 @@
     "generi": [
       "14+",
       "Fantasy",
-      "Promozionale",
-      "Romance",
-      "Webtoon"
+      "Romantico"
     ],
     "attori": [
       "Han Soo Hee",
@@ -6046,7 +6040,6 @@
     "generi": [
       "14+",
       "Commedia",
-      "Mini Drama",
       "Romantico"
     ],
     "attori": [
@@ -6086,8 +6079,6 @@
     "generi": [
       "14+",
       "Azione",
-      "Giallo",
-      "Mini Drama",
       "Mistero",
       "Thriller"
     ],
@@ -6129,7 +6120,6 @@
       "14+",
       "Commedia",
       "Fantasy",
-      "Mini Drama",
       "Romantico"
     ],
     "attori": [
@@ -6162,8 +6152,7 @@
     "generi": [
       "14+",
       "Commedia",
-      "Romantico",
-      "Raccolta"
+      "Romantico"
     ],
     "attori": [
       "Shin Jun Seop",
@@ -6295,8 +6284,7 @@
       "14+",
       "Fantasy",
       "Mistero",
-      "Romantico",
-      "Prologo"
+      "Romantico"
     ],
     "attori": [
       "Moon Bin (ASTRO)",
@@ -6372,7 +6360,6 @@
     "generi": [
       "14+",
       "Commedia",
-      "Mini Drama",
       "Romantico"
     ],
     "attori": [
@@ -6414,7 +6401,6 @@
       "Commedia",
       "Fantasy",
       "Cucina",
-      "Idol Drama",
       "Vita"
     ],
     "attori": [
@@ -6465,7 +6451,6 @@
     "generi": [
       "14+",
       "Commedia",
-      "Mini Drama",
       "Romantico",
       "Fantasy"
     ],
@@ -6567,8 +6552,7 @@
     "generi": [
       "14+",
       "Romantico",
-      "Fantasy",
-      "Mini Drama"
+      "Fantasy"
     ],
     "attori": [
       "Lee Soo-hyuk",
