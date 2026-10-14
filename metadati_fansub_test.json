@@ -1,5 +1,33 @@
 [
   {
+    "id_progetto": "film-corea-hope-sub-ita-2026-001",
+    "tipo": "film",
+    "titolo": "Hope sub ita (2026)",
+    "descrizione": "Gli abitanti del porto di Hopo conducono una vita tranquilla ai margini di una cittadina remota. Quando ai bordi del paese viene fatta una scoperta misteriosa, la loro quotidianità viene travolta. Ben presto i residenti si ritrovano a combattere per la sopravvivenza contro qualcosa che non hanno mai incontrato prima... qualcosa che non riescono nemmeno a comprendere...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "14+",
+      "Azione",
+      "Mistero",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "attori": [
+      "Hwang Jung Min",
+      "Zo In Sung",
+      "Jung Ho Yeon",
+      "Jang Yoo",
+      "Eum Moon Suk",
+      "Im Hyun Shik"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/hope.2026.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Hope.2026.mp4"
+    }
+  },
+  {
     "id_progetto": "drama-corea-kidnap-game-sub-ita-2026-001",
     "tipo": "serie",
     "titolo": "kiDnap GAME sub ita (2026)",
