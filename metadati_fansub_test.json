@@ -1,5 +1,52 @@
 [
   {
+    "id_progetto": "drama-corea-between-steps-sub-ita-2026-001",
+    "tipo": "serie",
+    "titolo": "Between Steps sub ita (2026)",
+    "descrizione": "Park Min Jae era un nuotatore di talento fino a quando un osteosarcoma non gli ha portato via la gamba destra e il suo sogno. Rialzatosi dal fondo, ha trovato un nuovo scopo nella robotica e ora è dottorando in ingegneria meccanica alla Seoul National University. Im Yu Jin era sul punto di laurearsi in tessile e moda quando un imprevisto manda in fumo i suoi piani. Affascinata dalla ricerca di Min Jae, cambia tutto e si iscrive al master in ingegneria... portando con sé una nuova direzione, e forse qualcosa di più...",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Disabilità",
+      "Gioventù",
+      "Vita",
+      "Romantico",
+      "Scolastico",
+      "ONAIR"
+    ],
+    "attori": [
+      "Choo Young Woo",
+      "Kim So Hyun",
+      "Kim Min Seok",
+      "Shim Hye Jin",
+      "Seo Jung Yeon",
+      "Park Hyuk Kwon"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/L2DyQ7_4f.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 01",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/between.steps/Between.Steps.01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 02",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/between.steps/Between.Steps.02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 03",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/between.steps/Between.Steps.03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 04",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/between.steps/Between.Steps.04.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "film-corea-a-moment-to-remember-sub-ita-2004-001",
     "tipo": "film",
     "titolo": "A Moment to Remember sub ita (2004)",
