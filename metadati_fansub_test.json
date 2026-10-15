@@ -1,5 +1,32 @@
 [
   {
+    "id_progetto": "film-corea-a-moment-to-remember-sub-ita-2004-001",
+    "tipo": "film",
+    "titolo": "A Moment to Remember sub ita (2004)",
+    "descrizione": "Su Jin, fashion designer di 27 anni, entra in un minimarket per comprare una Coca Cola ma la dimentica sul bancone. Tornando indietro a prenderla, si scontra con Chul Soo, un carpentiere con il sogno di diventare architetto. I due si rincontrano per caso su un cantiere e tra loro nasce un amore travolgente. Ma Su Jin dovrà presto fare i conti con una verità devastante che minaccia di cancellare tutto... persino i ricordi di lui...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Live Action",
+      "Romantico"
+    ],
+    "attori": [
+      "ung Woo Sung",
+      "Son Ye Jin",
+      "Baek Jong Hak",
+      "Lee Seon Jin",
+      "Park Sang Gyu",
+      "Kim Hee Ryeong"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/a.moment.to_.remember.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/A.Moment.to.Remember.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-hope-sub-ita-2026-001",
     "tipo": "film",
     "titolo": "Hope sub ita (2026)",
