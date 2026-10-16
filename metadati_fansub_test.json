@@ -1,5 +1,33 @@
 [
   {
+    "id_progetto": "film-corea-seleziona-beauty-water-sub-ita-2020-001",
+    "tipo": "film",
+    "titolo": "Seleziona Beauty Water sub ita (2020)\t Beauty Water sub ita (2020)",
+    "descrizione": "Yae-ji è una make-up artist sovrappeso che viene ridicolizzata sui social per il suo aspetto. Un giorno scopre la “Beauty Water”, un’acqua cosmetica misteriosa che permette di modellare la propria pelle come argilla, ridisegnando il proprio corpo a piacimento. Quello che sembra un miracolo si rivela ben presto un incubo — perché il desiderio di essere bella non ha mai fine...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "18+",
+      "Animazione",
+      "Horror",
+      "Soprannaturale",
+      "Thriller"
+    ],
+    "attori": [
+      "Moon Nam-sook",
+      "Jang Min-hyeok",
+      "Jo Hyeon-jeong",
+      "Kim Bo-yeong",
+      "Choi Seung-hoon",
+      "Kim So-hyeong"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/Beauty_Water.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Beauty.Water.mp4"
+    }
+  },
+  {
     "id_progetto": "drama-corea-between-steps-sub-ita-2026-001",
     "tipo": "serie",
     "titolo": "Between Steps sub ita (2026)",
