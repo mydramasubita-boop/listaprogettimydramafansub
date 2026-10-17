@@ -1,5 +1,33 @@
 [
   {
+    "id_progetto": "film-corea-the-world-of-love-sub-ita-2025-001",
+    "tipo": "film",
+    "titolo": "The World Of Love sub ita (2025)",
+    "descrizione": "Lee Ju In ha 18 anni e una vita che sembra ordinaria. Poi, in un giorno qualunque, accade qualcosa di inaspettato — qualcosa che la costringe a guardare il mondo attorno a lei in modo completamente diverso. Un film potente e delicato sul dolore nascosto, sul bisogno di essere visti, e sulla scelta di continuare a vivere anche quando sembra impossibile.\n\n⚠️ Attenzione: il film affronta tematiche mature e sensibili. Consigliato a un pubblico adulto consapevole.",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "18+",
+      "Abusi",
+      "Drammatico",
+      "Gioventù",
+      "Sociale"
+    ],
+    "attori": [
+      "eo Su Bin",
+      "Jang Hye Jin",
+      "Kim Jung Sik",
+      "Go Min Si",
+      "Kang Chae Won",
+      "Kim Suk Hoon"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/ABOBwX_4f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/The.World.Of.Love.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-seleziona-beauty-water-sub-ita-2020-001",
     "tipo": "film",
     "titolo": "Seleziona Beauty Water sub ita (2020)\t Beauty Water sub ita (2020)",
