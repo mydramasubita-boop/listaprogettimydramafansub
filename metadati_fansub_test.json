@@ -1,5 +1,38 @@
 [
   {
+    "id_progetto": "drama-corea-final-table-sub-ita-2026-001",
+    "tipo": "serie",
+    "titolo": "Final Table sub ita (2026)",
+    "descrizione": "Choi Song I gestisce il ristorante di famiglia “Familia” dopo la scomparsa improvvisa del padre. Per salvarlo dalla chiusura, decide di partecipare a “The Table: K-Chef 2026”, una competizione di cucina ad alto rischio per incoronare il miglior chef coreano. Lì incontra Kang Han — detto “Chris K” — uno chef coreano di fama internazionale che cela una storia personale legata proprio al ristorante che lei sta cercando di salvare. Di fronte a loro, il rivale spietato Cha Woo Jin non ha intenzione di cedere...",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Cucina",
+      "ONAIR",
+      "Vita",
+      "Romantico"
+    ],
+    "attori": [
+      "Ahn Hyo Seop",
+      "Hong Hwa Yeon",
+      "Chang Ryul",
+      "Jung Yoo Jin",
+      "Jang Young Nam",
+      "Cha Ji Yeon"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/final.table_.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "01",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/final.table/final.table.01.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "film-corea-the-world-of-love-sub-ita-2025-001",
     "tipo": "film",
     "titolo": "The World Of Love sub ita (2025)",
