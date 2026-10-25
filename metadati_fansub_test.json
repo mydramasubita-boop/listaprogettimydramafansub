@@ -1,5 +1,99 @@
 [
   {
+    "id_progetto": "drama-corea-chicago-typewriter-sub-ita-2017-001",
+    "tipo": "serie",
+    "titolo": "Chicago Typewriter sub ita (2017)",
+    "descrizione": "Han Se-ju è un famoso autore di romanzi thriller, ma, quando un suo fan uccide la propria famiglia prendendo spunto dai suoi libri, cade in depressione e gli viene il blocco dello scrittore. Mentre cerca di superarlo, riceve in regalo una macchina da scrivere da Chicago e iniziano ad apparirgli delle visioni della sua vita precedente durante l'occupazione giapponese degli Anni Trenta...",
+    "macro_categoria": "drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Drammatico",
+      "Fantasy",
+      "Romantico",
+      "Soprannaturale",
+      "Storico"
+    ],
+    "attori": [
+      "Yoo Ah-in",
+      "Lim Soo-jung",
+      "Go Kyung-pyo",
+      "Kwak Shi-yang",
+      "Jo Woo-jin",
+      "Oh Na-ra"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/chicago.typewriter.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.02.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 3",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.03.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 4",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.04.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 5",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.05.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 6",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.06.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 7",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.07.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 8",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.08.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 9",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.09.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 10",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.10.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 11",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.11.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 12",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.12.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 13",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.13.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 14",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.14.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 15",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.15.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 16",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/chicago.typewriter/Chicago.Typewriter.16.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "drama-corea-final-table-sub-ita-2026-001",
     "tipo": "serie",
     "titolo": "Final Table sub ita (2026)",
