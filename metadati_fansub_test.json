@@ -28,19 +28,17 @@
         {
           "titolo_episodio": "01",
           "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/final.table/final.table.01.mp4"
+        },
+        {
+          "titolo_episodio": "02",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/final.table/final.table.02.mp4"
+        },
+        {
+          "titolo_episodio": "03",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/final.table/final.table.03.mp4"
         }
       ]
-    },
-    "episodi": [
-      {
-        "titolo": "Episodio 1",
-        "url": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/final.table/final.table.02.mp4"
-      },
-      {
-        "titolo": "Episodio 2",
-        "url": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/DRAMA/COREA/final.table/final.table.03.mp4"
-      }
-    ]
+    }
   },
   {
     "id_progetto": "film-corea-the-world-of-love-sub-ita-2025-001",
