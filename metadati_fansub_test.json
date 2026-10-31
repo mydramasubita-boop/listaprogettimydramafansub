@@ -1,5 +1,32 @@
 [
   {
+    "id_progetto": "film-corea-holy-night-demon-hunters-sub-ita-001",
+    "tipo": "film",
+    "titolo": "Holy Night: Demon Hunters sub ita",
+    "descrizione": "Holy Night è una squadra che combatte i gruppi di adoratori di demoni. I suoi membri sono Bau, dotato di una forza fisica straordinaria, Sharon, capace di riconoscere i demoni e di praticare esorcismi, e Kim Gun, che li affianca. Quando la psichiatra Jung Won chiede aiuto per salvare la sorella minore Eun Seo, nel cui corpo si è insediato un demone, la squadra si trova davanti a una forza oscura mai affrontata prima...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "14+",
+      "Azione",
+      "Horror",
+      "Soprannaturale",
+      "Possessione"
+    ],
+    "attori": [
+      "Ma Dong Seok",
+      "Seohyun",
+      "Lee David",
+      "Kyung Soo Jin",
+      "Jung Ji So"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/NdX4De_3f.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Holy.Night.Demon.Hunters.mp4"
+    }
+  },
+  {
     "id_progetto": "drama-corea-chicago-typewriter-sub-ita-2017-001",
     "tipo": "serie",
     "titolo": "Chicago Typewriter sub ita (2017)",
