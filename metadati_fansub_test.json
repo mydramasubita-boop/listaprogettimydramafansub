@@ -1,5 +1,33 @@
 [
   {
+    "id_progetto": "film-corea-dark-nuns-sub-ita-2025-001",
+    "tipo": "film",
+    "titolo": "Dark Nuns sub ita (2025)",
+    "descrizione": "Il giovane Hee Joon è posseduto da un’entità maligna. Suor Junia è determinata a salvarlo e viene aiutata da Suor Michaela, che decide di sostenerla nonostante il caos che le circonda. Padre Paolo, psichiatra, è convinto di poterlo curare con la medicina, mentre Padre Andrea tenta di liberarlo con gli esorcismi...",
+    "macro_categoria": "film",
+    "sub_categoria": "Corea",
+    "generi": [
+      "14+",
+      "Horror",
+      "Thriller",
+      "Soprannaturale",
+      "Possessione",
+      "Religioso"
+    ],
+    "attori": [
+      "Song Hye Kyo",
+      "Jeon Yeo Been",
+      "Lee Jin Wook",
+      "Huh Joon Ho",
+      "Moon Woo Jin"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/10/dark-nuns.jpg",
+    "video_data": {
+      "is_serie": false,
+      "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/FILM/COREA/Dark.Nuns.mp4"
+    }
+  },
+  {
     "id_progetto": "film-corea-holy-night-demon-hunters-sub-ita-001",
     "tipo": "film",
     "titolo": "Holy Night: Demon Hunters sub ita",
