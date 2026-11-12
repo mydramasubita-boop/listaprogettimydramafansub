@@ -1,5 +1,43 @@
 [
   {
+    "id_progetto": "mini-corea-francesca-next-door-sub-ita-2026-001",
+    "tipo": "serie",
+    "titolo": "Francesca Next Door sub ita (2026)",
+    "descrizione": "Na Yeong è una vampira trasferita dalla Romania in una scuola coreana. Zero abilità sociali, zero buon senso, ma anche zero cattiveria: non riesce ad adattarsi al mondo degli umani e combina guai ovunque. Finché non incontra U Ju, il rappresentante di classe a cui viene affidata, e per la prima volta sente il cuore battere all’impazzata. Una giovane vampira che si innamora di un umano, un altro vampiro che risveglia i suoi istinti: una storia d’amore dolce e pericolosa, in bilico tra sentimento e istinto...",
+    "macro_categoria": "mini-e-web-drama",
+    "sub_categoria": "COREA",
+    "generi": [
+      "14+",
+      "Commedia",
+      "Fantasy",
+      "Gioventù",
+      "ONAIR",
+      "Romantico"
+    ],
+    "attori": [
+      "Han Soo A",
+      "Kim Hyun Jin",
+      "Lee Seung Gyu",
+      "Jo Yeon Ji",
+      "Lee A Ra",
+      "Chun Myung Woo"
+    ],
+    "url_poster_verticale": "https://mydrama.altervista.org/wp-content/uploads/2026/11/KnpVR0_4f.jpg",
+    "video_data": {
+      "is_serie": true,
+      "episodi": [
+        {
+          "titolo_episodio": "Episodio 1",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/francesca/francesca.01.mp4"
+        },
+        {
+          "titolo_episodio": "Episodio 2",
+          "url_video": "https://wh1373514.ispot.cc/wp/wp-content/MY%20DRAMA%20TV/MINI%20WEB%20DRAMA/COREA/francesca/francesca.02.mp4"
+        }
+      ]
+    }
+  },
+  {
     "id_progetto": "film-corea-gonjiam-haunted-asylum-sub-ita-2018-001",
     "tipo": "film",
     "titolo": "Gonjiam: Haunted Asylum sub ita (2018)",
